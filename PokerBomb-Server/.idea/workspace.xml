@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="476390b0-4dce-4674-8706-cc9c810d2b00" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\MavenTools\MavenRepository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../../../Utils/MavenTools/apache-maven-3.3.9-bin/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\MavenTools\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="2LtwBmNTeh7HgtesoBwe9IK0s6T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../../Projects/IdeaProjects/subtlechat-mini" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="module.pokerbomb.to" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\PokerBombServer\PokerBomb-hall\src\main\resources" />
+      <recent name="D:\IdeaProjects\PokerBombServer\PokerBomb-hall\src\main\java\module" />
+      <recent name="D:\IdeaProjects\PokerBombServer\PokerBomb-hall\src\main\java" />
+      <recent name="D:\IdeaProjects\PokerBombServer\src\main\java\module\pokerbomb" />
+      <recent name="D:\IdeaProjects\PokerBombServer\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\PokerBombServer\PokerBomb-login" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="module.pokerbomb.service.impl" />
+      <recent name="module.pokerbomb.service" />
+      <recent name="module.pokerbomb.server" />
+      <recent name="module.pokerbomb.entity" />
+      <recent name="module.pokerbomb.dao" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.PokerBombApplication">
+    <configuration name="CardService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module.pokerbomb.service.CardService" />
+      <module name="PokerBomb-hall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module.pokerbomb.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PokerBombApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module.pokerbomb.PokerBombApplication" />
+      <module name="PokerBomb-hall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module.pokerbomb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PokerBomb-hall" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PokerBomb-hall" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PokerBombApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="PokerBomb-hall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module.pokerbomb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="module.pokerbomb.PokerBombApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CardService" />
+      <item itemvalue="Application.PokerBombApplication" />
+      <item itemvalue="JUnit.MainTest.test1" />
+      <item itemvalue="JUnit.MainTest.test2" />
+      <item itemvalue="Spring Boot.PokerBombApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.PokerBombApplication" />
+        <item itemvalue="Application.CardService" />
+        <item itemvalue="JUnit.MainTest.test2" />
+        <item itemvalue="JUnit.MainTest.test1" />
+        <item itemvalue="Application.PokerBombApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="476390b0-4dce-4674-8706-cc9c810d2b00" name="Changes" comment="" />
+      <created>1676703556766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676703556766</updated>
+      <workItem from="1676703558127" duration="154000" />
+      <workItem from="1676703721391" duration="15776000" />
+      <workItem from="1676785368635" duration="3215000" />
+      <workItem from="1676808564041" duration="2615000" />
+      <workItem from="1676966365031" duration="9126000" />
+      <workItem from="1677045010250" duration="4099000" />
+      <workItem from="1677077016854" duration="703000" />
+      <workItem from="1677079419713" duration="699000" />
+      <workItem from="1677131000726" duration="21820000" />
+      <workItem from="1677306261106" duration="5878000" />
+      <workItem from="1677424394671" duration="4886000" />
+      <workItem from="1677472046026" duration="982000" />
+      <workItem from="1677476139527" duration="107000" />
+      <workItem from="1677487054328" duration="619000" />
+      <workItem from="1677487689414" duration="1856000" />
+      <workItem from="1677493205157" duration="1768000" />
+      <workItem from="1677572791685" duration="369000" />
+      <workItem from="1677574175474" duration="4024000" />
+      <workItem from="1677596147629" duration="1672000" />
+      <workItem from="1677641287135" duration="578000" />
+      <workItem from="1677641889727" duration="151000" />
+      <workItem from="1677642058314" duration="1170000" />
+      <workItem from="1677666900674" duration="3977000" />
+      <workItem from="1677739689177" duration="15149000" />
+      <workItem from="1677830923074" duration="8693000" />
+      <workItem from="1678002570244" duration="8687000" />
+      <workItem from="1678030794745" duration="589000" />
+      <workItem from="1678084216551" duration="11008000" />
+      <workItem from="1678177298344" duration="4293000" />
+      <workItem from="1678190391558" duration="1843000" />
+      <workItem from="1678260123376" duration="1478000" />
+      <workItem from="1678291545159" duration="1488000" />
+      <workItem from="1678349432225" duration="1212000" />
+      <workItem from="1678708239872" duration="4871000" />
+      <workItem from="1678723132905" duration="2019000" />
+      <workItem from="1678779769239" duration="5626000" />
+      <workItem from="1678786357777" duration="6129000" />
+      <workItem from="1678793528590" duration="2497000" />
+      <workItem from="1678867379742" duration="17033000" />
+      <workItem from="1678957201101" duration="599000" />
+      <workItem from="1678957822202" duration="56991000" />
+      <workItem from="1679472059615" duration="4114000" />
+      <workItem from="1679823944464" duration="3240000" />
+      <workItem from="1679903251693" duration="1215000" />
+      <workItem from="1679930620327" duration="715000" />
+      <workItem from="1679989379826" duration="3027000" />
+      <workItem from="1680084929319" duration="5068000" />
+      <workItem from="1680162837682" duration="1407000" />
+      <workItem from="1680164437246" duration="3283000" />
+      <workItem from="1680254577224" duration="2259000" />
+      <workItem from="1680518288605" duration="155000" />
+      <workItem from="1680519539817" duration="4051000" />
+      <workItem from="1680600006800" duration="4360000" />
+      <workItem from="1680681213308" duration="12960000" />
+      <workItem from="1680765875687" duration="11669000" />
+      <workItem from="1680857967567" duration="3754000" />
+      <workItem from="1681045045758" duration="12000" />
+      <workItem from="1681045074541" duration="622000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PokerBomb-login/src/main/java/module/pokerbomb/server/LoginSocketServer.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "数字背景框",
+    "atlas": "",
+    "rect": {
+      "x": 12,
+      "y": 13,
+      "width": 207,
+      "height": 92
+    },
+    "offset": {
+      "x": -2.5,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 236,
+      "height": 117
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "6e7e57af-4f13-494b-aaf7-11ee1b92d7c6@6c48a",
+    "packable": true
+  }
+}

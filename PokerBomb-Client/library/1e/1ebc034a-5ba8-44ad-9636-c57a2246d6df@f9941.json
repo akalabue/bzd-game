@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "要不起",
+    "atlas": "",
+    "rect": {
+      "x": 4,
+      "y": 2,
+      "width": 85,
+      "height": 23
+    },
+    "offset": {
+      "x": 0,
+      "y": -1
+    },
+    "originalSize": {
+      "width": 93,
+      "height": 25
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "1ebc034a-5ba8-44ad-9636-c57a2246d6df@6c48a",
+    "packable": true
+  }
+}

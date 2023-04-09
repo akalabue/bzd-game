@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qipai",
+    "atlas": "2c916504-064d-4f2d-942e-88abf70b427e",
+    "rect": {
+      "x": 873,
+      "y": 324,
+      "width": 149,
+      "height": 84
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 149,
+      "height": 84
+    },
+    "rotated": true,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "61046ef9-cf4c-4851-918d-f51158ebf6f0@6c48a",
+    "packable": true
+  }
+}

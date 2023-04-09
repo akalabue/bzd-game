@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "角色2",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 5,
+      "width": 365,
+      "height": 581
+    },
+    "offset": {
+      "x": 0,
+      "y": 1
+    },
+    "originalSize": {
+      "width": 365,
+      "height": 593
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "7d731249-d030-4974-9b45-dd5f08a0d190@6c48a",
+    "packable": true
+  }
+}

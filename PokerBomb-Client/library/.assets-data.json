@@ -1,0 +1,1390 @@
+{
+  "074be72e-4115-42c9-9da9-684f24266e4c": {
+    "url": "db://assets/Scenes",
+    "value": {}
+  },
+  "947ede48-f94c-4ffa-94ae-5ba4d389f1bf": {
+    "url": "db://assets/Script",
+    "value": {}
+  },
+  "1d99e3bb-8691-4f4d-8c1e-32214a129f94": {
+    "url": "db://assets/resources",
+    "value": {}
+  },
+  "651e8837-0467-49d9-aecc-1295488f4b29": {
+    "url": "db://assets/Scenes/LoginScene.scene",
+    "value": {}
+  },
+  "6325b261-5097-4443-b99e-0f0a78fa11b2": {
+    "url": "db://assets/resources/image",
+    "value": {}
+  },
+  "c95a7efa-9d75-4efe-b3ab-677777f1a592": {
+    "url": "db://assets/resources/image/guestLogin1.png",
+    "value": {}
+  },
+  "77c8fd7d-fecb-48bb-8926-2590412e4167": {
+    "url": "db://assets/resources/image/loginBg.png",
+    "value": {}
+  },
+  "eb6ba69b-e1ea-456d-b7d8-6f85301deb08": {
+    "url": "db://assets/resources/image/vxLogin.png",
+    "value": {}
+  },
+  "2cece90f-0fd5-419e-b59a-6c6d1e81e104": {
+    "url": "db://assets/Script/LoginSceneMgt.ts",
+    "value": {}
+  },
+  "a5e56584-5574-44e8-bbb0-2454a5e3d958": {
+    "url": "db://assets/Script/loginScene/LoginClient.ts",
+    "value": {}
+  },
+  "771c7bef-b358-4f15-94d6-04b88b196dbe": {
+    "url": "db://assets/Scenes/HallScene.scene",
+    "value": {}
+  },
+  "ad450072-0265-46ae-8552-498f2b8ac2a8": {
+    "url": "db://assets/Script/common/UserInfo.ts",
+    "value": {}
+  },
+  "1967dfa1-66e5-46c6-8729-892357f0f69a": {
+    "url": "db://assets/Script/hallScene/HallSceneMgt.ts",
+    "value": {}
+  },
+  "07e445ce-dde7-4c81-944f-bc98c764644d": {
+    "url": "db://assets/Script/hallScene/HallClient.ts",
+    "value": {}
+  },
+  "a9524566-bd21-415d-a7ea-e035f9dc33eb": {
+    "url": "db://assets/Script/loginScene/LoginScene.ts",
+    "value": {}
+  },
+  "fdc24fb2-72e3-4e16-acb1-218211b261eb": {
+    "url": "db://assets/prefabs",
+    "value": {}
+  },
+  "5753a0b4-ff72-4dd8-8423-0f1f3e030b17": {
+    "url": "db://assets/prefabs/createRoom.prefab",
+    "value": {}
+  },
+  "e3e6c74c-b1ef-4785-81da-566bf8700ef3": {
+    "url": "db://assets/Script/loginScene",
+    "value": {}
+  },
+  "194f3657-e3a6-496c-a9e1-13978731e147": {
+    "url": "db://assets/Script/hallScene",
+    "value": {}
+  },
+  "0cb03157-7d94-4d2c-8678-dd6da224e5ea": {
+    "url": "db://assets/Script/common",
+    "value": {}
+  },
+  "cbda93b8-0f9f-4bce-96be-2eb927d12bea": {
+    "url": "db://assets/Script/hallScene/createRoom.ts",
+    "value": {}
+  },
+  "e84bc3af-a7b4-45f2-8219-2387d9a034e3": {
+    "url": "db://assets/resources/image/海景背景图.jpg",
+    "value": {}
+  },
+  "2cee01a2-c861-48d6-a3e1-06099cef486a": {
+    "url": "db://assets/resources/image/haijingbg.jpg",
+    "value": {}
+  },
+  "595c8eb6-a03e-450a-8482-3e523b4764d8": {
+    "url": "db://assets/resources/image/haijingbg.png",
+    "value": {}
+  },
+  "ca0e59b8-c932-4f15-99b6-f0251df9a1a1": {
+    "url": "db://assets/Scenes/games",
+    "value": {}
+  },
+  "b2c81fcf-9bf3-4874-bea1-45433a783415": {
+    "url": "db://assets/Scenes/games/bazhadan.scene",
+    "value": {}
+  },
+  "4ad85065-aa02-40dd-97d0-d3c13523037f": {
+    "url": "db://assets/resources/image/bazhadan",
+    "value": {}
+  },
+  "b4a2722a-e3e8-4a87-9953-9388bfe54915": {
+    "url": "db://assets/resources/image/games",
+    "value": {}
+  },
+  "992c56fc-e313-435e-992c-0f418e3d256b": {
+    "url": "db://assets/resources/image/games/bazhadan",
+    "value": {}
+  },
+  "954cc222-19c9-4602-819a-3bad5f92382f": {
+    "url": "db://assets/resources/image/games/bazhadan/海景背景图.jpg",
+    "value": {}
+  },
+  "ef615f97-5143-4985-b5dd-a3c0ff2ad415": {
+    "url": "db://assets/resources/image/games/bazhadan/牌桌图片.jpg",
+    "value": {}
+  },
+  "7e1db85c-35fa-45ae-a223-beb9f131a7f3": {
+    "url": "db://assets/resources/image/games/bazhadan/round.png",
+    "value": {}
+  },
+  "f382f538-b7e3-4ec0-9edf-9bf3b2fe53c8": {
+    "url": "db://assets/resources/image/games/bazhadan/poker_bg1.jpg",
+    "value": {}
+  },
+  "1cdc3fb2-4f1f-4804-b3a1-b8c4990e28c2": {
+    "url": "db://assets/resources/image/games/bazhadan/house.png",
+    "value": {}
+  },
+  "2c40ed7d-8a9e-4b25-9a1e-a4718522e959": {
+    "url": "db://assets/Script/games",
+    "value": {}
+  },
+  "6af35d18-78dc-416b-bf1f-36704e88c78b": {
+    "url": "db://assets/Script/games/bazhadan",
+    "value": {}
+  },
+  "2144f1e9-0fd1-4949-8a08-c5f91b7b7790": {
+    "url": "db://assets/Script/games/bazhadan/BZDSceneMgt.ts",
+    "value": {}
+  },
+  "7cd740f2-9349-4c22-b7fe-a708e44a0f87": {
+    "url": "db://assets/Script/games/bazhadan/BZDClient.ts",
+    "value": {}
+  },
+  "c96097fa-916b-47a8-8b84-ec10fbe2bdf9": {
+    "url": "db://assets/prefabs/headNode.prefab",
+    "value": {}
+  },
+  "a7437b78-4e4c-4a02-b306-b6dfe6703d39": {
+    "url": "db://assets/resources/image/games/bazhadan/bg_xiazhu.png",
+    "value": {}
+  },
+  "4478bbf1-b1ec-4fe7-b62c-26e12c53176e": {
+    "url": "db://assets/resources/image/games/bazhadan/touxiangyuanjiao.png",
+    "value": {}
+  },
+  "0df4e975-3de9-4978-b7ce-cb86c8e1d533": {
+    "url": "db://assets/resources/image/games/bazhadan/offline.png",
+    "value": {}
+  },
+  "19073052-fc09-4fe5-a35c-40cfa30cc9f2": {
+    "url": "db://assets/resources/image/games/bazhadan/ready_ok.png",
+    "value": {}
+  },
+  "890a5a87-a6d5-451c-8ceb-d8fe3a853b51": {
+    "url": "db://assets/resources/image/games/bazhadan/card",
+    "value": {}
+  },
+  "44d6f726-7c0c-481a-aceb-f5429c562bd7": {
+    "url": "db://assets/resources/image/games/bazhadan/card/0.png",
+    "value": {}
+  },
+  "b151fd44-8d3d-43d4-801d-94a325d63f57": {
+    "url": "db://assets/resources/image/games/bazhadan/card/104.png",
+    "value": {}
+  },
+  "b18c179b-0e9f-477b-92a8-bc133cb21a07": {
+    "url": "db://assets/resources/image/games/bazhadan/card/105.png",
+    "value": {}
+  },
+  "a8b869d8-a24a-4e53-8720-dd5feb63fc1b": {
+    "url": "db://assets/resources/image/games/bazhadan/card/106.png",
+    "value": {}
+  },
+  "482436a3-b62c-4dbe-b5ba-5f85164d21f0": {
+    "url": "db://assets/resources/image/games/bazhadan/card/107.png",
+    "value": {}
+  },
+  "cad0e56d-77a8-4440-862b-280dfe25de66": {
+    "url": "db://assets/resources/image/games/bazhadan/card/108.png",
+    "value": {}
+  },
+  "5b02093b-864f-44c7-b63b-91293cdbef09": {
+    "url": "db://assets/resources/image/games/bazhadan/card/109.png",
+    "value": {}
+  },
+  "c27d45a4-423b-46ef-930d-49b34867633b": {
+    "url": "db://assets/resources/image/games/bazhadan/card/110.png",
+    "value": {}
+  },
+  "01a1e8ec-be70-415e-a55f-015959ff37e6": {
+    "url": "db://assets/resources/image/games/bazhadan/card/111.png",
+    "value": {}
+  },
+  "0954247b-2a4c-433c-952b-d05145f7533b": {
+    "url": "db://assets/resources/image/games/bazhadan/card/112.png",
+    "value": {}
+  },
+  "8f5d6e66-2748-4145-bfbb-e2080987cc0e": {
+    "url": "db://assets/resources/image/games/bazhadan/card/113.png",
+    "value": {}
+  },
+  "904db29b-15c3-45d2-b9fd-822e55bc904f": {
+    "url": "db://assets/resources/image/games/bazhadan/card/114.png",
+    "value": {}
+  },
+  "a0384a37-cc19-4eac-85d6-51c11ba059f9": {
+    "url": "db://assets/resources/image/games/bazhadan/card/115.png",
+    "value": {}
+  },
+  "e7aed864-400e-496f-bef5-3a15a8f34542": {
+    "url": "db://assets/resources/image/games/bazhadan/card/203.png",
+    "value": {}
+  },
+  "99d44565-67b1-464c-94d9-dc7736f83a00": {
+    "url": "db://assets/resources/image/games/bazhadan/card/204.png",
+    "value": {}
+  },
+  "a86105f8-1591-4c73-8e77-1945a2be64a7": {
+    "url": "db://assets/resources/image/games/bazhadan/card/205.png",
+    "value": {}
+  },
+  "d6dfa0f3-fede-4911-8ced-1680b842fcdc": {
+    "url": "db://assets/resources/image/games/bazhadan/card/206.png",
+    "value": {}
+  },
+  "6325164f-4417-41fd-9671-709c381fe8c5": {
+    "url": "db://assets/resources/image/games/bazhadan/card/207.png",
+    "value": {}
+  },
+  "1c622f57-c6d1-44b4-b7d3-d76d6b6d60ed": {
+    "url": "db://assets/resources/image/games/bazhadan/card/208.png",
+    "value": {}
+  },
+  "1604f268-d397-4da7-ae6d-33c7b29186bb": {
+    "url": "db://assets/resources/image/games/bazhadan/card/209.png",
+    "value": {}
+  },
+  "7240f712-2f2b-4de4-91b2-bcbd8be85e10": {
+    "url": "db://assets/resources/image/games/bazhadan/card/210.png",
+    "value": {}
+  },
+  "0b357104-0b53-45c0-ba18-f50f6515a9fc": {
+    "url": "db://assets/resources/image/games/bazhadan/card/211.png",
+    "value": {}
+  },
+  "99472f45-d02e-40a7-a1c5-66ddd763047d": {
+    "url": "db://assets/resources/image/games/bazhadan/card/212.png",
+    "value": {}
+  },
+  "c3a64333-bb67-41e7-95e1-3e6d3bf468dc": {
+    "url": "db://assets/resources/image/games/bazhadan/card/213.png",
+    "value": {}
+  },
+  "d6c1735d-094a-4df4-93a6-aacab0a3b2d6": {
+    "url": "db://assets/resources/image/games/bazhadan/card/214.png",
+    "value": {}
+  },
+  "db2aa090-5bdd-4b81-be2c-ba49b3037cec": {
+    "url": "db://assets/resources/image/games/bazhadan/card/215.png",
+    "value": {}
+  },
+  "6d880de7-5867-4033-9e17-44d32b93f00e": {
+    "url": "db://assets/resources/image/games/bazhadan/card/303.png",
+    "value": {}
+  },
+  "b2f8f649-b73a-499a-aa3d-a1b55cb49630": {
+    "url": "db://assets/resources/image/games/bazhadan/card/304.png",
+    "value": {}
+  },
+  "3eb9e429-68bc-40c6-b0a5-bf85adafc56e": {
+    "url": "db://assets/resources/image/games/bazhadan/card/305.png",
+    "value": {}
+  },
+  "2fd341ae-5b5f-40c4-bd30-05773c53a457": {
+    "url": "db://assets/resources/image/games/bazhadan/card/306.png",
+    "value": {}
+  },
+  "5b103a94-6c1a-47a2-8079-a8ec0ef26aa5": {
+    "url": "db://assets/resources/image/games/bazhadan/card/307.png",
+    "value": {}
+  },
+  "fbf9ddb0-de36-4ff6-9650-168ba24f1dda": {
+    "url": "db://assets/resources/image/games/bazhadan/card/308.png",
+    "value": {}
+  },
+  "2645147e-1744-4557-a31b-77a266566879": {
+    "url": "db://assets/resources/image/games/bazhadan/card/309.png",
+    "value": {}
+  },
+  "390559db-9f3a-4021-9ba7-0ca4f4d34817": {
+    "url": "db://assets/resources/image/games/bazhadan/card/310.png",
+    "value": {}
+  },
+  "cbe116ad-dfff-4f1f-9026-291b495e1a3d": {
+    "url": "db://assets/resources/image/games/bazhadan/card/311.png",
+    "value": {}
+  },
+  "56c5c1de-598e-4f17-a9f0-bb666cfc64a8": {
+    "url": "db://assets/resources/image/games/bazhadan/card/312.png",
+    "value": {}
+  },
+  "f234a8d7-9866-471b-bc5c-d257da885401": {
+    "url": "db://assets/resources/image/games/bazhadan/card/313.png",
+    "value": {}
+  },
+  "f5dc0c23-a46e-44b7-b48c-03a52747d694": {
+    "url": "db://assets/resources/image/games/bazhadan/card/314.png",
+    "value": {}
+  },
+  "fe06fd93-0078-483f-bae4-8fe78e1ebbaa": {
+    "url": "db://assets/resources/image/games/bazhadan/card/315.png",
+    "value": {}
+  },
+  "72ee12b9-c831-4615-b9c4-282a9fada30a": {
+    "url": "db://assets/resources/image/games/bazhadan/card/403.png",
+    "value": {}
+  },
+  "bd0e569e-217c-469b-aafd-6d4bcf588c4e": {
+    "url": "db://assets/resources/image/games/bazhadan/card/404.png",
+    "value": {}
+  },
+  "9656c5e5-cf90-4608-9431-7682127f21bb": {
+    "url": "db://assets/resources/image/games/bazhadan/card/405.png",
+    "value": {}
+  },
+  "1e7afa4c-a948-4ad1-90c6-596d477f8858": {
+    "url": "db://assets/resources/image/games/bazhadan/card/406.png",
+    "value": {}
+  },
+  "ef10103b-85d1-49eb-9c9d-d828d7fa56db": {
+    "url": "db://assets/resources/image/games/bazhadan/card/407.png",
+    "value": {}
+  },
+  "acf05154-648f-494d-b7ea-7d6a7bb4ebf7": {
+    "url": "db://assets/resources/image/games/bazhadan/card/408.png",
+    "value": {}
+  },
+  "16da3b8c-d69c-4c2a-81a2-87605b70bd59": {
+    "url": "db://assets/resources/image/games/bazhadan/card/409.png",
+    "value": {}
+  },
+  "20a2b71e-9c56-4cc0-9a63-8eff23e92fb9": {
+    "url": "db://assets/resources/image/games/bazhadan/card/410.png",
+    "value": {}
+  },
+  "73329351-b074-4197-9662-3ce04bac66e1": {
+    "url": "db://assets/resources/image/games/bazhadan/card/411.png",
+    "value": {}
+  },
+  "0c40bd7f-5700-4324-96fe-747601a43ef1": {
+    "url": "db://assets/resources/image/games/bazhadan/card/412.png",
+    "value": {}
+  },
+  "4f48db65-7f62-4df5-9313-72313b537f63": {
+    "url": "db://assets/resources/image/games/bazhadan/card/413.png",
+    "value": {}
+  },
+  "ca1c6bea-e1a5-4263-9954-64b76df5c891": {
+    "url": "db://assets/resources/image/games/bazhadan/card/414.png",
+    "value": {}
+  },
+  "21967e51-80ef-43c6-aefe-48c94a5e005e": {
+    "url": "db://assets/resources/image/games/bazhadan/card/415.png",
+    "value": {}
+  },
+  "0e892917-f0bf-429c-a46f-798b71aac65d": {
+    "url": "db://assets/resources/image/games/bazhadan/card/516.png",
+    "value": {}
+  },
+  "d78b6ec2-df86-408b-84bb-aaca27c79f4f": {
+    "url": "db://assets/resources/image/games/bazhadan/card/517.png",
+    "value": {}
+  },
+  "62a89e53-cda9-478a-a42c-d8e8b172d89f": {
+    "url": "db://assets/resources/image/games/bazhadan/card/518.png",
+    "value": {}
+  },
+  "92085f07-e457-4b05-a273-cbb711eed819": {
+    "url": "db://assets/resources/image/games/bazhadan/card/618.png",
+    "value": {}
+  },
+  "4e1f2df9-55be-44bb-8ae2-6a93c599845b": {
+    "url": "db://assets/resources/image/games/bazhadan/card/Cardback.png",
+    "value": {}
+  },
+  "ea515f0a-e4cc-4441-9f90-925f5a735061": {
+    "url": "db://assets/resources/image/games/bazhadan/card/ddzBack.png",
+    "value": {}
+  },
+  "70980976-fea3-4b55-934b-0ecd5e500238": {
+    "url": "db://assets/resources/image/games/bazhadan/card/front.png",
+    "value": {}
+  },
+  "686a2f91-8013-4f6d-8ba2-4c94c0a1f693": {
+    "url": "db://assets/resources/image/games/bazhadan/card/genzhu .png",
+    "value": {}
+  },
+  "c18a1218-6f0c-4021-97c8-bbb177ee347e": {
+    "url": "db://assets/resources/image/games/bazhadan/card/jiazhu .png",
+    "value": {}
+  },
+  "2068c1e7-fb4b-455b-bb09-411466398cfc": {
+    "url": "db://assets/resources/image/games/bazhadan/card/qipai.png",
+    "value": {}
+  },
+  "c8ca497c-fc21-49ef-a15a-36ab197bced4": {
+    "url": "db://assets/resources/image/games/bazhadan/card/shadow.png",
+    "value": {}
+  },
+  "95b07511-54bd-4bc4-b125-8ef9e55cc947": {
+    "url": "db://assets/resources/image/games/bazhadan/card/xiazhu .png",
+    "value": {}
+  },
+  "897820f5-d7f2-425d-b18b-386d6f0b9a9c": {
+    "url": "db://assets/resources/image/games/bazhadan/card/xiupai.png",
+    "value": {}
+  },
+  "c310f380-28ff-4630-952d-00e1c23a8ef9": {
+    "url": "db://assets/resources/image/games/bazhadan/card/103.png",
+    "value": {}
+  },
+  "2b5ec6fa-c132-45b0-ba13-49ef9b5a3574": {
+    "url": "db://assets/prefabs/cardNode.prefab",
+    "value": {}
+  },
+  "871c9338-cb39-4f85-838a-dcda2bb18d6d": {
+    "url": "db://assets/prefabs/joinRoom.prefab",
+    "value": {}
+  },
+  "0ffd23c0-983e-454b-b76f-5a71a11578e0": {
+    "url": "db://assets/Script/hallScene/joinRoom.ts",
+    "value": {}
+  },
+  "74e00419-bb70-4d13-992a-d510d7dc371d": {
+    "url": "db://assets/Script/common/GameRole.ts",
+    "value": {}
+  },
+  "8f704ccc-8fe9-4402-86cd-13d8f9dbfbec": {
+    "url": "db://assets/prefabs/PokerView.prefab",
+    "value": {}
+  },
+  "3c9d5e58-6ebc-4847-b2c2-325000d6a815": {
+    "url": "db://assets/prefabs/PokerView.prefab",
+    "value": {}
+  },
+  "1c169422-2e2c-4d79-9df1-f0d2aec05e34": {
+    "url": "db://assets/Script/games/bazhadan/Poker.ts",
+    "value": {}
+  },
+  "61046ef9-cf4c-4851-918d-f51158ebf6f0": {
+    "url": "db://assets/resources/image/games/bazhadan/card/pokerlist.png",
+    "value": {}
+  },
+  "2c916504-064d-4f2d-942e-88abf70b427e": {
+    "url": "db://assets/resources/image/games/bazhadan/card/pokerlist.plist",
+    "value": {}
+  },
+  "d0d46114-ad5f-4776-a1da-777a41a091e8": {
+    "url": "db://assets/Script/games/bazhadan/PokerCtr.ts",
+    "value": {}
+  },
+  "5e116747-37b3-4cfb-a8b6-b3fd76817f4f": {
+    "url": "db://assets/Script/common/PushCardVo.ts",
+    "value": {}
+  },
+  "db37cb43-4664-4d5e-bb38-171c8189946c": {
+    "url": "db://assets/Script/common/PushCardVo.ts",
+    "value": {}
+  },
+  "6ca5e065-4f51-436a-a5be-05e56021af55": {
+    "url": "db://assets/prefabs/Pushcards.prefab",
+    "value": {}
+  },
+  "b75b8942-4a12-4e1d-8f4a-03daf828d479": {
+    "url": "db://assets/prefabs/PushCardsView.prefab",
+    "value": {}
+  },
+  "930c68af-65b2-4969-8232-c3646f6cc489": {
+    "url": "db://assets/prefabs/Node.prefab",
+    "value": {}
+  },
+  "9523fc8d-2a6d-446e-817a-2759a58806a3": {
+    "url": "db://assets/prefabs/over.prefab",
+    "value": {}
+  },
+  "c22b9d9e-f0ff-42da-bb80-e15da59207d4": {
+    "url": "db://assets/resources/image/games/bazhadan/出牌.png",
+    "value": {}
+  },
+  "eeb4d732-5213-4ab7-8219-3bb29528f60b": {
+    "url": "db://assets/resources/image/games/bazhadan/出牌 拷贝.png",
+    "value": {}
+  },
+  "3b709f88-2ca4-403e-81ed-8d69aabb5e76": {
+    "url": "db://assets/resources/image/games/bazhadan/出牌.png",
+    "value": {}
+  },
+  "67e0abb3-62f9-494e-901a-526e7e36b2bf": {
+    "url": "db://assets/resources/image/games/bazhadan/不出.png",
+    "value": {}
+  },
+  "3a7242c2-a2fc-4666-a408-cdcd8044e2c7": {
+    "url": "db://assets/resources/image/games/bazhadan/准备.png",
+    "value": {}
+  },
+  "1ebc034a-5ba8-44ad-9636-c57a2246d6df": {
+    "url": "db://assets/resources/image/games/bazhadan/要不起.png",
+    "value": {}
+  },
+  "ef9400c0-ee37-444c-ad82-4c136582dc7b": {
+    "url": "db://assets/resources/image/games/bazhadan/退出.png",
+    "value": {}
+  },
+  "d3b5a3b3-3b29-4659-a700-90fbdfe640ab": {
+    "url": "db://assets/resources/image/games/bazhadan/关闭.png",
+    "value": {}
+  },
+  "e1ccc7fc-d64b-4e31-b105-18aa12247d27": {
+    "url": "db://assets/resources/image/games/bazhadan/返回.png",
+    "value": {}
+  },
+  "939d2ee6-f168-4730-bf35-e7f54b25a8e5": {
+    "url": "db://assets/resources/image/games/bazhadan/数字0.png",
+    "value": {}
+  },
+  "4f0cc6ef-5acb-43c1-ad22-73592aaef910": {
+    "url": "db://assets/resources/image/games/bazhadan/数字",
+    "value": {}
+  },
+  "0ad90b2a-c3a2-4a13-9c57-91f2fda30a83": {
+    "url": "db://assets/resources/image/games/bazhadan/数字/数字0.png",
+    "value": {}
+  },
+  "6e7e57af-4f13-494b-aaf7-11ee1b92d7c6": {
+    "url": "db://assets/resources/image/games/bazhadan/数字/数字背景框.png",
+    "value": {}
+  },
+  "9107cfb1-7655-4d8d-b28a-8c5935c00453": {
+    "url": "db://assets/resources/image/games/bazhadan/创建房间.png",
+    "value": {}
+  },
+  "42dfacd3-a57e-49dd-845a-52cf7c4028d5": {
+    "url": "db://assets/resources/image/games/bazhadan/背景框.jpg",
+    "value": {}
+  },
+  "30538905-8ed1-47d1-b6e1-1dd638891892": {
+    "url": "db://assets/resources/image/games/bazhadan/标题.png",
+    "value": {}
+  },
+  "a237424a-e2cc-4558-a0c6-30c53e16c912": {
+    "url": "db://assets/resources/image/主背景.jpg",
+    "value": {}
+  },
+  "62d8f0e6-9994-45fe-8854-8d5780c168b8": {
+    "url": "db://assets/resources/image/games/bazhadan/发牌.png",
+    "value": {}
+  },
+  "7db549d4-89f0-47e5-9075-e278b3322f49": {
+    "url": "db://assets/resources/image/games/bazhadan/取消.png",
+    "value": {}
+  },
+  "7d731249-d030-4974-9b45-dd5f08a0d190": {
+    "url": "db://assets/resources/image/games/bazhadan/角色2.png",
+    "value": {}
+  },
+  "d172d6a0-b797-4dc8-bb53-9e2f022d5e5e": {
+    "url": "db://assets/resources/image/games/bazhadan/角色3.png",
+    "value": {}
+  },
+  "3038eddd-cdec-484a-9fbf-f1b90ef1ad09": {
+    "url": "db://assets/resources/image/games/bazhadan/任务.png",
+    "value": {}
+  },
+  "a85f0fd2-2880-4365-b859-255440f76842": {
+    "url": "db://assets/resources/image/games/bazhadan/帮助.png",
+    "value": {}
+  },
+  "7a6f744d-4d8b-4c1e-ab77-81343799a209": {
+    "url": "db://assets/resources/image/games/bazhadan/活动.png",
+    "value": {}
+  },
+  "8fa0fba0-dcba-45cd-8345-8d291dfde1d4": {
+    "url": "db://assets/resources/image/games/bazhadan/设置.png",
+    "value": {}
+  },
+  "bfc63868-cb82-489e-a37d-1daaf2b42a5d": {
+    "url": "db://assets/resources/image/games/bazhadan/通知.png",
+    "value": {}
+  },
+  "72373f6c-6136-4d5f-8d36-66e065f9a55f": {
+    "url": "db://assets/resources/sound",
+    "value": {}
+  },
+  "b6c1490b-5336-4d1d-96fa-d8ea7aad850d": {
+    "url": "db://assets/resources/sound/大厅背景音乐.mp3",
+    "value": {}
+  },
+  "74e893a4-e25f-41ad-b0f8-6787e7ac3aaf": {
+    "url": "db://assets/resources/sound/欢乐斗地主背景音乐.mp3",
+    "value": {}
+  },
+  "80ed3f1f-58c2-49b8-870f-2bebe364d79d": {
+    "url": "db://assets/resources/sound/游戏场景音乐.ogg",
+    "value": {}
+  },
+  "8d715bb0-b1a7-492f-833f-b6cb519bc9bc": {
+    "url": "db://assets/Script/hallScene/HallSoundMgt.ts",
+    "value": {}
+  },
+  "4fea1659-5328-44e0-96ea-cf4e42789bb1": {
+    "url": "db://assets/resources/sound/DealFold.ogg",
+    "value": {}
+  },
+  "96102993-d658-45bf-b2f9-f65e002d9869": {
+    "url": "db://assets/resources/sound/Special_give.ogg",
+    "value": {}
+  },
+  "714dfc88-2d71-4d66-b27f-58a89fecbbfd": {
+    "url": "db://assets/resources/sound/SpecOk.ogg",
+    "value": {}
+  },
+  "2d96a140-412f-4809-b830-e309ae4731e8": {
+    "url": "db://assets/resources/sound/SpecSelectCard.ogg",
+    "value": {}
+  },
+  "476ad809-8505-4252-873c-883d69d7a535": {
+    "url": "db://assets/resources/sound/SpecSysReturnFail.ogg",
+    "value": {}
+  },
+  "ce7f2712-7741-4bab-86a2-fc988f6d36c9": {
+    "url": "db://assets/resources/sound/button.ogg",
+    "value": {}
+  },
+  "f3fbf2ec-ecd8-4b93-b38e-27ab86ac9398": {
+    "url": "db://assets/Script/games/bazhadan/BZDSoundMgt.ts",
+    "value": {}
+  },
+  "83ba7b99-b5b1-4e17-835a-c53eb9877c13": {
+    "url": "db://assets/resources/sound/Man",
+    "value": {}
+  },
+  "62161419-9fa6-421f-aa95-7e54f7d04693": {
+    "url": "db://assets/resources/sound/Woman",
+    "value": {}
+  },
+  "1921f389-e99e-46b8-bafe-b1e61be6ef91": {
+    "url": "db://assets/resources/sound/Man/Man_1.ogg",
+    "value": {}
+  },
+  "e08325ba-7a03-4732-b26b-94a570f8d97a": {
+    "url": "db://assets/resources/sound/Man/Man_10.ogg",
+    "value": {}
+  },
+  "456b37a0-fe70-473f-a34d-62735de501b4": {
+    "url": "db://assets/resources/sound/Man/Man_11.ogg",
+    "value": {}
+  },
+  "cc9a810b-d03c-4eec-b420-c00ba92b7872": {
+    "url": "db://assets/resources/sound/Man/Man_12.ogg",
+    "value": {}
+  },
+  "ce4fe2c3-4f4d-488b-aecc-3b9adb126973": {
+    "url": "db://assets/resources/sound/Man/Man_13.ogg",
+    "value": {}
+  },
+  "47657179-442a-49b8-9d4e-4c11e6a2d8ae": {
+    "url": "db://assets/resources/sound/Man/Man_14.ogg",
+    "value": {}
+  },
+  "1a9ec73e-8a71-449c-b7c3-596eff02929b": {
+    "url": "db://assets/resources/sound/Man/Man_15.ogg",
+    "value": {}
+  },
+  "458b78e6-f3ea-44ef-8a96-738e95d533a1": {
+    "url": "db://assets/resources/sound/Man/Man_2.ogg",
+    "value": {}
+  },
+  "f6ba0b70-7b41-4918-91f3-6f4215f85991": {
+    "url": "db://assets/resources/sound/Man/Man_3.ogg",
+    "value": {}
+  },
+  "98ae44dd-33bb-4086-ba08-2abb434583b1": {
+    "url": "db://assets/resources/sound/Man/Man_4.ogg",
+    "value": {}
+  },
+  "8d7932ec-880f-43ee-a0aa-d71d9048ea47": {
+    "url": "db://assets/resources/sound/Man/Man_5.ogg",
+    "value": {}
+  },
+  "629e9be7-9043-4b3d-9f54-62575ddb6b9a": {
+    "url": "db://assets/resources/sound/Man/Man_6.ogg",
+    "value": {}
+  },
+  "29089086-9d1b-4c83-b32a-4b3d33cb89be": {
+    "url": "db://assets/resources/sound/Man/Man_7.ogg",
+    "value": {}
+  },
+  "65917e95-e9ef-4e85-83a4-569419cb04c5": {
+    "url": "db://assets/resources/sound/Man/Man_8.ogg",
+    "value": {}
+  },
+  "24c3216e-7dda-4f3a-871c-e307f6fdea5d": {
+    "url": "db://assets/resources/sound/Man/Man_9.ogg",
+    "value": {}
+  },
+  "7ac2c149-236e-420a-a80d-815ea4f41b55": {
+    "url": "db://assets/resources/sound/Man/Man_baojing1.ogg",
+    "value": {}
+  },
+  "4a80e6db-0881-489f-beae-357430de4207": {
+    "url": "db://assets/resources/sound/Man/Man_baojing2.ogg",
+    "value": {}
+  },
+  "3b2dbf92-8b3a-46b7-a5c4-1025f33e1b53": {
+    "url": "db://assets/resources/sound/Man/Man_bujiabei.ogg",
+    "value": {}
+  },
+  "a3b7d7b7-4307-42ed-bf97-b452b3b70285": {
+    "url": "db://assets/resources/sound/Man/Man_buyao1.ogg",
+    "value": {}
+  },
+  "d614aa6f-9dac-49ae-bf06-447781c94e1f": {
+    "url": "db://assets/resources/sound/Man/Man_buyao2.ogg",
+    "value": {}
+  },
+  "b0b2b5be-5120-41c4-8c8d-30d12c9fafc8": {
+    "url": "db://assets/resources/sound/Man/Man_buyao3.ogg",
+    "value": {}
+  },
+  "7ed880b1-4c02-402a-981b-a1fd886755a9": {
+    "url": "db://assets/resources/sound/Man/Man_buyao4.ogg",
+    "value": {}
+  },
+  "638b665d-be3c-4326-b863-4de4bb02c9cf": {
+    "url": "db://assets/resources/sound/Man/Man_chaojijiabei.ogg",
+    "value": {}
+  },
+  "1d74bba4-f1f3-456c-b2c8-9f17d809f854": {
+    "url": "db://assets/resources/sound/Man/Man_Chat_0.ogg",
+    "value": {}
+  },
+  "7fa03fd5-5778-4724-8242-ff7fcd7807a8": {
+    "url": "db://assets/resources/sound/Man/Man_Chat_1.ogg",
+    "value": {}
+  },
+  "fa07e30b-78fe-4b6b-b941-3530d9c32514": {
+    "url": "db://assets/resources/sound/Man/Man_Chat_10.ogg",
+    "value": {}
+  },
+  "5b190cb0-c594-4e6d-b123-f035be431408": {
+    "url": "db://assets/resources/sound/Man/Man_Chat_2.ogg",
+    "value": {}
+  },
+  "92fea05b-539a-458c-9ea8-e316674fb336": {
+    "url": "db://assets/resources/sound/Man/Man_Chat_3.ogg",
+    "value": {}
+  },
+  "6932ad16-3478-4196-a2f0-069f275e611a": {
+    "url": "db://assets/resources/sound/Man/Man_Chat_4.ogg",
+    "value": {}
+  },
+  "bfa92fd2-2cb7-4983-9ffd-83ff24b35c3a": {
+    "url": "db://assets/resources/sound/Man/Man_Chat_5.ogg",
+    "value": {}
+  },
+  "b7ec1c3e-145d-4930-9d47-6244bbddf299": {
+    "url": "db://assets/resources/sound/Man/Man_Chat_6.ogg",
+    "value": {}
+  },
+  "df1e0235-7a68-4dd9-9595-144c3b8a4183": {
+    "url": "db://assets/resources/sound/Man/Man_Chat_7.ogg",
+    "value": {}
+  },
+  "0efd8ab1-8332-4594-b758-e5d8dd69f82c": {
+    "url": "db://assets/resources/sound/Man/Man_Chat_8.ogg",
+    "value": {}
+  },
+  "684b2b1b-08c5-4074-a10e-ed39869d332b": {
+    "url": "db://assets/resources/sound/Man/Man_Chat_9.ogg",
+    "value": {}
+  },
+  "7e0c6965-eb08-4a84-873d-cb6ab15a6b12": {
+    "url": "db://assets/resources/sound/Man/Man_dani1.ogg",
+    "value": {}
+  },
+  "7b6d4d73-fc1f-448f-af17-abaae1ec2995": {
+    "url": "db://assets/resources/sound/Man/Man_dani2.ogg",
+    "value": {}
+  },
+  "5e1701be-9e0d-4b2f-9c5b-1abe6a84b386": {
+    "url": "db://assets/resources/sound/Man/Man_dani3.ogg",
+    "value": {}
+  },
+  "74c9cd50-c43b-4ac2-a1b5-a6eb51d9c9c2": {
+    "url": "db://assets/resources/sound/Man/Man_dui1.ogg",
+    "value": {}
+  },
+  "aaa68a4b-44d4-4eb7-9dfb-c59dbb95b8c6": {
+    "url": "db://assets/resources/sound/Man/Man_dui10.ogg",
+    "value": {}
+  },
+  "f72a2a00-95fa-4368-acb7-7658aba42358": {
+    "url": "db://assets/resources/sound/Man/Man_dui11.ogg",
+    "value": {}
+  },
+  "667d2c14-1227-49d6-8bfd-88e030958f49": {
+    "url": "db://assets/resources/sound/Man/Man_dui12.ogg",
+    "value": {}
+  },
+  "6a380f28-92df-4999-b69d-2e4535d59256": {
+    "url": "db://assets/resources/sound/Man/Man_dui13.ogg",
+    "value": {}
+  },
+  "a94a9686-c8ae-4884-bba7-e932b6893abf": {
+    "url": "db://assets/resources/sound/Man/Man_dui2.ogg",
+    "value": {}
+  },
+  "ab95a28a-1954-442a-8e54-3071aa7a7b2d": {
+    "url": "db://assets/resources/sound/Man/Man_dui3.ogg",
+    "value": {}
+  },
+  "c607bd1c-fca1-41f9-ace0-30a3ea0e2320": {
+    "url": "db://assets/resources/sound/Man/Man_dui4.ogg",
+    "value": {}
+  },
+  "cdd0f4fa-9ba6-4f45-9f0f-de6fd95c8316": {
+    "url": "db://assets/resources/sound/Man/Man_dui5.ogg",
+    "value": {}
+  },
+  "42df34a5-e245-4cab-beec-81a89f5c0a13": {
+    "url": "db://assets/resources/sound/Man/Man_dui6.ogg",
+    "value": {}
+  },
+  "db72d0a1-a78b-4dec-a093-13c6ec084650": {
+    "url": "db://assets/resources/sound/Man/Man_dui7.ogg",
+    "value": {}
+  },
+  "a6097e67-9bdb-401a-b9f8-6e90f2975fac": {
+    "url": "db://assets/resources/sound/Man/Man_dui8.ogg",
+    "value": {}
+  },
+  "31a4cec0-4761-4e82-b02c-f51cb80146de": {
+    "url": "db://assets/resources/sound/Man/Man_dui9.ogg",
+    "value": {}
+  },
+  "7ddfc497-0b1d-4ec6-8288-856d8e797493": {
+    "url": "db://assets/resources/sound/Man/Man_feiji.ogg",
+    "value": {}
+  },
+  "250f679d-e181-4116-9550-307e8571da24": {
+    "url": "db://assets/resources/sound/Man/Man_jiabei.ogg",
+    "value": {}
+  },
+  "dbde0f1c-40b5-43ab-b47e-680d882a007c": {
+    "url": "db://assets/resources/sound/Man/Man_liandui.ogg",
+    "value": {}
+  },
+  "abc4bb90-9422-49a2-9d42-ac91dd823466": {
+    "url": "db://assets/resources/sound/Man/Man_NoOrder.ogg",
+    "value": {}
+  },
+  "e8b5a1df-735b-45ec-9ffb-5c95f7334a5c": {
+    "url": "db://assets/resources/sound/Man/Man_NoRob.ogg",
+    "value": {}
+  },
+  "5dae4995-8a5b-4c5d-9802-020cd18fb201": {
+    "url": "db://assets/resources/sound/Man/Man_Order.ogg",
+    "value": {}
+  },
+  "26626f97-4ffb-4cdb-8f07-1462b91d2a72": {
+    "url": "db://assets/resources/sound/Man/Man_Rob1.ogg",
+    "value": {}
+  },
+  "1c23d3e7-7933-4054-90f3-5d7a4d8efd79": {
+    "url": "db://assets/resources/sound/Man/Man_Rob2.ogg",
+    "value": {}
+  },
+  "c8cf990e-7773-45dd-9b82-42daa80fe203": {
+    "url": "db://assets/resources/sound/Man/Man_Rob3.ogg",
+    "value": {}
+  },
+  "8da60b4a-fe66-48fa-bd4c-64c9b58c00d2": {
+    "url": "db://assets/resources/sound/Man/Man_sandaiyi.ogg",
+    "value": {}
+  },
+  "c1ca98fd-a961-4e3a-8665-ffd3afccb663": {
+    "url": "db://assets/resources/sound/Man/Man_sandaiyidui.ogg",
+    "value": {}
+  },
+  "493a547c-7ff5-45b5-80e2-f7f98e449f96": {
+    "url": "db://assets/resources/sound/Man/Man_ScoreNoOrder.ogg",
+    "value": {}
+  },
+  "9f8f3657-0404-4e58-a6a2-d47d232a9ece": {
+    "url": "db://assets/resources/sound/Man/Man_ScoreOrder1.ogg",
+    "value": {}
+  },
+  "03bc60b3-81e2-45f7-ab5d-0fb183db340c": {
+    "url": "db://assets/resources/sound/Man/Man_ScoreOrder2.ogg",
+    "value": {}
+  },
+  "d9340b99-08a0-4c43-ad82-c2c3ab13c12a": {
+    "url": "db://assets/resources/sound/Man/Man_ScoreOrder3.ogg",
+    "value": {}
+  },
+  "fa53d46b-68e8-4608-b830-0d621030c5f0": {
+    "url": "db://assets/resources/sound/Man/Man_Share.ogg",
+    "value": {}
+  },
+  "2c474f7e-0274-46e8-ad8c-f6470d76736c": {
+    "url": "db://assets/resources/sound/Man/Man_shunzi.ogg",
+    "value": {}
+  },
+  "7779b258-2b2e-4586-9eb5-1c8977d86dab": {
+    "url": "db://assets/resources/sound/Man/Man_sidaier.ogg",
+    "value": {}
+  },
+  "9c85c557-1aec-4ed3-8cdf-5a735aa85556": {
+    "url": "db://assets/resources/sound/Man/Man_sidailiangdui.ogg",
+    "value": {}
+  },
+  "d637e6ff-3dd5-4ac1-8552-9776d6ff5ffc": {
+    "url": "db://assets/resources/sound/Man/Man_tuple1.ogg",
+    "value": {}
+  },
+  "3196424a-f312-4dff-be38-00a1438a3c62": {
+    "url": "db://assets/resources/sound/Man/Man_tuple10.ogg",
+    "value": {}
+  },
+  "10263b61-baf8-4e7f-8a84-7068ea296f38": {
+    "url": "db://assets/resources/sound/Man/Man_tuple11.ogg",
+    "value": {}
+  },
+  "fb248fc6-b725-4a53-b44d-7997f07f92f7": {
+    "url": "db://assets/resources/sound/Man/Man_tuple12.ogg",
+    "value": {}
+  },
+  "9b67533d-c4da-44e2-969f-c08afb6aa332": {
+    "url": "db://assets/resources/sound/Man/Man_tuple13.ogg",
+    "value": {}
+  },
+  "25726cd3-857f-45ab-85b3-c054bb1a32de": {
+    "url": "db://assets/resources/sound/Man/Man_tuple2.ogg",
+    "value": {}
+  },
+  "82cce2ba-5baa-45ef-8efd-a92c28fe037c": {
+    "url": "db://assets/resources/sound/Man/Man_tuple3.ogg",
+    "value": {}
+  },
+  "f8d896ae-215c-4ff4-ae24-83e409cf367c": {
+    "url": "db://assets/resources/sound/Man/Man_tuple4.ogg",
+    "value": {}
+  },
+  "ce9f1e1a-0383-43f2-9734-9521da7c3bf1": {
+    "url": "db://assets/resources/sound/Man/Man_tuple5.ogg",
+    "value": {}
+  },
+  "5ea53b48-7139-46ff-ad06-25040347fe7a": {
+    "url": "db://assets/resources/sound/Man/Man_tuple6.ogg",
+    "value": {}
+  },
+  "acfa6c68-636a-45b5-b8fb-89fd9b0b60f4": {
+    "url": "db://assets/resources/sound/Man/Man_tuple7.ogg",
+    "value": {}
+  },
+  "03559131-7a19-4068-87c2-2b249a721993": {
+    "url": "db://assets/resources/sound/Man/Man_tuple8.ogg",
+    "value": {}
+  },
+  "d1a46373-0d2f-4605-9307-4d1fe4aabd24": {
+    "url": "db://assets/resources/sound/Man/Man_tuple9.ogg",
+    "value": {}
+  },
+  "799aee29-9c3c-4026-8c9b-14fe8fe61c27": {
+    "url": "db://assets/resources/sound/Man/Man_wangzha.ogg",
+    "value": {}
+  },
+  "4b4b5c0f-57d3-45ae-a049-bfbb269e4de7": {
+    "url": "db://assets/resources/sound/Man/Man_zhadan.ogg",
+    "value": {}
+  },
+  "317af5a9-3f05-497c-aefb-ba818a1c3d59": {
+    "url": "db://assets/resources/sound/Woman/Woman_1.ogg",
+    "value": {}
+  },
+  "4cac7828-098e-45c4-b5d0-87415c27b6b1": {
+    "url": "db://assets/resources/sound/Woman/Woman_10.ogg",
+    "value": {}
+  },
+  "542fe118-12c2-4a10-b00e-a97c50987da2": {
+    "url": "db://assets/resources/sound/Woman/Woman_11.ogg",
+    "value": {}
+  },
+  "47e94b1c-c924-47df-b072-c2424405fe24": {
+    "url": "db://assets/resources/sound/Woman/Woman_12.ogg",
+    "value": {}
+  },
+  "9b9e752b-fe3e-4845-a38f-9c589df5b780": {
+    "url": "db://assets/resources/sound/Woman/Woman_13.ogg",
+    "value": {}
+  },
+  "24002555-c0ff-4cdb-9980-2be954c4fa3a": {
+    "url": "db://assets/resources/sound/Woman/Woman_14.ogg",
+    "value": {}
+  },
+  "2712f157-fca3-4beb-bccb-4b9b176ca89d": {
+    "url": "db://assets/resources/sound/Woman/Woman_15.ogg",
+    "value": {}
+  },
+  "e0b69526-9bf3-4ef3-8ac3-60fb95f5fdb8": {
+    "url": "db://assets/resources/sound/Woman/Woman_2.ogg",
+    "value": {}
+  },
+  "11378993-e5c9-46a9-bb92-0757f425bae9": {
+    "url": "db://assets/resources/sound/Woman/Woman_3.ogg",
+    "value": {}
+  },
+  "c7a7c520-4c00-4577-b8ae-5a78b5781d58": {
+    "url": "db://assets/resources/sound/Woman/Woman_4.ogg",
+    "value": {}
+  },
+  "da415a58-009c-4b0f-83d5-185ef318efd1": {
+    "url": "db://assets/resources/sound/Woman/Woman_5.ogg",
+    "value": {}
+  },
+  "73940a89-d072-452d-b12a-cb5e8c9ae6d3": {
+    "url": "db://assets/resources/sound/Woman/Woman_6.ogg",
+    "value": {}
+  },
+  "fbc630f5-b030-459f-9c3c-e6fc4d74db36": {
+    "url": "db://assets/resources/sound/Woman/Woman_7.ogg",
+    "value": {}
+  },
+  "9d025cee-b7ea-4567-8e1c-fbd1b2278aa8": {
+    "url": "db://assets/resources/sound/Woman/Woman_8.ogg",
+    "value": {}
+  },
+  "6526667a-c0db-4fae-83a2-cec6cdd1f33f": {
+    "url": "db://assets/resources/sound/Woman/Woman_9.ogg",
+    "value": {}
+  },
+  "b6b22991-cec2-41b0-882f-c285df1f4b63": {
+    "url": "db://assets/resources/sound/Woman/Woman_baojing1.ogg",
+    "value": {}
+  },
+  "4d425a94-7acb-4fee-8c13-2ca0b896b8e4": {
+    "url": "db://assets/resources/sound/Woman/Woman_baojing2.ogg",
+    "value": {}
+  },
+  "2cd6c308-0014-4a45-a7c2-aef507faba18": {
+    "url": "db://assets/resources/sound/Woman/Woman_bujiabei.ogg",
+    "value": {}
+  },
+  "263611cd-6ecf-43fe-a249-75753001558c": {
+    "url": "db://assets/resources/sound/Woman/Woman_buyao1.ogg",
+    "value": {}
+  },
+  "61f3c75f-4f05-4eef-ab54-c3f4a01b273f": {
+    "url": "db://assets/resources/sound/Woman/Woman_buyao2.ogg",
+    "value": {}
+  },
+  "5f45103f-c5a0-412c-afad-b24e013df5e4": {
+    "url": "db://assets/resources/sound/Woman/Woman_buyao3.ogg",
+    "value": {}
+  },
+  "49f62807-dbad-4c8e-ad1b-2b18455dbfc6": {
+    "url": "db://assets/resources/sound/Woman/Woman_buyao4.ogg",
+    "value": {}
+  },
+  "090ec2a4-b812-4fad-88f5-c8de41212df8": {
+    "url": "db://assets/resources/sound/Woman/Woman_chaojijiabei.ogg",
+    "value": {}
+  },
+  "d8030fc4-2de0-44fa-98d0-448e0bb1a115": {
+    "url": "db://assets/resources/sound/Woman/Woman_Chat_0.ogg",
+    "value": {}
+  },
+  "9dd2a695-af74-4181-a38d-28a871169c9d": {
+    "url": "db://assets/resources/sound/Woman/Woman_Chat_1.ogg",
+    "value": {}
+  },
+  "3e8cb8c4-0f7a-40af-abdc-cef523a32d7b": {
+    "url": "db://assets/resources/sound/Woman/Woman_Chat_10.ogg",
+    "value": {}
+  },
+  "ea9b5cae-7e97-4ed9-9087-7e935ff8a8b1": {
+    "url": "db://assets/resources/sound/Woman/Woman_Chat_2.ogg",
+    "value": {}
+  },
+  "9a761325-0c5b-4521-b2e4-add9e234d2b7": {
+    "url": "db://assets/resources/sound/Woman/Woman_Chat_3.ogg",
+    "value": {}
+  },
+  "e09ca0ee-626b-41dc-98f1-d33f3048b4d3": {
+    "url": "db://assets/resources/sound/Woman/Woman_Chat_4.ogg",
+    "value": {}
+  },
+  "0d98cdea-7e6f-48ab-b96c-935c3f39df76": {
+    "url": "db://assets/resources/sound/Woman/Woman_Chat_5.ogg",
+    "value": {}
+  },
+  "3b30acde-1ee1-49d3-a46c-1ae484447172": {
+    "url": "db://assets/resources/sound/Woman/Woman_Chat_6.ogg",
+    "value": {}
+  },
+  "b0432971-3793-41e0-b362-3eb1571b99d0": {
+    "url": "db://assets/resources/sound/Woman/Woman_Chat_7.ogg",
+    "value": {}
+  },
+  "77ba6f57-d50f-4873-937e-3b8b5a766ff5": {
+    "url": "db://assets/resources/sound/Woman/Woman_Chat_8.ogg",
+    "value": {}
+  },
+  "3cce25ac-4584-4a7a-897c-3c60fd7564bb": {
+    "url": "db://assets/resources/sound/Woman/Woman_Chat_9.ogg",
+    "value": {}
+  },
+  "554fe5a3-afae-46a3-aa6f-95e0a79c24cc": {
+    "url": "db://assets/resources/sound/Woman/Woman_dani1.ogg",
+    "value": {}
+  },
+  "e4293cf7-97c0-4c1c-817a-966fecce69be": {
+    "url": "db://assets/resources/sound/Woman/Woman_dani2.ogg",
+    "value": {}
+  },
+  "ddbc770c-91df-463a-bae4-b8455f8c6079": {
+    "url": "db://assets/resources/sound/Woman/Woman_dani3.ogg",
+    "value": {}
+  },
+  "a71d318e-ed91-4ddb-b539-725a00a0d456": {
+    "url": "db://assets/resources/sound/Woman/Woman_dui1.ogg",
+    "value": {}
+  },
+  "c864b4fc-a2a9-4e3b-aed2-284fcf4bd0d8": {
+    "url": "db://assets/resources/sound/Woman/Woman_dui10.ogg",
+    "value": {}
+  },
+  "8f3b20b7-9264-456d-8d2f-65c3d592f6c9": {
+    "url": "db://assets/resources/sound/Woman/Woman_dui11.ogg",
+    "value": {}
+  },
+  "a49dd233-493f-43b7-a33c-92cabc1c1ce3": {
+    "url": "db://assets/resources/sound/Woman/Woman_dui12.ogg",
+    "value": {}
+  },
+  "e561bbc2-e2d1-45cf-b10a-187f2f489b3a": {
+    "url": "db://assets/resources/sound/Woman/Woman_dui13.ogg",
+    "value": {}
+  },
+  "990465ab-b4e1-40cd-b0be-649628d622ce": {
+    "url": "db://assets/resources/sound/Woman/Woman_dui2.ogg",
+    "value": {}
+  },
+  "55155496-18c0-4887-8c72-74f0466abe92": {
+    "url": "db://assets/resources/sound/Woman/Woman_dui3.ogg",
+    "value": {}
+  },
+  "263e333a-66e2-46bb-a80d-f63e4c92277e": {
+    "url": "db://assets/resources/sound/Woman/Woman_dui4.ogg",
+    "value": {}
+  },
+  "83c343a0-72aa-48ea-b479-871e10295940": {
+    "url": "db://assets/resources/sound/Woman/Woman_dui5.ogg",
+    "value": {}
+  },
+  "6162958d-67c0-4a84-9a13-1171c915e33a": {
+    "url": "db://assets/resources/sound/Woman/Woman_dui6.ogg",
+    "value": {}
+  },
+  "83059928-0e00-4c82-813e-062b3e6c2d56": {
+    "url": "db://assets/resources/sound/Woman/Woman_dui7.ogg",
+    "value": {}
+  },
+  "40e40566-8d50-47f2-bbcb-b56630e734a6": {
+    "url": "db://assets/resources/sound/Woman/Woman_dui8.ogg",
+    "value": {}
+  },
+  "85d91c45-0040-470c-a4d0-4066f4185987": {
+    "url": "db://assets/resources/sound/Woman/Woman_dui9.ogg",
+    "value": {}
+  },
+  "2ad2d853-c64e-4293-8168-202399fcd6fd": {
+    "url": "db://assets/resources/sound/Woman/Woman_feiji.ogg",
+    "value": {}
+  },
+  "1a8ad011-e0b3-43b6-a08f-22097ff606ea": {
+    "url": "db://assets/resources/sound/Woman/Woman_jiabei.ogg",
+    "value": {}
+  },
+  "56c75e48-96a6-466c-8b81-1310afef4bbf": {
+    "url": "db://assets/resources/sound/Woman/Woman_liandui.ogg",
+    "value": {}
+  },
+  "3089cf36-198c-48f0-a540-60cbb5dd81d3": {
+    "url": "db://assets/resources/sound/Woman/Woman_NoOrder.ogg",
+    "value": {}
+  },
+  "f694838b-2023-462e-b9ce-650627c0e362": {
+    "url": "db://assets/resources/sound/Woman/Woman_NoRob.ogg",
+    "value": {}
+  },
+  "3a498681-ff3d-4fb5-9693-7c7b09a61b82": {
+    "url": "db://assets/resources/sound/Woman/Woman_Order.ogg",
+    "value": {}
+  },
+  "da52dfcb-1243-47a5-89de-76f9ce1b9c5c": {
+    "url": "db://assets/resources/sound/Woman/Woman_Rob1.ogg",
+    "value": {}
+  },
+  "d802aed5-8ccd-4738-b26f-dcf9440c999d": {
+    "url": "db://assets/resources/sound/Woman/Woman_Rob2.ogg",
+    "value": {}
+  },
+  "592f18b9-d6fe-4a2c-b29c-ff5cd82128ed": {
+    "url": "db://assets/resources/sound/Woman/Woman_Rob3.ogg",
+    "value": {}
+  },
+  "35d6f421-2f1a-40b0-b7b5-0c3297963554": {
+    "url": "db://assets/resources/sound/Woman/Woman_sandaiyi.ogg",
+    "value": {}
+  },
+  "62b0df28-02c4-4b19-94dc-16e1b213d876": {
+    "url": "db://assets/resources/sound/Woman/Woman_sandaiyidui.ogg",
+    "value": {}
+  },
+  "35e4b19c-0631-4ead-9a61-a4a863d2677c": {
+    "url": "db://assets/resources/sound/Woman/Woman_ScoreNoOrder.ogg",
+    "value": {}
+  },
+  "16b4bcab-8b78-4387-9a9c-a9440bd0bbf1": {
+    "url": "db://assets/resources/sound/Woman/Woman_ScoreOrder1.ogg",
+    "value": {}
+  },
+  "7763b87d-1376-46a1-a726-fe4558615f18": {
+    "url": "db://assets/resources/sound/Woman/Woman_ScoreOrder2.ogg",
+    "value": {}
+  },
+  "34133032-cb1b-473d-948c-3197734f8a36": {
+    "url": "db://assets/resources/sound/Woman/Woman_ScoreOrder3.ogg",
+    "value": {}
+  },
+  "98b27b6e-3d58-4faa-bce8-d4efcfdeb893": {
+    "url": "db://assets/resources/sound/Woman/Woman_Share.ogg",
+    "value": {}
+  },
+  "e129af2a-7436-4411-8c1d-1a685cf6aa4a": {
+    "url": "db://assets/resources/sound/Woman/Woman_shunzi.ogg",
+    "value": {}
+  },
+  "c5ba3c4f-a45b-4e75-b795-74576692bc21": {
+    "url": "db://assets/resources/sound/Woman/Woman_sidaier.ogg",
+    "value": {}
+  },
+  "96200dbd-dedd-46be-866a-049b454e356c": {
+    "url": "db://assets/resources/sound/Woman/Woman_sidailiangdui.ogg",
+    "value": {}
+  },
+  "409a09d7-1fa0-4a79-8c28-061863a8871c": {
+    "url": "db://assets/resources/sound/Woman/Woman_tuple1.ogg",
+    "value": {}
+  },
+  "8d687155-af58-4a54-a73f-853d16312eb9": {
+    "url": "db://assets/resources/sound/Woman/Woman_tuple10.ogg",
+    "value": {}
+  },
+  "864f78c3-e815-4927-b398-a3764377f75c": {
+    "url": "db://assets/resources/sound/Woman/Woman_tuple11.ogg",
+    "value": {}
+  },
+  "aa3a5738-2bec-44db-ab36-299c31c4831e": {
+    "url": "db://assets/resources/sound/Woman/Woman_tuple12.ogg",
+    "value": {}
+  },
+  "dd2fc299-e88d-4ccc-b313-e3cdf58b091b": {
+    "url": "db://assets/resources/sound/Woman/Woman_tuple13.ogg",
+    "value": {}
+  },
+  "05007519-5673-48a7-9985-73e1224d7c38": {
+    "url": "db://assets/resources/sound/Woman/Woman_tuple2.ogg",
+    "value": {}
+  },
+  "a7d8c486-1e07-4f58-b97e-79311d03d575": {
+    "url": "db://assets/resources/sound/Woman/Woman_tuple3.ogg",
+    "value": {}
+  },
+  "d647d2b2-61a2-4dfc-81db-40d8a708d417": {
+    "url": "db://assets/resources/sound/Woman/Woman_tuple4.ogg",
+    "value": {}
+  },
+  "95721fa9-685c-4b5d-ab55-e5fe4e6de426": {
+    "url": "db://assets/resources/sound/Woman/Woman_tuple5.ogg",
+    "value": {}
+  },
+  "14b9baa3-0933-43d1-bb58-f3f19991101c": {
+    "url": "db://assets/resources/sound/Woman/Woman_tuple6.ogg",
+    "value": {}
+  },
+  "4458a5fa-265b-4d11-9e1e-188573df8ff1": {
+    "url": "db://assets/resources/sound/Woman/Woman_tuple7.ogg",
+    "value": {}
+  },
+  "9809284a-56eb-4311-a0e3-7884aecdde79": {
+    "url": "db://assets/resources/sound/Woman/Woman_tuple8.ogg",
+    "value": {}
+  },
+  "cb0a1907-1587-4837-90c2-0c047de68ee2": {
+    "url": "db://assets/resources/sound/Woman/Woman_tuple9.ogg",
+    "value": {}
+  },
+  "0fc5e0d7-dcdb-4c3e-be2a-d22b9ccb9c37": {
+    "url": "db://assets/resources/sound/Woman/Woman_wangzha.ogg",
+    "value": {}
+  },
+  "9428a63f-b848-45c5-9bd8-b521082e2a17": {
+    "url": "db://assets/resources/sound/Woman/Woman_zhadan.ogg",
+    "value": {}
+  },
+  "115e6795-dc15-4b0a-b957-9e29dbeae7a8": {
+    "url": "db://assets/resources/sound/Woman/Woman_16.ogg",
+    "value": {}
+  },
+  "7424f99d-5e67-4852-932a-51b4c55bd382": {
+    "url": "db://assets/resources/sound/Woman/Woman_17.ogg",
+    "value": {}
+  },
+  "6be4e3ea-11b2-475a-b82d-dc68d696c172": {
+    "url": "db://assets/resources/sound/Woman/Woman_dui14.ogg",
+    "value": {}
+  },
+  "eb6fbfa6-62e8-49e5-b1a0-73897de42845": {
+    "url": "db://assets/resources/sound/Woman/Woman_dui15.ogg",
+    "value": {}
+  },
+  "f80c068f-3380-4b25-82b0-754a9f9e1230": {
+    "url": "db://assets/resources/sound/Woman/Woman_tuple14.ogg",
+    "value": {}
+  },
+  "30f936ee-40d0-458e-b68f-464ff56aa54f": {
+    "url": "db://assets/resources/sound/Woman/Woman_tuple15.ogg",
+    "value": {}
+  },
+  "4781b24f-2e8f-44c9-b333-6796c805103a": {
+    "url": "db://assets/resources/sound/Man/Man_16.ogg",
+    "value": {}
+  },
+  "966475f6-d1da-4dbb-876a-2345f6c402fc": {
+    "url": "db://assets/resources/sound/Man/Man_17.ogg",
+    "value": {}
+  },
+  "cf56a408-a9f9-41e9-b34d-ecd45fe52b4d": {
+    "url": "db://assets/resources/sound/Man/Man_dui14.ogg",
+    "value": {}
+  },
+  "ab212f24-28da-4f94-80a5-556a3b3f3aeb": {
+    "url": "db://assets/resources/sound/Man/Man_dui15.ogg",
+    "value": {}
+  },
+  "79ab12c8-2250-4da3-9a99-f0635514e0df": {
+    "url": "db://assets/resources/sound/Man/Man_tuple14.ogg",
+    "value": {}
+  },
+  "b32bf902-638e-439b-92a7-9c5ef75590f9": {
+    "url": "db://assets/resources/sound/Man/Man_tuple15.ogg",
+    "value": {}
+  },
+  "badf43d2-aa4a-4b6d-9997-06a952dbc7c4": {
+    "url": "db://assets/resources/image/games/bazhadan/提示.png",
+    "value": {}
+  }
+}

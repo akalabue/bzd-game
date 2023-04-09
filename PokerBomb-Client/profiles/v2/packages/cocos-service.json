@@ -1,0 +1,17 @@
+{
+  "__version__": "3.0.3",
+  "options": {
+    "web-desktop": {
+      "configID": "3db562",
+      "services": []
+    },
+    "wechatgame": {
+      "configID": "3db562",
+      "services": []
+    }
+  },
+  "builder-options": {
+    "configID": "3db562",
+    "services": []
+  }
+}

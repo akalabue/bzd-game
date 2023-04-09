@@ -1,0 +1,30 @@
+{
+  "description": "项目配置文件。",
+  "miniprogramRoot": "",
+  "setting": {
+    "urlCheck": true,
+    "postcss": true,
+    "minified": true,
+    "newFeature": false,
+    "enhance": true,
+    "useIsolateContext": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    }
+  },
+  "compileType": "game",
+  "libVersion": "2.30.4",
+  "appid": "wx574d838380877b75",
+  "projectname": "PokerBomb",
+  "condition": {},
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiupai",
+    "atlas": "2c916504-064d-4f2d-942e-88abf70b427e",
+    "rect": {
+      "x": 873,
+      "y": 475,
+      "width": 68,
+      "height": 37
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 68,
+      "height": 37
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "61046ef9-cf4c-4851-918d-f51158ebf6f0@6c48a",
+    "packable": true
+  }
+}

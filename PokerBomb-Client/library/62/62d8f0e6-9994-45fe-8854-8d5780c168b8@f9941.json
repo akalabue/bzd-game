@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "发牌",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 835,
+      "height": 373
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 835,
+      "height": 373
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "62d8f0e6-9994-45fe-8854-8d5780c168b8@6c48a",
+    "packable": true
+  }
+}

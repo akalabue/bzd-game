@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "任务",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 95,
+      "height": 71
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 95,
+      "height": 71
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "3038eddd-cdec-484a-9fbf-f1b90ef1ad09@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_xiazhu",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 267,
+      "height": 40
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 267,
+      "height": 40
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "a7437b78-4e4c-4a02-b306-b6dfe6703d39@6c48a",
+    "packable": true
+  }
+}

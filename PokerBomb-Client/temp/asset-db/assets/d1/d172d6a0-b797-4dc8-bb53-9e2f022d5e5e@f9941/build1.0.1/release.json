@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "d1ctagt5dNyLtTni8CLV5e@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "角色3",
+            "rect": {
+                "x": 8,
+                "y": 15,
+                "width": 475,
+                "height": 562
+            },
+            "offset": {
+                "x": 2,
+                "y": -3.5
+            },
+            "originalSize": {
+                "width": 487,
+                "height": 585
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]
