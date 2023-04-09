@@ -7,5 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PokerBombApplication {
     public static void main(String[] args){
         SpringApplication.run(PokerBombApplication.class, args);
+        System.out.println("你好");
     }
 }
