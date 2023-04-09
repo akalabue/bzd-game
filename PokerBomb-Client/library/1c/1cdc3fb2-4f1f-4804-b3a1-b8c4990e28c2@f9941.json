@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "house",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 42,
+      "height": 42
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 42,
+      "height": 42
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "1cdc3fb2-4f1f-4804-b3a1-b8c4990e28c2@6c48a",
+    "packable": true
+  }
+}

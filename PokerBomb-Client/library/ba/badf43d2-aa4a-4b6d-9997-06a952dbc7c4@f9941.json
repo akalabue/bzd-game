@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "提示",
+    "atlas": "",
+    "rect": {
+      "x": 30,
+      "y": 35,
+      "width": 232,
+      "height": 103
+    },
+    "offset": {
+      "x": 1.5,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 289,
+      "height": 172
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "badf43d2-aa4a-4b6d-9997-06a952dbc7c4@6c48a",
+    "packable": true
+  }
+}

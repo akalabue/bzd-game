@@ -1,0 +1,2972 @@
+{
+  "modules": {
+    "cce:/internal/x/cc": {
+      "mTimestamp": 16102.164099931717,
+      "chunkId": "06905a76530cf57ee019d9d8bcfb507c2d037fd3",
+      "imports": [
+        {
+          "value": "cce:/internal/x/cc-fu/base",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 14
+            },
+            "end": {
+              "line": 1,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/gfx-webgl",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 14
+            },
+            "end": {
+              "line": 2,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/gfx-webgl2",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 14
+            },
+            "end": {
+              "line": 3,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/3d",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 14
+            },
+            "end": {
+              "line": 4,
+              "column": 40
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/animation",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 14
+            },
+            "end": {
+              "line": 5,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/skeletal-animation",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 14
+            },
+            "end": {
+              "line": 6,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/2d",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 14
+            },
+            "end": {
+              "line": 7,
+              "column": 40
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/ui",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 14
+            },
+            "end": {
+              "line": 8,
+              "column": 40
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/particle",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 14
+            },
+            "end": {
+              "line": 9,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/particle-2d",
+          "resolved": "__unresolved_9",
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 14
+            },
+            "end": {
+              "line": 10,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/physics-framework",
+          "resolved": "__unresolved_10",
+          "loc": {
+            "start": {
+              "line": 11,
+              "column": 14
+            },
+            "end": {
+              "line": 11,
+              "column": 55
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/physics-2d-framework",
+          "resolved": "__unresolved_11",
+          "loc": {
+            "start": {
+              "line": 12,
+              "column": 14
+            },
+            "end": {
+              "line": 12,
+              "column": 58
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/intersection-2d",
+          "resolved": "__unresolved_12",
+          "loc": {
+            "start": {
+              "line": 13,
+              "column": 14
+            },
+            "end": {
+              "line": 13,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/primitive",
+          "resolved": "__unresolved_13",
+          "loc": {
+            "start": {
+              "line": 14,
+              "column": 14
+            },
+            "end": {
+              "line": 14,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/profiler",
+          "resolved": "__unresolved_14",
+          "loc": {
+            "start": {
+              "line": 15,
+              "column": 14
+            },
+            "end": {
+              "line": 15,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/audio",
+          "resolved": "__unresolved_15",
+          "loc": {
+            "start": {
+              "line": 16,
+              "column": 14
+            },
+            "end": {
+              "line": 16,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/video",
+          "resolved": "__unresolved_16",
+          "loc": {
+            "start": {
+              "line": 17,
+              "column": 14
+            },
+            "end": {
+              "line": 17,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/terrain",
+          "resolved": "__unresolved_17",
+          "loc": {
+            "start": {
+              "line": 18,
+              "column": 14
+            },
+            "end": {
+              "line": 18,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/webview",
+          "resolved": "__unresolved_18",
+          "loc": {
+            "start": {
+              "line": 19,
+              "column": 14
+            },
+            "end": {
+              "line": 19,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/tween",
+          "resolved": "__unresolved_19",
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 14
+            },
+            "end": {
+              "line": 20,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/tiled-map",
+          "resolved": "__unresolved_20",
+          "loc": {
+            "start": {
+              "line": 21,
+              "column": 14
+            },
+            "end": {
+              "line": 21,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/spine",
+          "resolved": "__unresolved_21",
+          "loc": {
+            "start": {
+              "line": 22,
+              "column": 14
+            },
+            "end": {
+              "line": 22,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/dragon-bones",
+          "resolved": "__unresolved_22",
+          "loc": {
+            "start": {
+              "line": 23,
+              "column": 14
+            },
+            "end": {
+              "line": 23,
+              "column": 50
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/base"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl2"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/3d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/animation"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/skeletal-animation"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/ui"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/particle"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/particle-2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-framework"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-framework"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/intersection-2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/primitive"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/profiler"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/audio"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/video"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/terrain"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/webview"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/tween"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/tiled-map"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/spine"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/dragon-bones"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "cce:/internal/x/prerequisite-imports": {
+      "mTimestamp": 16225.774699926376,
+      "chunkId": "c1197de683ea2e6ee3f497b1d6f6b3dda8413386",
+      "imports": [
+        {
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/common/GameRole.ts",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 35
+            },
+            "end": {
+              "line": 5,
+              "column": 228
+            }
+          }
+        },
+        {
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/common/PushCardVo.ts",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 244
+            },
+            "end": {
+              "line": 5,
+              "column": 439
+            }
+          }
+        },
+        {
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/common/UserInfo.ts",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 455
+            },
+            "end": {
+              "line": 5,
+              "column": 648
+            }
+          }
+        },
+        {
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/BZDClient.ts",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 664
+            },
+            "end": {
+              "line": 5,
+              "column": 866
+            }
+          }
+        },
+        {
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/BZDSceneMgt.ts",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 882
+            },
+            "end": {
+              "line": 5,
+              "column": 1086
+            }
+          }
+        },
+        {
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/BZDSoundMgt.ts",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1102
+            },
+            "end": {
+              "line": 5,
+              "column": 1306
+            }
+          }
+        },
+        {
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/Poker.ts",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1322
+            },
+            "end": {
+              "line": 5,
+              "column": 1520
+            }
+          }
+        },
+        {
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/PokerCtr.ts",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1536
+            },
+            "end": {
+              "line": 5,
+              "column": 1737
+            }
+          }
+        },
+        {
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/HallClient.ts",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1753
+            },
+            "end": {
+              "line": 5,
+              "column": 1951
+            }
+          }
+        },
+        {
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/HallSceneMgt.ts",
+          "resolved": "__unresolved_9",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1967
+            },
+            "end": {
+              "line": 5,
+              "column": 2167
+            }
+          }
+        },
+        {
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/HallSoundMgt.ts",
+          "resolved": "__unresolved_10",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 2183
+            },
+            "end": {
+              "line": 5,
+              "column": 2383
+            }
+          }
+        },
+        {
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/createRoom.ts",
+          "resolved": "__unresolved_11",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 2399
+            },
+            "end": {
+              "line": 5,
+              "column": 2597
+            }
+          }
+        },
+        {
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/joinRoom.ts",
+          "resolved": "__unresolved_12",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 2613
+            },
+            "end": {
+              "line": 5,
+              "column": 2809
+            }
+          }
+        },
+        {
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/loginScene/LoginClient.ts",
+          "resolved": "__unresolved_13",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 2825
+            },
+            "end": {
+              "line": 5,
+              "column": 3025
+            }
+          }
+        },
+        {
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/loginScene/LoginScene.ts",
+          "resolved": "__unresolved_14",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 3041
+            },
+            "end": {
+              "line": 5,
+              "column": 3240
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/common/GameRole.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/common/PushCardVo.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/common/UserInfo.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/BZDClient.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/BZDSceneMgt.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/BZDSoundMgt.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/Poker.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/PokerCtr.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/HallClient.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/HallSceneMgt.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/HallSoundMgt.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/createRoom.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/joinRoom.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/loginScene/LoginClient.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/loginScene/LoginScene.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProjects/PokerBomb/assets/Script/LoginScence.ts": {
+      "mTimestamp": {
+        "mtime": 1676699720778.7622,
+        "uuid": "2cece90f-0fd5-419e-b59a-6c6d1e81e104"
+      },
+      "chunkId": "9b40f59789421b8e2ae8a651397f66a7efa0bc8b",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProjects/PokerBomb/assets/Script/LoginScene.ts": {
+      "mTimestamp": {
+        "mtime": 1676734916566.9739,
+        "uuid": "a9524566-bd21-415d-a7ea-e035f9dc33eb"
+      },
+      "chunkId": "d9714b9d80aff6cdc16bc024512c633dbc28173e",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 63
+            },
+            "end": {
+              "line": 1,
+              "column": 67
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProjects/PokerBomb/assets/Script/LoginClient.ts": {
+      "mTimestamp": {
+        "mtime": 1676730998119.9492,
+        "uuid": "a5e56584-5574-44e8-bbb0-2454a5e3d958"
+      },
+      "chunkId": "aa6a3dc084a47753310e6491e671dab5eb386c95",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 56
+            },
+            "end": {
+              "line": 1,
+              "column": 60
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProjects/PokerBomb/assets/Script/UserInfo.ts": {
+      "mTimestamp": {
+        "mtime": 1676734803385.9185,
+        "uuid": "ad450072-0265-46ae-8552-498f2b8ac2a8"
+      },
+      "chunkId": "29f9da9bbe5cbc0d356d6fb02f13b949f00b0473",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProjects/PokerBomb/assets/Script/HallSceneMgt.ts": {
+      "mTimestamp": {
+        "mtime": 1676785345400.5117,
+        "uuid": "1967dfa1-66e5-46c6-8729-892357f0f69a"
+      },
+      "chunkId": "4a112d02b66017b41c59c8e171e0c1a339d07e6c",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 51
+            },
+            "end": {
+              "line": 1,
+              "column": 55
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProjects/PokerBomb/assets/Script/LoginSceneMgt.ts": {
+      "mTimestamp": {
+        "mtime": 1676731331979.555,
+        "uuid": "2cece90f-0fd5-419e-b59a-6c6d1e81e104"
+      },
+      "chunkId": "3eed2885d06cae2af93c5f4b9e1c2f968df6b06f",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 63
+            },
+            "end": {
+              "line": 1,
+              "column": 67
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProjects/PokerBomb/assets/Script/HallClient.ts": {
+      "mTimestamp": {
+        "mtime": 1676731473484.818,
+        "uuid": "07e445ce-dde7-4c81-944f-bc98c764644d"
+      },
+      "chunkId": "d331c0a8c2a747994887a6403363d0a8d2d62834",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProjects/PokerBomb/assets/Script/loginscene/LoginClient.ts": {
+      "mTimestamp": {
+        "mtime": 1676730998119.9492,
+        "uuid": "a5e56584-5574-44e8-bbb0-2454a5e3d958"
+      },
+      "chunkId": "95cb31278ebb4d826c1654a319afdb3795bfd644",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 56
+            },
+            "end": {
+              "line": 1,
+              "column": 60
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProjects/PokerBomb/assets/Script/loginscene/LoginScene.ts": {
+      "mTimestamp": {
+        "mtime": 1676734916566.9739,
+        "uuid": "a9524566-bd21-415d-a7ea-e035f9dc33eb"
+      },
+      "chunkId": "9b4725d21b000c0b95b97fa5f80f022febe38abf",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 63
+            },
+            "end": {
+              "line": 1,
+              "column": 67
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProjects/PokerBomb/assets/Script/hallScene/HallClient.ts": {
+      "mTimestamp": {
+        "mtime": 1676977282533.1123,
+        "uuid": "07e445ce-dde7-4c81-944f-bc98c764644d"
+      },
+      "chunkId": "f7a85d9cf072e8fbc819a416d01f9f606b2c2e6b",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProjects/PokerBomb/assets/Script/hallScene/HallSceneMgt.ts": {
+      "mTimestamp": {
+        "mtime": 1677154390896.1084,
+        "uuid": "1967dfa1-66e5-46c6-8729-892357f0f69a"
+      },
+      "chunkId": "02c79cb47ba2841afa10971f7961f81c10e9ba09",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 61
+            },
+            "end": {
+              "line": 1,
+              "column": 65
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProjects/PokerBomb/assets/Script/loginScene/LoginClient.ts": {
+      "mTimestamp": {
+        "mtime": 1677232551379.4744,
+        "uuid": "a5e56584-5574-44e8-bbb0-2454a5e3d958"
+      },
+      "chunkId": "640fbb5a9d350540470a59e97a5cb16c4235eeb8",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 56
+            },
+            "end": {
+              "line": 1,
+              "column": 60
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProjects/PokerBomb/assets/Script/loginScene/LoginScene.ts": {
+      "mTimestamp": {
+        "mtime": 1676734916566.9739,
+        "uuid": "a9524566-bd21-415d-a7ea-e035f9dc33eb"
+      },
+      "chunkId": "7de1ac3338bf6876050d4e7f52a5bf497f38ed9c",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 63
+            },
+            "end": {
+              "line": 1,
+              "column": 67
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProjects/PokerBomb/assets/Script/common/UserInfo.ts": {
+      "mTimestamp": {
+        "mtime": 1677306188242.7385,
+        "uuid": "ad450072-0265-46ae-8552-498f2b8ac2a8"
+      },
+      "chunkId": "489150886d209d577977d03d9a11c1a0519d1704",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProjects/PokerBomb/assets/Script/hallScene/createRoom.ts": {
+      "mTimestamp": {
+        "mtime": 1676977404329.9436,
+        "uuid": "cbda93b8-0f9f-4bce-96be-2eb927d12bea"
+      },
+      "chunkId": "65f676621f5f653aebcaceae49b15d172ef4b190",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProjects/PokerBomb/assets/Script/games/bazhadan/bzdSceneMgt.ts": {
+      "mTimestamp": {
+        "mtime": 1676982101073.3257,
+        "uuid": "2144f1e9-0fd1-4949-8a08-c5f91b7b7790"
+      },
+      "chunkId": "4fd6eafed48ec6aa476c403217bd84dad755f192",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProjects/PokerBomb/assets/Script/games/bazhadan/BZDClient.ts": {
+      "mTimestamp": {
+        "mtime": 1677246477997.6936,
+        "uuid": "7cd740f2-9349-4c22-b7fe-a708e44a0f87"
+      },
+      "chunkId": "b2e9d71e1570406abdca42308d19d2d7e124631c",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProjects/PokerBomb/assets/Script/games/bazhadan/BZDSceneMgt.ts": {
+      "mTimestamp": {
+        "mtime": 1677424957227.0762,
+        "uuid": "2144f1e9-0fd1-4949-8a08-c5f91b7b7790"
+      },
+      "chunkId": "875930d58ac66bacb88aebc9204f0b9efa95b683",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 59
+            },
+            "end": {
+              "line": 1,
+              "column": 63
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProjects/PokerBomb/assets/Script/hallScene/joinRoom.ts": {
+      "mTimestamp": {
+        "mtime": 1677232406082.0354,
+        "uuid": "0ffd23c0-983e-454b-b76f-5a71a11578e0"
+      },
+      "chunkId": "cb472b8da0c7d926dba526ef3a034221b08ed248",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 51
+            },
+            "end": {
+              "line": 1,
+              "column": 55
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CocosProjects/PokerBomb/assets/Script/common/GameRole.ts": {
+      "mTimestamp": {
+        "mtime": 1677315886193.656,
+        "uuid": "74e00419-bb70-4d13-992a-d510d7dc371d"
+      },
+      "chunkId": "7d6b6b79d3e5ceb0b0abbfb51318f05a31cc16ce",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "cce:/internal/code-quality/cr.mjs": {
+      "mTimestamp": 1681044993058,
+      "chunkId": "84741ad843cea9a440c5d8c2d379669b6551400d",
+      "imports": [],
+      "type": "esm",
+      "resolutions": []
+    },
+    "file:///C:/Users/86147/Desktop/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/common/GameRole.ts": {
+      "mTimestamp": {
+        "mtime": 1677315888000,
+        "uuid": "74e00419-bb70-4d13-992a-d510d7dc371d"
+      },
+      "chunkId": "0bbf05df5b8796a75f130509080fede183c14ba8",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/86147/Desktop/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/common/UserInfo.ts": {
+      "mTimestamp": {
+        "mtime": 1677306190000,
+        "uuid": "ad450072-0265-46ae-8552-498f2b8ac2a8"
+      },
+      "chunkId": "3b4c546adfa600c151faa1e044d534862c4ae73a",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/86147/Desktop/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/BZDClient.ts": {
+      "mTimestamp": {
+        "mtime": 1677246478000,
+        "uuid": "7cd740f2-9349-4c22-b7fe-a708e44a0f87"
+      },
+      "chunkId": "f446fc40e0472c6cca985f745402b84fb7bfa94d",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/86147/Desktop/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/BZDSceneMgt.ts": {
+      "mTimestamp": {
+        "mtime": 1677424958000,
+        "uuid": "2144f1e9-0fd1-4949-8a08-c5f91b7b7790"
+      },
+      "chunkId": "a518ab2f7507e9e21e0ec54feed48845a2486737",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 59
+            },
+            "end": {
+              "line": 1,
+              "column": 63
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/86147/Desktop/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/HallClient.ts": {
+      "mTimestamp": {
+        "mtime": 1676977284000,
+        "uuid": "07e445ce-dde7-4c81-944f-bc98c764644d"
+      },
+      "chunkId": "ff308ba9ec9de45284f722c97d818ed727e5e4c6",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/86147/Desktop/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/HallSceneMgt.ts": {
+      "mTimestamp": {
+        "mtime": 1677154392000,
+        "uuid": "1967dfa1-66e5-46c6-8729-892357f0f69a"
+      },
+      "chunkId": "a7ac0ead70f8243de8a7a64fcb39de1d5368c842",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 61
+            },
+            "end": {
+              "line": 1,
+              "column": 65
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/86147/Desktop/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/createRoom.ts": {
+      "mTimestamp": {
+        "mtime": 1676977406000,
+        "uuid": "cbda93b8-0f9f-4bce-96be-2eb927d12bea"
+      },
+      "chunkId": "90d42d9cea62256761555d0ff604f55bd5bd25d8",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/86147/Desktop/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/joinRoom.ts": {
+      "mTimestamp": {
+        "mtime": 1677232408000,
+        "uuid": "0ffd23c0-983e-454b-b76f-5a71a11578e0"
+      },
+      "chunkId": "e5a49b1fbe98814b842af8591eadcb762e1f958e",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 51
+            },
+            "end": {
+              "line": 1,
+              "column": 55
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/86147/Desktop/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/loginScene/LoginClient.ts": {
+      "mTimestamp": {
+        "mtime": 1677232552000,
+        "uuid": "a5e56584-5574-44e8-bbb0-2454a5e3d958"
+      },
+      "chunkId": "226fa11dd2291fe76abb0e247fe447f961d0a7f3",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 56
+            },
+            "end": {
+              "line": 1,
+              "column": 60
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/86147/Desktop/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/loginScene/LoginScene.ts": {
+      "mTimestamp": {
+        "mtime": 1676734918000,
+        "uuid": "a9524566-bd21-415d-a7ea-e035f9dc33eb"
+      },
+      "chunkId": "d55bc9c058eedfccfc3a4789c9e1e6542a4ea8cb",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 63
+            },
+            "end": {
+              "line": 1,
+              "column": 67
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/common/GameRole.ts": {
+      "mTimestamp": {
+        "mtime": 1679036802971.4922,
+        "uuid": "74e00419-bb70-4d13-992a-d510d7dc371d"
+      },
+      "chunkId": "9d023fc509fcb96af4acde2bdf7bea5a4e57e8d0",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/common/UserInfo.ts": {
+      "mTimestamp": {
+        "mtime": 1677306190000,
+        "uuid": "ad450072-0265-46ae-8552-498f2b8ac2a8"
+      },
+      "chunkId": "6624b300823f1679fe36d652d021f0f1301646f4",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/BZDClient.ts": {
+      "mTimestamp": {
+        "mtime": 1679219223649.8076,
+        "uuid": "7cd740f2-9349-4c22-b7fe-a708e44a0f87"
+      },
+      "chunkId": "8135b33dfdb85bc5a14f4864939a9c69ecd80d7d",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/BZDSceneMgt.ts": {
+      "mTimestamp": {
+        "mtime": 1680777705209.1396,
+        "uuid": "2144f1e9-0fd1-4949-8a08-c5f91b7b7790"
+      },
+      "chunkId": "0b5ba4a809c63a1f3403835947f1d2e0640f96fe",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 176
+            },
+            "end": {
+              "line": 1,
+              "column": 180
+            }
+          }
+        },
+        {
+          "value": "../../common/PushCardVo",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 27
+            },
+            "end": {
+              "line": 3,
+              "column": 52
+            }
+          }
+        },
+        {
+          "value": "./BZDSoundMgt",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 28
+            },
+            "end": {
+              "line": 4,
+              "column": 43
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/common/PushCardVo.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/BZDSoundMgt.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/HallClient.ts": {
+      "mTimestamp": {
+        "mtime": 1678293121982.5708,
+        "uuid": "07e445ce-dde7-4c81-944f-bc98c764644d"
+      },
+      "chunkId": "54d73fa9b2adfa5ca61d600c9c2363429d6e29e9",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/HallSceneMgt.ts": {
+      "mTimestamp": {
+        "mtime": 1680865342750.312,
+        "uuid": "1967dfa1-66e5-46c6-8729-892357f0f69a"
+      },
+      "chunkId": "f88287fd562c2afef12209425a828600b1952dc6",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 127
+            },
+            "end": {
+              "line": 1,
+              "column": 131
+            }
+          }
+        },
+        {
+          "value": "./HallSoundMgt",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 29
+            },
+            "end": {
+              "line": 2,
+              "column": 45
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/HallSoundMgt.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/createRoom.ts": {
+      "mTimestamp": {
+        "mtime": 1680609528121.9458,
+        "uuid": "cbda93b8-0f9f-4bce-96be-2eb927d12bea"
+      },
+      "chunkId": "79ff82bd930b1159a36211bb1ef3ebbbb9f7f5b2",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "./HallSoundMgt",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 29
+            },
+            "end": {
+              "line": 2,
+              "column": 45
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/HallSoundMgt.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/joinRoom.ts": {
+      "mTimestamp": {
+        "mtime": 1680609662173.1138,
+        "uuid": "0ffd23c0-983e-454b-b76f-5a71a11578e0"
+      },
+      "chunkId": "da38ad468d74cba3b9a0bbf81cbf68e5620b7715",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 51
+            },
+            "end": {
+              "line": 1,
+              "column": 55
+            }
+          }
+        },
+        {
+          "value": "./HallSoundMgt",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 29
+            },
+            "end": {
+              "line": 2,
+              "column": 45
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/HallSoundMgt.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/loginScene/LoginClient.ts": {
+      "mTimestamp": {
+        "mtime": 1680608582750.3938,
+        "uuid": "a5e56584-5574-44e8-bbb0-2454a5e3d958"
+      },
+      "chunkId": "f604270b13d062bc9bf33c281d167fa2c3b7e666",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 56
+            },
+            "end": {
+              "line": 1,
+              "column": 60
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/loginScene/LoginScene.ts": {
+      "mTimestamp": {
+        "mtime": 1680865359170.3958,
+        "uuid": "a9524566-bd21-415d-a7ea-e035f9dc33eb"
+      },
+      "chunkId": "98969db88b3b2ad6955ae37cf07d9ec2a4cc1636",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 63
+            },
+            "end": {
+              "line": 1,
+              "column": 67
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/Poker.ts": {
+      "mTimestamp": {
+        "mtime": 1677672969018.7078,
+        "uuid": "1c169422-2e2c-4d79-9df1-f0d2aec05e34"
+      },
+      "chunkId": "8f8ab851335f1d92a2c6d69d8a04feafa3886503",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 97
+            },
+            "end": {
+              "line": 1,
+              "column": 101
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/PokerCtr.ts": {
+      "mTimestamp": {
+        "mtime": 1677675548451.525,
+        "uuid": "d0d46114-ad5f-4776-a1da-777a41a091e8"
+      },
+      "chunkId": "5a9050310f6633a32d17b90062a35ff5ee35c6e4",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 76
+            },
+            "end": {
+              "line": 1,
+              "column": 80
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/common/NewComponent.ts": {
+      "mTimestamp": {
+        "mtime": 1677836039711.105,
+        "uuid": "5e116747-37b3-4cfb-a8b6-b3fd76817f4f"
+      },
+      "chunkId": "7661793448f058c4670ba7525e1cf5556334c465",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/common/PushCardVo.ts": {
+      "mTimestamp": {
+        "mtime": 1680163752321.5396,
+        "uuid": "db37cb43-4664-4d5e-bb38-171c8189946c"
+      },
+      "chunkId": "141dc4b3d2dafb004b152091eeade715ff4f94e9",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/SoundMgt.ts": {
+      "mTimestamp": {
+        "mtime": 1680004381798.398,
+        "uuid": "8d715bb0-b1a7-492f-833f-b6cb519bc9bc"
+      },
+      "chunkId": "f169234c50d7c151c1fb5d93bb3e9313b6d25f1e",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 68
+            },
+            "end": {
+              "line": 1,
+              "column": 72
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/HallSoundMgt.ts": {
+      "mTimestamp": {
+        "mtime": 1680610543698.9607,
+        "uuid": "8d715bb0-b1a7-492f-833f-b6cb519bc9bc"
+      },
+      "chunkId": "86434676c3f09fb06d75129b9963e917a4858af8",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 68
+            },
+            "end": {
+              "line": 1,
+              "column": 72
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/BZDSoundMgt.ts": {
+      "mTimestamp": {
+        "mtime": 1680610528262.1003,
+        "uuid": "f3fbf2ec-ecd8-4b93-b38e-27ab86ac9398"
+      },
+      "chunkId": "914552d878c813d51176de8a1c607dbd6a905cab",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 79
+            },
+            "end": {
+              "line": 1,
+              "column": 83
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    }
+  }
+}

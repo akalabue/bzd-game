@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "通知",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 89,
+      "height": 86
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 89,
+      "height": 86
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "bfc63868-cb82-489e-a37d-1daaf2b42a5d@6c48a",
+    "packable": true
+  }
+}

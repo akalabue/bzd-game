@@ -1,0 +1,119 @@
+{
+  "imports": {
+    "cce:/internal/x/cc": "./chunks/06/06905a76530cf57ee019d9d8bcfb507c2d037fd3.js",
+    "cce:/internal/x/prerequisite-imports": "./chunks/c1/c1197de683ea2e6ee3f497b1d6f6b3dda8413386.js",
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/common/GameRole.ts": "./chunks/9d/9d023fc509fcb96af4acde2bdf7bea5a4e57e8d0.js",
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/common/PushCardVo.ts": "./chunks/14/141dc4b3d2dafb004b152091eeade715ff4f94e9.js",
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/common/UserInfo.ts": "./chunks/66/6624b300823f1679fe36d652d021f0f1301646f4.js",
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/createRoom.ts": "./chunks/79/79ff82bd930b1159a36211bb1ef3ebbbb9f7f5b2.js",
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/HallClient.ts": "./chunks/54/54d73fa9b2adfa5ca61d600c9c2363429d6e29e9.js",
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/HallSceneMgt.ts": "./chunks/f8/f88287fd562c2afef12209425a828600b1952dc6.js",
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/HallSoundMgt.ts": "./chunks/86/86434676c3f09fb06d75129b9963e917a4858af8.js",
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/joinRoom.ts": "./chunks/da/da38ad468d74cba3b9a0bbf81cbf68e5620b7715.js",
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/loginScene/LoginClient.ts": "./chunks/f6/f604270b13d062bc9bf33c281d167fa2c3b7e666.js",
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/loginScene/LoginScene.ts": "./chunks/98/98969db88b3b2ad6955ae37cf07d9ec2a4cc1636.js",
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/BZDClient.ts": "./chunks/81/8135b33dfdb85bc5a14f4864939a9c69ecd80d7d.js",
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/BZDSceneMgt.ts": "./chunks/0b/0b5ba4a809c63a1f3403835947f1d2e0640f96fe.js",
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/BZDSoundMgt.ts": "./chunks/91/914552d878c813d51176de8a1c607dbd6a905cab.js",
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/Poker.ts": "./chunks/8f/8f8ab851335f1d92a2c6d69d8a04feafa3886503.js",
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/PokerCtr.ts": "./chunks/5a/5a9050310f6633a32d17b90062a35ff5ee35c6e4.js"
+  },
+  "scopes": {
+    "./chunks/06/06905a76530cf57ee019d9d8bcfb507c2d037fd3.js": {
+      "__unresolved_0": "cce:/internal/x/cc-fu/base",
+      "__unresolved_1": "cce:/internal/x/cc-fu/gfx-webgl",
+      "__unresolved_10": "cce:/internal/x/cc-fu/physics-framework",
+      "__unresolved_11": "cce:/internal/x/cc-fu/physics-2d-framework",
+      "__unresolved_12": "cce:/internal/x/cc-fu/intersection-2d",
+      "__unresolved_13": "cce:/internal/x/cc-fu/primitive",
+      "__unresolved_14": "cce:/internal/x/cc-fu/profiler",
+      "__unresolved_15": "cce:/internal/x/cc-fu/audio",
+      "__unresolved_16": "cce:/internal/x/cc-fu/video",
+      "__unresolved_17": "cce:/internal/x/cc-fu/terrain",
+      "__unresolved_18": "cce:/internal/x/cc-fu/webview",
+      "__unresolved_19": "cce:/internal/x/cc-fu/tween",
+      "__unresolved_2": "cce:/internal/x/cc-fu/gfx-webgl2",
+      "__unresolved_20": "cce:/internal/x/cc-fu/tiled-map",
+      "__unresolved_21": "cce:/internal/x/cc-fu/spine",
+      "__unresolved_22": "cce:/internal/x/cc-fu/dragon-bones",
+      "__unresolved_3": "cce:/internal/x/cc-fu/3d",
+      "__unresolved_4": "cce:/internal/x/cc-fu/animation",
+      "__unresolved_5": "cce:/internal/x/cc-fu/skeletal-animation",
+      "__unresolved_6": "cce:/internal/x/cc-fu/2d",
+      "__unresolved_7": "cce:/internal/x/cc-fu/ui",
+      "__unresolved_8": "cce:/internal/x/cc-fu/particle",
+      "__unresolved_9": "cce:/internal/x/cc-fu/particle-2d"
+    },
+    "./chunks/c1/c1197de683ea2e6ee3f497b1d6f6b3dda8413386.js": {
+      "__unresolved_0": "./chunks/9d/9d023fc509fcb96af4acde2bdf7bea5a4e57e8d0.js",
+      "__unresolved_1": "./chunks/14/141dc4b3d2dafb004b152091eeade715ff4f94e9.js",
+      "__unresolved_10": "./chunks/86/86434676c3f09fb06d75129b9963e917a4858af8.js",
+      "__unresolved_11": "./chunks/79/79ff82bd930b1159a36211bb1ef3ebbbb9f7f5b2.js",
+      "__unresolved_12": "./chunks/da/da38ad468d74cba3b9a0bbf81cbf68e5620b7715.js",
+      "__unresolved_13": "./chunks/f6/f604270b13d062bc9bf33c281d167fa2c3b7e666.js",
+      "__unresolved_14": "./chunks/98/98969db88b3b2ad6955ae37cf07d9ec2a4cc1636.js",
+      "__unresolved_2": "./chunks/66/6624b300823f1679fe36d652d021f0f1301646f4.js",
+      "__unresolved_3": "./chunks/81/8135b33dfdb85bc5a14f4864939a9c69ecd80d7d.js",
+      "__unresolved_4": "./chunks/0b/0b5ba4a809c63a1f3403835947f1d2e0640f96fe.js",
+      "__unresolved_5": "./chunks/91/914552d878c813d51176de8a1c607dbd6a905cab.js",
+      "__unresolved_6": "./chunks/8f/8f8ab851335f1d92a2c6d69d8a04feafa3886503.js",
+      "__unresolved_7": "./chunks/5a/5a9050310f6633a32d17b90062a35ff5ee35c6e4.js",
+      "__unresolved_8": "./chunks/54/54d73fa9b2adfa5ca61d600c9c2363429d6e29e9.js",
+      "__unresolved_9": "./chunks/f8/f88287fd562c2afef12209425a828600b1952dc6.js"
+    },
+    "./chunks/f8/f88287fd562c2afef12209425a828600b1952dc6.js": {
+      "__unresolved_0": "./chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js",
+      "__unresolved_1": "./chunks/86/86434676c3f09fb06d75129b9963e917a4858af8.js",
+      "cc": "./chunks/06/06905a76530cf57ee019d9d8bcfb507c2d037fd3.js"
+    },
+    "./chunks/86/86434676c3f09fb06d75129b9963e917a4858af8.js": {
+      "cc": "./chunks/06/06905a76530cf57ee019d9d8bcfb507c2d037fd3.js"
+    },
+    "./chunks/54/54d73fa9b2adfa5ca61d600c9c2363429d6e29e9.js": {
+      "cc": "./chunks/06/06905a76530cf57ee019d9d8bcfb507c2d037fd3.js"
+    },
+    "./chunks/5a/5a9050310f6633a32d17b90062a35ff5ee35c6e4.js": {
+      "cc": "./chunks/06/06905a76530cf57ee019d9d8bcfb507c2d037fd3.js"
+    },
+    "./chunks/8f/8f8ab851335f1d92a2c6d69d8a04feafa3886503.js": {
+      "cc": "./chunks/06/06905a76530cf57ee019d9d8bcfb507c2d037fd3.js"
+    },
+    "./chunks/91/914552d878c813d51176de8a1c607dbd6a905cab.js": {
+      "cc": "./chunks/06/06905a76530cf57ee019d9d8bcfb507c2d037fd3.js"
+    },
+    "./chunks/0b/0b5ba4a809c63a1f3403835947f1d2e0640f96fe.js": {
+      "__unresolved_0": "./chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js",
+      "__unresolved_1": "./chunks/14/141dc4b3d2dafb004b152091eeade715ff4f94e9.js",
+      "__unresolved_2": "./chunks/91/914552d878c813d51176de8a1c607dbd6a905cab.js",
+      "cc": "./chunks/06/06905a76530cf57ee019d9d8bcfb507c2d037fd3.js"
+    },
+    "./chunks/14/141dc4b3d2dafb004b152091eeade715ff4f94e9.js": {
+      "cc": "./chunks/06/06905a76530cf57ee019d9d8bcfb507c2d037fd3.js"
+    },
+    "./chunks/81/8135b33dfdb85bc5a14f4864939a9c69ecd80d7d.js": {
+      "cc": "./chunks/06/06905a76530cf57ee019d9d8bcfb507c2d037fd3.js"
+    },
+    "./chunks/66/6624b300823f1679fe36d652d021f0f1301646f4.js": {
+      "cc": "./chunks/06/06905a76530cf57ee019d9d8bcfb507c2d037fd3.js"
+    },
+    "./chunks/98/98969db88b3b2ad6955ae37cf07d9ec2a4cc1636.js": {
+      "cc": "./chunks/06/06905a76530cf57ee019d9d8bcfb507c2d037fd3.js"
+    },
+    "./chunks/f6/f604270b13d062bc9bf33c281d167fa2c3b7e666.js": {
+      "cc": "./chunks/06/06905a76530cf57ee019d9d8bcfb507c2d037fd3.js"
+    },
+    "./chunks/da/da38ad468d74cba3b9a0bbf81cbf68e5620b7715.js": {
+      "__unresolved_0": "./chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js",
+      "__unresolved_1": "./chunks/86/86434676c3f09fb06d75129b9963e917a4858af8.js",
+      "cc": "./chunks/06/06905a76530cf57ee019d9d8bcfb507c2d037fd3.js"
+    },
+    "./chunks/79/79ff82bd930b1159a36211bb1ef3ebbbb9f7f5b2.js": {
+      "__unresolved_0": "./chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js",
+      "__unresolved_1": "./chunks/86/86434676c3f09fb06d75129b9963e917a4858af8.js",
+      "cc": "./chunks/06/06905a76530cf57ee019d9d8bcfb507c2d037fd3.js"
+    },
+    "./chunks/9d/9d023fc509fcb96af4acde2bdf7bea5a4e57e8d0.js": {
+      "cc": "./chunks/06/06905a76530cf57ee019d9d8bcfb507c2d037fd3.js"
+    }
+  }
+}

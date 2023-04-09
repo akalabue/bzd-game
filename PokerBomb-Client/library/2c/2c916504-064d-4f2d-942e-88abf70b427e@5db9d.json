@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ddzBack",
+    "atlas": "2c916504-064d-4f2d-942e-88abf70b427e",
+    "rect": {
+      "x": 828,
+      "y": 1496,
+      "width": 106,
+      "height": 127
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 106,
+      "height": 127
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "61046ef9-cf4c-4851-918d-f51158ebf6f0@6c48a",
+    "packable": true
+  }
+}

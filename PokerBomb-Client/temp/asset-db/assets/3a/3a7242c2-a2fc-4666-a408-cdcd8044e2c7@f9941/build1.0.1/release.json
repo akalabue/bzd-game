@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "3ackLCovxGZqQIzc2AROLH@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "准备",
+            "rect": {
+                "x": 23,
+                "y": 53,
+                "width": 230,
+                "height": 102
+            },
+            "offset": {
+                "x": -3.5,
+                "y": -3
+            },
+            "originalSize": {
+                "width": 283,
+                "height": 202
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "出牌",
+    "atlas": "",
+    "rect": {
+      "x": 32,
+      "y": 44,
+      "width": 230,
+      "height": 102
+    },
+    "offset": {
+      "x": -2.5,
+      "y": -4
+    },
+    "originalSize": {
+      "width": 299,
+      "height": 182
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "3b709f88-2ca4-403e-81ed-8d69aabb5e76@6c48a",
+    "packable": true
+  }
+}

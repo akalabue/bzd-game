@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "91B8+xdlVNjbKKjFk1wART@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "创建房间",
+            "rect": {
+                "x": 33,
+                "y": 46,
+                "width": 142,
+                "height": 40
+            },
+            "offset": {
+                "x": -0.5,
+                "y": -2
+            },
+            "originalSize": {
+                "width": 209,
+                "height": 128
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

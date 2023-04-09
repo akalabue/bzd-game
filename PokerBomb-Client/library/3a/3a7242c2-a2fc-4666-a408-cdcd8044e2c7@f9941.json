@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "准备",
+    "atlas": "",
+    "rect": {
+      "x": 23,
+      "y": 53,
+      "width": 230,
+      "height": 102
+    },
+    "offset": {
+      "x": -3.5,
+      "y": -3
+    },
+    "originalSize": {
+      "width": 283,
+      "height": 202
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "3a7242c2-a2fc-4666-a408-cdcd8044e2c7@6c48a",
+    "packable": true
+  }
+}

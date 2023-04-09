@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "创建房间",
+    "atlas": "",
+    "rect": {
+      "x": 33,
+      "y": 46,
+      "width": 142,
+      "height": 40
+    },
+    "offset": {
+      "x": -0.5,
+      "y": -2
+    },
+    "originalSize": {
+      "width": 209,
+      "height": 128
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "9107cfb1-7655-4d8d-b28a-8c5935c00453@6c48a",
+    "packable": true
+  }
+}

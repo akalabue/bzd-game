@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "30U4kFjtFH0bbhHdY4iRiS@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "标题",
+            "rect": {
+                "x": 29,
+                "y": 11,
+                "width": 155,
+                "height": 49
+            },
+            "offset": {
+                "x": -1,
+                "y": -5.5
+            },
+            "originalSize": {
+                "width": 215,
+                "height": 60
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]
