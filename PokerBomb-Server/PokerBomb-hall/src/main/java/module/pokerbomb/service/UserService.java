@@ -5,4 +5,8 @@ import module.pokerbomb.entity.UserEntity;
 
 public interface UserService extends IService<UserEntity> {
     UserEntity login(Long id);
+
+    UserEntity getByOpenid(String openid);
+
+    UserEntity login(String url, String nickName, String avatarUrl);
 }

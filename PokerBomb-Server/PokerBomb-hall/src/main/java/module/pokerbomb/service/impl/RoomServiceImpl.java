@@ -79,8 +79,8 @@ public class RoomServiceImpl extends ServiceImpl<RoomDao, RoomEntity> implements
 
         GameRole newRole = new GameRole();
         newRole.setUserId(userId);
-        newRole.setUserName(user.getUserName());
-        newRole.setUserIcon(user.getUserHeadUrl());
+        newRole.setUserName(user.getNickName());
+        newRole.setUserIcon(user.getAvatarUrl());
         newRole.setTotalPoints(0);
         newRole.setJuPoints(0);
         newRole.setPanPoints(0);
@@ -217,8 +217,6 @@ public class RoomServiceImpl extends ServiceImpl<RoomDao, RoomEntity> implements
         int points = cardService.getCurCardsPoints(pushCardVo.getCurCardList());
         roomInfo.setCurPoints(roomInfo.getCurPoints() + points);
 
-        RoomEntity roomEntity = TransformRoomInfo.roomInfoToRoom(roomInfo);
-        updateById(roomEntity);
         int nextUser = (curSeat + 1) % 4;
         if(gameRoles[nextUser].getUserStatus().getStatus().equals(UserStatusEnum.END)){
             map.put("myStatus", "END");
@@ -249,6 +247,8 @@ public class RoomServiceImpl extends ServiceImpl<RoomDao, RoomEntity> implements
             panGameOver();
         }
         map.put("points", roomInfo.getCurPoints());
+        RoomEntity roomEntity = TransformRoomInfo.roomInfoToRoom(roomInfo);
+        updateById(roomEntity);
         return map;
     }
 
@@ -494,6 +494,7 @@ public class RoomServiceImpl extends ServiceImpl<RoomDao, RoomEntity> implements
                 pushCardVo.setMyStatus("END");
             } else {
                 pushCardVo.setMyStatus("PLAYING");
+                gameRole2.getUserStatus().setStatus(UserStatusEnum.PLAYING);
             }
         }
 

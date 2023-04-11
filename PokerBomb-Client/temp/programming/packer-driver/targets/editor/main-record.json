@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 16102.164099931717,
+      "mTimestamp": 12583.374799966812,
       "chunkId": "06905a76530cf57ee019d9d8bcfb507c2d037fd3",
       "imports": [
         {
@@ -493,11 +493,11 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 16225.774699926376,
+      "mTimestamp": 20297505.85679984,
       "chunkId": "c1197de683ea2e6ee3f497b1d6f6b3dda8413386",
       "imports": [
         {
-          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/common/GameRole.ts",
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/common/GameRole.ts",
           "resolved": "__unresolved_0",
           "loc": {
             "start": {
@@ -506,203 +506,203 @@
             },
             "end": {
               "line": 5,
-              "column": 228
+              "column": 237
             }
           }
         },
         {
-          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/common/PushCardVo.ts",
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/common/PushCardVo.ts",
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
               "line": 5,
-              "column": 244
+              "column": 253
             },
             "end": {
               "line": 5,
-              "column": 439
+              "column": 457
             }
           }
         },
         {
-          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/common/UserInfo.ts",
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/common/UserInfo.ts",
           "resolved": "__unresolved_2",
           "loc": {
             "start": {
               "line": 5,
-              "column": 455
+              "column": 473
             },
             "end": {
               "line": 5,
-              "column": 648
+              "column": 675
             }
           }
         },
         {
-          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/BZDClient.ts",
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/games/bazhadan/BZDClient.ts",
           "resolved": "__unresolved_3",
           "loc": {
             "start": {
               "line": 5,
-              "column": 664
+              "column": 691
             },
             "end": {
               "line": 5,
-              "column": 866
+              "column": 902
             }
           }
         },
         {
-          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/BZDSceneMgt.ts",
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/games/bazhadan/BZDSceneMgt.ts",
           "resolved": "__unresolved_4",
           "loc": {
             "start": {
               "line": 5,
-              "column": 882
+              "column": 918
             },
             "end": {
               "line": 5,
-              "column": 1086
+              "column": 1131
             }
           }
         },
         {
-          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/BZDSoundMgt.ts",
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/games/bazhadan/BZDSoundMgt.ts",
           "resolved": "__unresolved_5",
           "loc": {
             "start": {
               "line": 5,
-              "column": 1102
+              "column": 1147
             },
             "end": {
               "line": 5,
-              "column": 1306
+              "column": 1360
             }
           }
         },
         {
-          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/Poker.ts",
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/games/bazhadan/Poker.ts",
           "resolved": "__unresolved_6",
           "loc": {
             "start": {
               "line": 5,
-              "column": 1322
+              "column": 1376
             },
             "end": {
               "line": 5,
-              "column": 1520
+              "column": 1583
             }
           }
         },
         {
-          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/PokerCtr.ts",
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/games/bazhadan/PokerCtr.ts",
           "resolved": "__unresolved_7",
           "loc": {
             "start": {
               "line": 5,
-              "column": 1536
+              "column": 1599
             },
             "end": {
               "line": 5,
-              "column": 1737
+              "column": 1809
             }
           }
         },
         {
-          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/HallClient.ts",
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/hallScene/HallClient.ts",
           "resolved": "__unresolved_8",
           "loc": {
             "start": {
               "line": 5,
-              "column": 1753
+              "column": 1825
             },
             "end": {
               "line": 5,
-              "column": 1951
+              "column": 2032
             }
           }
         },
         {
-          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/HallSceneMgt.ts",
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/hallScene/HallSceneMgt.ts",
           "resolved": "__unresolved_9",
           "loc": {
             "start": {
               "line": 5,
-              "column": 1967
+              "column": 2048
             },
             "end": {
               "line": 5,
-              "column": 2167
+              "column": 2257
             }
           }
         },
         {
-          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/HallSoundMgt.ts",
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/hallScene/HallSoundMgt.ts",
           "resolved": "__unresolved_10",
           "loc": {
             "start": {
               "line": 5,
-              "column": 2183
+              "column": 2273
             },
             "end": {
               "line": 5,
-              "column": 2383
+              "column": 2482
             }
           }
         },
         {
-          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/createRoom.ts",
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/hallScene/createRoom.ts",
           "resolved": "__unresolved_11",
           "loc": {
             "start": {
               "line": 5,
-              "column": 2399
+              "column": 2498
             },
             "end": {
               "line": 5,
-              "column": 2597
+              "column": 2705
             }
           }
         },
         {
-          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/joinRoom.ts",
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/hallScene/joinRoom.ts",
           "resolved": "__unresolved_12",
           "loc": {
             "start": {
               "line": 5,
-              "column": 2613
+              "column": 2721
             },
             "end": {
               "line": 5,
-              "column": 2809
+              "column": 2926
             }
           }
         },
         {
-          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/loginScene/LoginClient.ts",
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/loginScene/LoginClient.ts",
           "resolved": "__unresolved_13",
           "loc": {
             "start": {
               "line": 5,
-              "column": 2825
+              "column": 2942
             },
             "end": {
               "line": 5,
-              "column": 3025
+              "column": 3151
             }
           }
         },
         {
-          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/loginScene/LoginScene.ts",
+          "value": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/loginScene/LoginScene.ts",
           "resolved": "__unresolved_14",
           "loc": {
             "start": {
               "line": 5,
-              "column": 3041
+              "column": 3167
             },
             "end": {
               "line": 5,
-              "column": 3240
+              "column": 3375
             }
           }
         }
@@ -712,105 +712,105 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/common/GameRole.ts"
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/common/GameRole.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/common/PushCardVo.ts"
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/common/PushCardVo.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/common/UserInfo.ts"
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/common/UserInfo.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/BZDClient.ts"
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/games/bazhadan/BZDClient.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/BZDSceneMgt.ts"
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/games/bazhadan/BZDSceneMgt.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/BZDSoundMgt.ts"
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/games/bazhadan/BZDSoundMgt.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/Poker.ts"
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/games/bazhadan/Poker.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/games/bazhadan/PokerCtr.ts"
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/games/bazhadan/PokerCtr.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/HallClient.ts"
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/hallScene/HallClient.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/HallSceneMgt.ts"
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/hallScene/HallSceneMgt.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/HallSoundMgt.ts"
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/hallScene/HallSoundMgt.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/createRoom.ts"
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/hallScene/createRoom.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/hallScene/joinRoom.ts"
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/hallScene/joinRoom.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/loginScene/LoginClient.ts"
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/loginScene/LoginClient.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/PokerBomb-Client/assets/Script/loginScene/LoginScene.ts"
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/loginScene/LoginScene.ts"
           },
           "messages": []
         }
@@ -1668,7 +1668,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1681044993058,
+      "mTimestamp": 1681210772131,
       "chunkId": "84741ad843cea9a440c5d8c2d379669b6551400d",
       "imports": [],
       "type": "esm",
@@ -2946,6 +2946,785 @@
             "end": {
               "line": 1,
               "column": 83
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/common/GameRole.ts": {
+      "mTimestamp": {
+        "mtime": 1681049330644.8042,
+        "uuid": "74e00419-bb70-4d13-992a-d510d7dc371d"
+      },
+      "chunkId": "4599e3ec77b701346bdd82445978a5b4c0aee11b",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/common/PushCardVo.ts": {
+      "mTimestamp": {
+        "mtime": 1681049330645.8054,
+        "uuid": "db37cb43-4664-4d5e-bb38-171c8189946c"
+      },
+      "chunkId": "328833ceca0c31cc0d1283fca7c1cee9e454dc76",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/common/UserInfo.ts": {
+      "mTimestamp": {
+        "mtime": 1681049330647.7961,
+        "uuid": "ad450072-0265-46ae-8552-498f2b8ac2a8"
+      },
+      "chunkId": "85bcb80b965f894491ec5ef6a8cf43a24a8c54a1",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/games/bazhadan/BZDClient.ts": {
+      "mTimestamp": {
+        "mtime": 1681231052393.9316,
+        "uuid": "7cd740f2-9349-4c22-b7fe-a708e44a0f87"
+      },
+      "chunkId": "d22dd0cd22ede045781a542125fba3a50d9a5d42",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/games/bazhadan/BZDSceneMgt.ts": {
+      "mTimestamp": {
+        "mtime": 1681056683599.2131,
+        "uuid": "2144f1e9-0fd1-4949-8a08-c5f91b7b7790"
+      },
+      "chunkId": "886a2888186e2978a92c3ba7d4115ef4eaa55b03",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 176
+            },
+            "end": {
+              "line": 1,
+              "column": 180
+            }
+          }
+        },
+        {
+          "value": "../../common/PushCardVo",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 27
+            },
+            "end": {
+              "line": 3,
+              "column": 52
+            }
+          }
+        },
+        {
+          "value": "./BZDSoundMgt",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 28
+            },
+            "end": {
+              "line": 4,
+              "column": 43
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/common/PushCardVo.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/games/bazhadan/BZDSoundMgt.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/games/bazhadan/BZDSoundMgt.ts": {
+      "mTimestamp": {
+        "mtime": 1681049330656.7732,
+        "uuid": "f3fbf2ec-ecd8-4b93-b38e-27ab86ac9398"
+      },
+      "chunkId": "8c44348479c59c2c0b3235a543ffdce62abce0ec",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 79
+            },
+            "end": {
+              "line": 1,
+              "column": 83
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/games/bazhadan/Poker.ts": {
+      "mTimestamp": {
+        "mtime": 1681049330658.319,
+        "uuid": "1c169422-2e2c-4d79-9df1-f0d2aec05e34"
+      },
+      "chunkId": "ea1d66b016b308be93b2bb753454cdb7ea3a32f7",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 97
+            },
+            "end": {
+              "line": 1,
+              "column": 101
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/games/bazhadan/PokerCtr.ts": {
+      "mTimestamp": {
+        "mtime": 1681049330660.3203,
+        "uuid": "d0d46114-ad5f-4776-a1da-777a41a091e8"
+      },
+      "chunkId": "2928aa62fd111918ade1b2c1e409c3ec5bdf2692",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 76
+            },
+            "end": {
+              "line": 1,
+              "column": 80
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/hallScene/HallClient.ts": {
+      "mTimestamp": {
+        "mtime": 1681223842694.0999,
+        "uuid": "07e445ce-dde7-4c81-944f-bc98c764644d"
+      },
+      "chunkId": "3667467d3908361a2af23271a602c799fb60d6bb",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/hallScene/HallSceneMgt.ts": {
+      "mTimestamp": {
+        "mtime": 1681230096561.1858,
+        "uuid": "1967dfa1-66e5-46c6-8729-892357f0f69a"
+      },
+      "chunkId": "2c0fc14cccb1f95c91274210cb0fbdaef164bd52",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 127
+            },
+            "end": {
+              "line": 1,
+              "column": 131
+            }
+          }
+        },
+        {
+          "value": "./HallSoundMgt",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 29
+            },
+            "end": {
+              "line": 2,
+              "column": 45
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/hallScene/HallSoundMgt.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/hallScene/HallSoundMgt.ts": {
+      "mTimestamp": {
+        "mtime": 1681049330667.329,
+        "uuid": "8d715bb0-b1a7-492f-833f-b6cb519bc9bc"
+      },
+      "chunkId": "07b1ad7273f7255c1bd566d70ce0ea4e00c7110e",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 68
+            },
+            "end": {
+              "line": 1,
+              "column": 72
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/hallScene/createRoom.ts": {
+      "mTimestamp": {
+        "mtime": 1681049330668.3352,
+        "uuid": "cbda93b8-0f9f-4bce-96be-2eb927d12bea"
+      },
+      "chunkId": "c130968af498d0127a58b711f9faea71092f0021",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "./HallSoundMgt",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 29
+            },
+            "end": {
+              "line": 2,
+              "column": 45
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/hallScene/HallSoundMgt.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/hallScene/joinRoom.ts": {
+      "mTimestamp": {
+        "mtime": 1681049330670.3296,
+        "uuid": "0ffd23c0-983e-454b-b76f-5a71a11578e0"
+      },
+      "chunkId": "ada4230e8c4cfe76a759bb031777b30ed315d0b2",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 51
+            },
+            "end": {
+              "line": 1,
+              "column": 55
+            }
+          }
+        },
+        {
+          "value": "./HallSoundMgt",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 29
+            },
+            "end": {
+              "line": 2,
+              "column": 45
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/hallScene/HallSoundMgt.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/loginScene/LoginClient.ts": {
+      "mTimestamp": {
+        "mtime": 1681229489379.6753,
+        "uuid": "a5e56584-5574-44e8-bbb0-2454a5e3d958"
+      },
+      "chunkId": "9b15b80a9541c10048a175fb2405de1082c7fdcb",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 56
+            },
+            "end": {
+              "line": 1,
+              "column": 60
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/loginScene/LoginScene.ts": {
+      "mTimestamp": {
+        "mtime": 1681230717425.286,
+        "uuid": "a9524566-bd21-415d-a7ea-e035f9dc33eb"
+      },
+      "chunkId": "8f479c79cdf2bcead8c8a56363b34f5be3583e37",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 63
+            },
+            "end": {
+              "line": 1,
+              "column": 67
             }
           }
         }

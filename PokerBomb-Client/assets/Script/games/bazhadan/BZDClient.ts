@@ -20,7 +20,7 @@ export class BZDClient extends Component {
 
     private _connectServer(){
         let ip = window.location.hostname;
-        const ws = new WebSocket(`ws:${window.location.hostname}:9091/websocket/bzd/${globalThis._userInfo.room_id}/${globalThis._userInfo.user_id}`);
+        const ws = new WebSocket(`ws://${window.location.hostname}:9091/websocket/bzd/${globalThis._userInfo.room_id}/${globalThis._userInfo.user_id}`);
         this._ws = ws;
         ws.onopen = ()=>{
             console.log("连接霸炸弹游戏服务器成功");

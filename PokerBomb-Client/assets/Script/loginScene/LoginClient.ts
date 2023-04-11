@@ -19,7 +19,7 @@ export class LoginClient extends Component {
 
     private _init() {
         globalThis._loginClientMgr = this;//使得全局能够获取此对象
-        this._connectServer();
+        // this._connectServer();
     }
 
     private _connectServer(){

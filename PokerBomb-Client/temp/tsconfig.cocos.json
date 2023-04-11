@@ -5,17 +5,17 @@
     "module": "ES2015",
     "strict": true,
     "types": [
-      "./temp/declarations/cc.custom-macro",
       "./temp/declarations/jsb",
+      "./temp/declarations/cc",
       "./temp/declarations/cc.env",
-      "./temp/declarations/cc"
+      "./temp/declarations/cc.custom-macro"
     ],
     "paths": {
       "db://internal/*": [
         "D:\\ProgramData\\cocos\\editors\\3.5.2\\resources\\resources\\3d\\engine\\editor\\assets\\*"
       ],
       "db://assets/*": [
-        "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\PokerBomb-Client\\assets\\*"
+        "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\*"
       ]
     },
     "experimentalDecorators": true,

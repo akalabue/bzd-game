@@ -202,6 +202,7 @@ export class BZDSceneMgt extends Component {
         let status = users[0].userStatus.status;
         //还未发牌
         if(status == "UNREADY" || status == "READY"){
+            console.log("还未发牌")
             for(let i = 0, j = cur; i < 4; i++, j++){
                 this.pushCardsView[i].active = false;
                 if(j >= 4)j -= 4;
@@ -216,28 +217,25 @@ export class BZDSceneMgt extends Component {
             else this.startBtn.active = false;
         }else {
             //已经发牌了
+            console.log("已经发牌了");
+            // this.cancelReadyBtn.active = false;
+            // this.startBtn.active = false;
+            for(let i = 0; i < 4; i++){
+                this.cleanPushCards(i);
+            }
             //显示玩家手牌
             this.cardList = users[cur].userCards;
-            let bool = true;
+            let bool = false;
             for(let i = 0, j = cur; i < 4; i++, j++){
                 if(j >= 4)j -= 4;
                 let status = users[j].userStatus.status;
                 if(status == "PLAYED"){
                     let cardList = users[j].userStatus.data;
                     this.showPushCards(i, cardList);
-                    bool = false;
+                    bool = true;
                 }else if(status == "PLAYING"){
                     // this.onloadAtlas(j);
                     this.showPoker(j);
-                    if(j == cur){
-                        for(let p = 0, q = cur; p < 4; p++, q--){
-                            if(q < 0)q += 4;
-                            if(users[q].userStatus.status == "PLAYED"){
-                                this.pushcardVo.prePushSeat = q;
-                                break;
-                            }
-                        }
-                    }
                 }else if(status == "PASS"){
                     this.passLable[i].active = true;
                 }else if(status == "END"){
@@ -247,6 +245,15 @@ export class BZDSceneMgt extends Component {
             if(users[cur].userStatus.status == "PLAYING"){
                 this.pushCardBtn.active = true;
                 this.passBtn.active = bool;
+                this.promptBtn.active = bool;
+                for(let p = 0, q = cur; p < 4; p++, q--){
+                    if(q < 0)q += 4;
+                    if(users[q].userStatus.status == "PLAYED"){
+                        this.pushcardVo.prePushSeat = q;
+                        this.pushcardVo.preCardList = users[q].userStatus.data;
+                        break;
+                    }
+                }
             }
             this.paiPoints.string = "牌面积分:" + roomInfo.curPoints;
         }
@@ -349,6 +356,11 @@ export class BZDSceneMgt extends Component {
                     }
                 }
             }).start();
+        }
+        for(let i = this.cardList.length; i < 27; i++){
+            let cardName = "card" + i;
+            let cardNode = this.pokerView.getChildByName(cardName);
+            cardNode.active = false;
         }
     }
 

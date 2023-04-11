@@ -4286,5 +4286,2045 @@
     "time": 1679912401441.4788,
     "uuid": "badf43d2-aa4a-4b6d-9997-06a952dbc7c4",
     "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\prefabs": {
+    "time": 1681049330691.2712,
+    "uuid": "fdc24fb2-72e3-4e16-acb1-218211b261eb",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources": {
+    "time": 1681049330794.5723,
+    "uuid": "1d99e3bb-8691-4f4d-8c1e-32214a129f94",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Scenes": {
+    "time": 1681049330637.7864,
+    "uuid": "074be72e-4115-42c9-9da9-684f24266e4c",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script": {
+    "time": 1681049330672.3245,
+    "uuid": "947ede48-f94c-4ffa-94ae-5ba4d389f1bf",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\prefabs\\createRoom.prefab": {
+    "time": 1681049330684.285,
+    "uuid": "5753a0b4-ff72-4dd8-8423-0f1f3e030b17",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\prefabs\\headNode.prefab": {
+    "time": 1681049330686.2844,
+    "uuid": "c96097fa-916b-47a8-8b84-ec10fbe2bdf9",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\prefabs\\joinRoom.prefab": {
+    "time": 1681049330688.2732,
+    "uuid": "871c9338-cb39-4f85-838a-dcda2bb18d6d",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\prefabs\\over.prefab": {
+    "time": 1681049330690.2676,
+    "uuid": "9523fc8d-2a6d-446e-817a-2759a58806a3",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\prefabs\\PokerView.prefab": {
+    "time": 1681049330679.268,
+    "uuid": "3c9d5e58-6ebc-4847-b2c2-325000d6a815",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\prefabs\\PushCardsView.prefab": {
+    "time": 1681049330681.2617,
+    "uuid": "b75b8942-4a12-4e1d-8f4a-03daf828d479",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image": {
+    "time": 1681049330792.5774,
+    "uuid": "6325b261-5097-4443-b99e-0f0a78fa11b2",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound": {
+    "time": 1681049331150.7324,
+    "uuid": "72373f6c-6136-4d5f-8d36-66e065f9a55f",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Scenes\\games": {
+    "time": 1681049330640.7705,
+    "uuid": "ca0e59b8-c932-4f15-99b6-f0251df9a1a1",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Scenes\\HallScene.scene": {
+    "time": 1681049330632.7922,
+    "uuid": "771c7bef-b358-4f15-94d6-04b88b196dbe",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Scenes\\LoginScene.scene": {
+    "time": 1681223776960.2773,
+    "uuid": "651e8837-0467-49d9-aecc-1295488f4b29",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\common": {
+    "time": 1681049330648.7947,
+    "uuid": "0cb03157-7d94-4d2c-8678-dd6da224e5ea",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\games": {
+    "time": 1681049330651.788,
+    "uuid": "2c40ed7d-8a9e-4b25-9a1e-a4718522e959",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\hallScene": {
+    "time": 1681049330671.3274,
+    "uuid": "194f3657-e3a6-496c-a9e1-13978731e147",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\loginScene": {
+    "time": 1681049330676.313,
+    "uuid": "e3e6c74c-b1ef-4785-81da-566bf8700ef3",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games": {
+    "time": 1681049330697.2183,
+    "uuid": "b4a2722a-e3e8-4a87-9953-9388bfe54915",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\guestLogin1.png": {
+    "time": 1681049330780.6094,
+    "uuid": "c95a7efa-9d75-4efe-b3ab-677777f1a592",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\loginBg.png": {
+    "time": 1681049330784.6206,
+    "uuid": "77c8fd7d-fecb-48bb-8926-2590412e4167",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\vxLogin.png": {
+    "time": 1681049330786.593,
+    "uuid": "eb6ba69b-e1ea-456d-b7d8-6f85301deb08",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\主背景.jpg": {
+    "time": 1681049330792.5774,
+    "uuid": "a237424a-e2cc-4558-a0c6-30c53e16c912",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\button.ogg": {
+    "time": 1681049331131.7776,
+    "uuid": "ce7f2712-7741-4bab-86a2-fc988f6d36c9",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\DealFold.ogg": {
+    "time": 1681049330795.5696,
+    "uuid": "4fea1659-5328-44e0-96ea-cf4e42789bb1",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man": {
+    "time": 1681049330959.1904,
+    "uuid": "83ba7b99-b5b1-4e17-835a-c53eb9877c13",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Special_give.ogg": {
+    "time": 1681049330963.7473,
+    "uuid": "96102993-d658-45bf-b2f9-f65e002d9869",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\SpecSelectCard.ogg": {
+    "time": 1681049330960.756,
+    "uuid": "2d96a140-412f-4809-b830-e309ae4731e8",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\SpecSysReturnFail.ogg": {
+    "time": 1681049330961.7266,
+    "uuid": "476ad809-8505-4252-873c-883d69d7a535",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman": {
+    "time": 1681049331129.784,
+    "uuid": "62161419-9fa6-421f-aa95-7e54f7d04693",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\大厅背景音乐.mp3": {
+    "time": 1681049331136.7637,
+    "uuid": "b6c1490b-5336-4d1d-96fa-d8ea7aad850d",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\欢乐斗地主背景音乐.mp3": {
+    "time": 1681049331145.7458,
+    "uuid": "74e893a4-e25f-41ad-b0f8-6787e7ac3aaf",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\游戏场景音乐.ogg": {
+    "time": 1681049331149.7346,
+    "uuid": "80ed3f1f-58c2-49b8-870f-2bebe364d79d",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Scenes\\games\\bazhadan.scene": {
+    "time": 1681221772482.901,
+    "uuid": "b2c81fcf-9bf3-4874-bea1-45433a783415",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\common\\GameRole.ts": {
+    "time": 1681049330644.8042,
+    "uuid": "74e00419-bb70-4d13-992a-d510d7dc371d",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\common\\PushCardVo.ts": {
+    "time": 1681049330645.8054,
+    "uuid": "db37cb43-4664-4d5e-bb38-171c8189946c",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\common\\UserInfo.ts": {
+    "time": 1681049330647.7961,
+    "uuid": "ad450072-0265-46ae-8552-498f2b8ac2a8",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\games\\bazhadan": {
+    "time": 1681049330660.3203,
+    "uuid": "6af35d18-78dc-416b-bf1f-36704e88c78b",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\hallScene\\createRoom.ts": {
+    "time": 1681049330668.3352,
+    "uuid": "cbda93b8-0f9f-4bce-96be-2eb927d12bea",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\hallScene\\HallClient.ts": {
+    "time": 1681223842694.0999,
+    "uuid": "07e445ce-dde7-4c81-944f-bc98c764644d",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\hallScene\\HallSceneMgt.ts": {
+    "time": 1681230096561.1858,
+    "uuid": "1967dfa1-66e5-46c6-8729-892357f0f69a",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\hallScene\\HallSoundMgt.ts": {
+    "time": 1681049330667.329,
+    "uuid": "8d715bb0-b1a7-492f-833f-b6cb519bc9bc",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\hallScene\\joinRoom.ts": {
+    "time": 1681049330670.3296,
+    "uuid": "0ffd23c0-983e-454b-b76f-5a71a11578e0",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\loginScene\\LoginClient.ts": {
+    "time": 1681229489379.6753,
+    "uuid": "a5e56584-5574-44e8-bbb0-2454a5e3d958",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\loginScene\\LoginScene.ts": {
+    "time": 1681230717425.286,
+    "uuid": "a9524566-bd21-415d-a7ea-e035f9dc33eb",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan": {
+    "time": 1681049330779.6123,
+    "uuid": "992c56fc-e313-435e-992c-0f418e3d256b",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_10.ogg": {
+    "time": 1681049330798.5608,
+    "uuid": "e08325ba-7a03-4732-b26b-94a570f8d97a",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_11.ogg": {
+    "time": 1681049330800.5586,
+    "uuid": "456b37a0-fe70-473f-a34d-62735de501b4",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_12.ogg": {
+    "time": 1681049330802.5564,
+    "uuid": "cc9a810b-d03c-4eec-b420-c00ba92b7872",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_13.ogg": {
+    "time": 1681049330804.553,
+    "uuid": "ce4fe2c3-4f4d-488b-aecc-3b9adb126973",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_14.ogg": {
+    "time": 1681049330806.548,
+    "uuid": "47657179-442a-49b8-9d4e-4c11e6a2d8ae",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_15.ogg": {
+    "time": 1681049330808.5427,
+    "uuid": "1a9ec73e-8a71-449c-b7c3-596eff02929b",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_16.ogg": {
+    "time": 1681049330809.5315,
+    "uuid": "4781b24f-2e8f-44c9-b333-6796c805103a",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_17.ogg": {
+    "time": 1681049330811.5266,
+    "uuid": "966475f6-d1da-4dbb-876a-2345f6c402fc",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_3.ogg": {
+    "time": 1681049330813.5208,
+    "uuid": "f6ba0b70-7b41-4918-91f3-6f4215f85991",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_4.ogg": {
+    "time": 1681049330815.5154,
+    "uuid": "98ae44dd-33bb-4086-ba08-2abb434583b1",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_5.ogg": {
+    "time": 1681049330817.511,
+    "uuid": "8d7932ec-880f-43ee-a0aa-d71d9048ea47",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_6.ogg": {
+    "time": 1681049330819.4753,
+    "uuid": "629e9be7-9043-4b3d-9f54-62575ddb6b9a",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_7.ogg": {
+    "time": 1681049330821.4692,
+    "uuid": "29089086-9d1b-4c83-b32a-4b3d33cb89be",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_8.ogg": {
+    "time": 1681049330823.4636,
+    "uuid": "65917e95-e9ef-4e85-83a4-569419cb04c5",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_9.ogg": {
+    "time": 1681049330824.462,
+    "uuid": "24c3216e-7dda-4f3a-871c-e307f6fdea5d",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_baojing1.ogg": {
+    "time": 1681049330870.937,
+    "uuid": "7ac2c149-236e-420a-a80d-815ea4f41b55",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_baojing2.ogg": {
+    "time": 1681049330872.928,
+    "uuid": "4a80e6db-0881-489f-beae-357430de4207",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_bujiabei.ogg": {
+    "time": 1681049330874.9236,
+    "uuid": "3b2dbf92-8b3a-46b7-a5c4-1025f33e1b53",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_buyao1.ogg": {
+    "time": 1681049330876.891,
+    "uuid": "a3b7d7b7-4307-42ed-bf97-b452b3b70285",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_buyao2.ogg": {
+    "time": 1681049330878.9128,
+    "uuid": "d614aa6f-9dac-49ae-bf06-447781c94e1f",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_buyao3.ogg": {
+    "time": 1681049330880.907,
+    "uuid": "b0b2b5be-5120-41c4-8c8d-30d12c9fafc8",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_buyao4.ogg": {
+    "time": 1681049330882.873,
+    "uuid": "7ed880b1-4c02-402a-981b-a1fd886755a9",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_chaojijiabei.ogg": {
+    "time": 1681049330884.9077,
+    "uuid": "638b665d-be3c-4326-b863-4de4bb02c9cf",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Chat_0.ogg": {
+    "time": 1681049330826.4558,
+    "uuid": "1d74bba4-f1f3-456c-b2c8-9f17d809f854",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Chat_1.ogg": {
+    "time": 1681049330828.4507,
+    "uuid": "7fa03fd5-5778-4724-8242-ff7fcd7807a8",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Chat_10.ogg": {
+    "time": 1681049330830.4756,
+    "uuid": "fa07e30b-78fe-4b6b-b941-3530d9c32514",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Chat_2.ogg": {
+    "time": 1681049330833.469,
+    "uuid": "5b190cb0-c594-4e6d-b123-f035be431408",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Chat_3.ogg": {
+    "time": 1681049330835.4336,
+    "uuid": "92fea05b-539a-458c-9ea8-e316674fb336",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Chat_4.ogg": {
+    "time": 1681049330837.4656,
+    "uuid": "6932ad16-3478-4196-a2f0-069f275e611a",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Chat_5.ogg": {
+    "time": 1681049330839.46,
+    "uuid": "bfa92fd2-2cb7-4983-9ffd-83ff24b35c3a",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Chat_6.ogg": {
+    "time": 1681049330841.4468,
+    "uuid": "b7ec1c3e-145d-4930-9d47-6244bbddf299",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Chat_7.ogg": {
+    "time": 1681049330843.42,
+    "uuid": "df1e0235-7a68-4dd9-9595-144c3b8a4183",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Chat_8.ogg": {
+    "time": 1681049330846.4585,
+    "uuid": "0efd8ab1-8332-4594-b758-e5d8dd69f82c",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Chat_9.ogg": {
+    "time": 1681049330848.4495,
+    "uuid": "684b2b1b-08c5-4074-a10e-ed39869d332b",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dani1.ogg": {
+    "time": 1681049330886.8906,
+    "uuid": "7e0c6965-eb08-4a84-873d-cb6ab15a6b12",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dani2.ogg": {
+    "time": 1681049330888.885,
+    "uuid": "7b6d4d73-fc1f-448f-af17-abaae1ec2995",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dani3.ogg": {
+    "time": 1681049330889.8877,
+    "uuid": "5e1701be-9e0d-4b2f-9c5b-1abe6a84b386",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dui10.ogg": {
+    "time": 1681049330891.877,
+    "uuid": "aaa68a4b-44d4-4eb7-9dfb-c59dbb95b8c6",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dui11.ogg": {
+    "time": 1681049330893.8452,
+    "uuid": "f72a2a00-95fa-4368-acb7-7658aba42358",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dui12.ogg": {
+    "time": 1681049330896.3184,
+    "uuid": "667d2c14-1227-49d6-8bfd-88e030958f49",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dui13.ogg": {
+    "time": 1681049330898.2744,
+    "uuid": "6a380f28-92df-4999-b69d-2e4535d59256",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dui14.ogg": {
+    "time": 1681049330900.2688,
+    "uuid": "cf56a408-a9f9-41e9-b34d-ecd45fe52b4d",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dui15.ogg": {
+    "time": 1681049330901.266,
+    "uuid": "ab212f24-28da-4f94-80a5-556a3b3f3aeb",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dui3.ogg": {
+    "time": 1681049330903.2607,
+    "uuid": "ab95a28a-1954-442a-8e54-3071aa7a7b2d",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dui4.ogg": {
+    "time": 1681049330905.2556,
+    "uuid": "c607bd1c-fca1-41f9-ace0-30a3ea0e2320",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dui5.ogg": {
+    "time": 1681049330907.25,
+    "uuid": "cdd0f4fa-9ba6-4f45-9f0f-de6fd95c8316",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dui6.ogg": {
+    "time": 1681049330909.2449,
+    "uuid": "42df34a5-e245-4cab-beec-81a89f5c0a13",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dui7.ogg": {
+    "time": 1681049330911.2412,
+    "uuid": "db72d0a1-a78b-4dec-a093-13c6ec084650",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dui8.ogg": {
+    "time": 1681049330913.236,
+    "uuid": "a6097e67-9bdb-401a-b9f8-6e90f2975fac",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dui9.ogg": {
+    "time": 1681049330915.2302,
+    "uuid": "31a4cec0-4761-4e82-b02c-f51cb80146de",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_feiji.ogg": {
+    "time": 1681049330916.2466,
+    "uuid": "7ddfc497-0b1d-4ec6-8288-856d8e797493",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_jiabei.ogg": {
+    "time": 1681049330918.2412,
+    "uuid": "250f679d-e181-4116-9550-307e8571da24",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_liandui.ogg": {
+    "time": 1681049330920.236,
+    "uuid": "dbde0f1c-40b5-43ab-b47e-680d882a007c",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_NoOrder.ogg": {
+    "time": 1681049330850.4346,
+    "uuid": "abc4bb90-9422-49a2-9d42-ac91dd823466",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_NoRob.ogg": {
+    "time": 1681049330852.4292,
+    "uuid": "e8b5a1df-735b-45ec-9ffb-5c95f7334a5c",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Order.ogg": {
+    "time": 1681049330853.4268,
+    "uuid": "5dae4995-8a5b-4c5d-9802-020cd18fb201",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Rob1.ogg": {
+    "time": 1681049330855.4253,
+    "uuid": "26626f97-4ffb-4cdb-8f07-1462b91d2a72",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Rob2.ogg": {
+    "time": 1681049330857.4246,
+    "uuid": "1c23d3e7-7933-4054-90f3-5d7a4d8efd79",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Rob3.ogg": {
+    "time": 1681049330859.971,
+    "uuid": "c8cf990e-7773-45dd-9b82-42daa80fe203",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_sandaiyi.ogg": {
+    "time": 1681049330922.2405,
+    "uuid": "8da60b4a-fe66-48fa-bd4c-64c9b58c00d2",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_sandaiyidui.ogg": {
+    "time": 1681049330924.235,
+    "uuid": "c1ca98fd-a961-4e3a-8665-ffd3afccb663",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_ScoreNoOrder.ogg": {
+    "time": 1681049330861.9624,
+    "uuid": "493a547c-7ff5-45b5-80e2-f7f98e449f96",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_ScoreOrder1.ogg": {
+    "time": 1681049330862.9546,
+    "uuid": "9f8f3657-0404-4e58-a6a2-d47d232a9ece",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_ScoreOrder2.ogg": {
+    "time": 1681049330864.9502,
+    "uuid": "03bc60b3-81e2-45f7-ab5d-0fb183db340c",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_ScoreOrder3.ogg": {
+    "time": 1681049330867.9138,
+    "uuid": "d9340b99-08a0-4c43-ad82-c2c3ab13c12a",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Share.ogg": {
+    "time": 1681049330868.9397,
+    "uuid": "fa53d46b-68e8-4608-b830-0d621030c5f0",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_shunzi.ogg": {
+    "time": 1681049330926.2312,
+    "uuid": "2c474f7e-0274-46e8-ad8c-f6470d76736c",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_sidaier.ogg": {
+    "time": 1681049330928.2256,
+    "uuid": "7779b258-2b2e-4586-9eb5-1c8977d86dab",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_sidailiangdui.ogg": {
+    "time": 1681049330930.194,
+    "uuid": "9c85c557-1aec-4ed3-8cdf-5a735aa85556",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_tuple10.ogg": {
+    "time": 1681049330932.217,
+    "uuid": "3196424a-f312-4dff-be38-00a1438a3c62",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_tuple11.ogg": {
+    "time": 1681049330934.1997,
+    "uuid": "10263b61-baf8-4e7f-8a84-7068ea296f38",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_tuple12.ogg": {
+    "time": 1681049330936.1953,
+    "uuid": "fb248fc6-b725-4a53-b44d-7997f07f92f7",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_tuple13.ogg": {
+    "time": 1681049330937.1929,
+    "uuid": "9b67533d-c4da-44e2-969f-c08afb6aa332",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_tuple14.ogg": {
+    "time": 1681049330939.1853,
+    "uuid": "79ab12c8-2250-4da3-9a99-f0635514e0df",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_tuple15.ogg": {
+    "time": 1681049330941.1902,
+    "uuid": "b32bf902-638e-439b-92a7-9c5ef75590f9",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_tuple3.ogg": {
+    "time": 1681049330943.1917,
+    "uuid": "82cce2ba-5baa-45ef-8efd-a92c28fe037c",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_tuple4.ogg": {
+    "time": 1681049330945.22,
+    "uuid": "f8d896ae-215c-4ff4-ae24-83e409cf367c",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_tuple5.ogg": {
+    "time": 1681049330947.185,
+    "uuid": "ce9f1e1a-0383-43f2-9734-9521da7c3bf1",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_tuple6.ogg": {
+    "time": 1681049330949.1992,
+    "uuid": "5ea53b48-7139-46ff-ad06-25040347fe7a",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_tuple7.ogg": {
+    "time": 1681049330951.1958,
+    "uuid": "acfa6c68-636a-45b5-b8fb-89fd9b0b60f4",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_tuple8.ogg": {
+    "time": 1681049330953.2004,
+    "uuid": "03559131-7a19-4068-87c2-2b249a721993",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_tuple9.ogg": {
+    "time": 1681049330954.1985,
+    "uuid": "d1a46373-0d2f-4605-9307-4d1fe4aabd24",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_wangzha.ogg": {
+    "time": 1681049330956.1921,
+    "uuid": "799aee29-9c3c-4026-8c9b-14fe8fe61c27",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_zhadan.ogg": {
+    "time": 1681049330958.1848,
+    "uuid": "4b4b5c0f-57d3-45ae-a049-bfbb269e4de7",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_10.ogg": {
+    "time": 1681049330966.7405,
+    "uuid": "4cac7828-098e-45c4-b5d0-87415c27b6b1",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_11.ogg": {
+    "time": 1681049330968.725,
+    "uuid": "542fe118-12c2-4a10-b00e-a97c50987da2",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_12.ogg": {
+    "time": 1681049330970.7224,
+    "uuid": "47e94b1c-c924-47df-b072-c2424405fe24",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_13.ogg": {
+    "time": 1681049330972.7246,
+    "uuid": "9b9e752b-fe3e-4845-a38f-9c589df5b780",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_14.ogg": {
+    "time": 1681049330974.7207,
+    "uuid": "24002555-c0ff-4cdb-9980-2be954c4fa3a",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_15.ogg": {
+    "time": 1681049330975.7183,
+    "uuid": "2712f157-fca3-4beb-bccb-4b9b176ca89d",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_16.ogg": {
+    "time": 1681049330977.683,
+    "uuid": "115e6795-dc15-4b0a-b957-9e29dbeae7a8",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_17.ogg": {
+    "time": 1681049330979.6777,
+    "uuid": "7424f99d-5e67-4852-932a-51b4c55bd382",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_3.ogg": {
+    "time": 1681049330981.7,
+    "uuid": "11378993-e5c9-46a9-bb92-0757f425bae9",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_4.ogg": {
+    "time": 1681049330983.6956,
+    "uuid": "c7a7c520-4c00-4577-b8ae-5a78b5781d58",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_5.ogg": {
+    "time": 1681049330985.6924,
+    "uuid": "da415a58-009c-4b0f-83d5-185ef318efd1",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_6.ogg": {
+    "time": 1681049330986.6873,
+    "uuid": "73940a89-d072-452d-b12a-cb5e8c9ae6d3",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_7.ogg": {
+    "time": 1681049330988.682,
+    "uuid": "fbc630f5-b030-459f-9c3c-e6fc4d74db36",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_8.ogg": {
+    "time": 1681049330990.6775,
+    "uuid": "9d025cee-b7ea-4567-8e1c-fbd1b2278aa8",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_9.ogg": {
+    "time": 1681049330992.6711,
+    "uuid": "6526667a-c0db-4fae-83a2-cec6cdd1f33f",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_baojing1.ogg": {
+    "time": 1681049331039.5464,
+    "uuid": "b6b22991-cec2-41b0-882f-c285df1f4b63",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_baojing2.ogg": {
+    "time": 1681049331041.5117,
+    "uuid": "4d425a94-7acb-4fee-8c13-2ca0b896b8e4",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_bujiabei.ogg": {
+    "time": 1681049331044.5095,
+    "uuid": "2cd6c308-0014-4a45-a7c2-aef507faba18",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_buyao1.ogg": {
+    "time": 1681049331046.5308,
+    "uuid": "263611cd-6ecf-43fe-a249-75753001558c",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_buyao2.ogg": {
+    "time": 1681049331047.5283,
+    "uuid": "61f3c75f-4f05-4eef-ab54-c3f4a01b273f",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_buyao3.ogg": {
+    "time": 1681049331049.5227,
+    "uuid": "5f45103f-c5a0-412c-afad-b24e013df5e4",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_buyao4.ogg": {
+    "time": 1681049331051.5205,
+    "uuid": "49f62807-dbad-4c8e-ad1b-2b18455dbfc6",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_chaojijiabei.ogg": {
+    "time": 1681049331053.5125,
+    "uuid": "090ec2a4-b812-4fad-88f5-c8de41212df8",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Chat_0.ogg": {
+    "time": 1681049330994.6387,
+    "uuid": "d8030fc4-2de0-44fa-98d0-448e0bb1a115",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Chat_1.ogg": {
+    "time": 1681049330996.66,
+    "uuid": "9dd2a695-af74-4181-a38d-28a871169c9d",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Chat_10.ogg": {
+    "time": 1681049330998.6562,
+    "uuid": "3e8cb8c4-0f7a-40af-abdc-cef523a32d7b",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Chat_2.ogg": {
+    "time": 1681049331000.6492,
+    "uuid": "ea9b5cae-7e97-4ed9-9087-7e935ff8a8b1",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Chat_3.ogg": {
+    "time": 1681049331003.6472,
+    "uuid": "9a761325-0c5b-4521-b2e4-add9e234d2b7",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Chat_4.ogg": {
+    "time": 1681049331005.6409,
+    "uuid": "e09ca0ee-626b-41dc-98f1-d33f3048b4d3",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Chat_5.ogg": {
+    "time": 1681049331007.631,
+    "uuid": "0d98cdea-7e6f-48ab-b96c-935c3f39df76",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Chat_6.ogg": {
+    "time": 1681049331009.6003,
+    "uuid": "3b30acde-1ee1-49d3-a46c-1ae484447172",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Chat_7.ogg": {
+    "time": 1681049331011.5916,
+    "uuid": "b0432971-3793-41e0-b362-3eb1571b99d0",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Chat_8.ogg": {
+    "time": 1681049331014.5833,
+    "uuid": "77ba6f57-d50f-4873-937e-3b8b5a766ff5",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Chat_9.ogg": {
+    "time": 1681049331016.607,
+    "uuid": "3cce25ac-4584-4a7a-897c-3c60fd7564bb",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dani1.ogg": {
+    "time": 1681049331055.512,
+    "uuid": "554fe5a3-afae-46a3-aa6f-95e0a79c24cc",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dani2.ogg": {
+    "time": 1681049331057.4734,
+    "uuid": "e4293cf7-97c0-4c1c-817a-966fecce69be",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dani3.ogg": {
+    "time": 1681049331060.0437,
+    "uuid": "ddbc770c-91df-463a-bae4-b8455f8c6079",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dui10.ogg": {
+    "time": 1681049331062.0728,
+    "uuid": "c864b4fc-a2a9-4e3b-aed2-284fcf4bd0d8",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dui11.ogg": {
+    "time": 1681049331063.0693,
+    "uuid": "8f3b20b7-9264-456d-8d2f-65c3d592f6c9",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dui12.ogg": {
+    "time": 1681049331065.0647,
+    "uuid": "a49dd233-493f-43b7-a33c-92cabc1c1ce3",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dui13.ogg": {
+    "time": 1681049331067.059,
+    "uuid": "e561bbc2-e2d1-45cf-b10a-187f2f489b3a",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dui14.ogg": {
+    "time": 1681049331069.057,
+    "uuid": "6be4e3ea-11b2-475a-b82d-dc68d696c172",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dui15.ogg": {
+    "time": 1681049331071.0476,
+    "uuid": "eb6fbfa6-62e8-49e5-b1a0-73897de42845",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dui3.ogg": {
+    "time": 1681049331073.0137,
+    "uuid": "55155496-18c0-4887-8c72-74f0466abe92",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dui4.ogg": {
+    "time": 1681049331075.0369,
+    "uuid": "263e333a-66e2-46bb-a80d-f63e4c92277e",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dui5.ogg": {
+    "time": 1681049331077.005,
+    "uuid": "83c343a0-72aa-48ea-b479-871e10295940",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dui6.ogg": {
+    "time": 1681049331079.0261,
+    "uuid": "6162958d-67c0-4a84-9a13-1171c915e33a",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dui7.ogg": {
+    "time": 1681049331081.0208,
+    "uuid": "83059928-0e00-4c82-813e-062b3e6c2d56",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dui8.ogg": {
+    "time": 1681049331082.9077,
+    "uuid": "40e40566-8d50-47f2-bbcb-b56630e734a6",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dui9.ogg": {
+    "time": 1681049331084.902,
+    "uuid": "85d91c45-0040-470c-a4d0-4066f4185987",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_feiji.ogg": {
+    "time": 1681049331086.897,
+    "uuid": "2ad2d853-c64e-4293-8168-202399fcd6fd",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_jiabei.ogg": {
+    "time": 1681049331088.8933,
+    "uuid": "1a8ad011-e0b3-43b6-a08f-22097ff606ea",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_liandui.ogg": {
+    "time": 1681049331090.9087,
+    "uuid": "56c75e48-96a6-466c-8b81-1310afef4bbf",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_NoOrder.ogg": {
+    "time": 1681049331018.602,
+    "uuid": "3089cf36-198c-48f0-a540-60cbb5dd81d3",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_NoRob.ogg": {
+    "time": 1681049331020.5706,
+    "uuid": "f694838b-2023-462e-b9ce-650627c0e362",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Order.ogg": {
+    "time": 1681049331022.5913,
+    "uuid": "3a498681-ff3d-4fb5-9693-7c7b09a61b82",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Rob1.ogg": {
+    "time": 1681049331023.5881,
+    "uuid": "da52dfcb-1243-47a5-89de-76f9ce1b9c5c",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Rob2.ogg": {
+    "time": 1681049331025.555,
+    "uuid": "d802aed5-8ccd-4738-b26f-dcf9440c999d",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Rob3.ogg": {
+    "time": 1681049331027.5813,
+    "uuid": "592f18b9-d6fe-4a2c-b29c-ff5cd82128ed",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_sandaiyi.ogg": {
+    "time": 1681049331091.9211,
+    "uuid": "35d6f421-2f1a-40b0-b7b5-0c3297963554",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_sandaiyidui.ogg": {
+    "time": 1681049331094.9077,
+    "uuid": "62b0df28-02c4-4b19-94dc-16e1b213d876",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_ScoreNoOrder.ogg": {
+    "time": 1681049331029.5764,
+    "uuid": "35e4b19c-0631-4ead-9a61-a4a863d2677c",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_ScoreOrder1.ogg": {
+    "time": 1681049331031.5566,
+    "uuid": "16b4bcab-8b78-4387-9a9c-a9440bd0bbf1",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_ScoreOrder2.ogg": {
+    "time": 1681049331033.5527,
+    "uuid": "7763b87d-1376-46a1-a726-fe4558615f18",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_ScoreOrder3.ogg": {
+    "time": 1681049331035.5562,
+    "uuid": "34133032-cb1b-473d-948c-3197734f8a36",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Share.ogg": {
+    "time": 1681049331037.5557,
+    "uuid": "98b27b6e-3d58-4faa-bce8-d4efcfdeb893",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_shunzi.ogg": {
+    "time": 1681049331095.9116,
+    "uuid": "e129af2a-7436-4411-8c1d-1a685cf6aa4a",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_sidaier.ogg": {
+    "time": 1681049331097.8994,
+    "uuid": "c5ba3c4f-a45b-4e75-b795-74576692bc21",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_sidailiangdui.ogg": {
+    "time": 1681049331099.8926,
+    "uuid": "96200dbd-dedd-46be-866a-049b454e356c",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_tuple10.ogg": {
+    "time": 1681049331101.887,
+    "uuid": "8d687155-af58-4a54-a73f-853d16312eb9",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_tuple11.ogg": {
+    "time": 1681049331104.851,
+    "uuid": "864f78c3-e815-4927-b398-a3764377f75c",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_tuple12.ogg": {
+    "time": 1681049331106.8464,
+    "uuid": "aa3a5738-2bec-44db-ab36-299c31c4831e",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_tuple13.ogg": {
+    "time": 1681049331107.871,
+    "uuid": "dd2fc299-e88d-4ccc-b313-e3cdf58b091b",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_tuple14.ogg": {
+    "time": 1681049331109.8662,
+    "uuid": "f80c068f-3380-4b25-82b0-754a9f9e1230",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_tuple15.ogg": {
+    "time": 1681049331111.885,
+    "uuid": "30f936ee-40d0-458e-b68f-464ff56aa54f",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_tuple3.ogg": {
+    "time": 1681049331113.864,
+    "uuid": "a7d8c486-1e07-4f58-b97e-79311d03d575",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_tuple4.ogg": {
+    "time": 1681049331115.8506,
+    "uuid": "d647d2b2-61a2-4dfc-81db-40d8a708d417",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_tuple5.ogg": {
+    "time": 1681049331117.8503,
+    "uuid": "95721fa9-685c-4b5d-ab55-e5fe4e6de426",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_tuple6.ogg": {
+    "time": 1681049331119.8477,
+    "uuid": "14b9baa3-0933-43d1-bb58-f3f19991101c",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_tuple7.ogg": {
+    "time": 1681049331121.807,
+    "uuid": "4458a5fa-265b-4d11-9e1e-188573df8ff1",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_tuple8.ogg": {
+    "time": 1681049331123.8196,
+    "uuid": "9809284a-56eb-4311-a0e3-7884aecdde79",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_tuple9.ogg": {
+    "time": 1681049331125.7944,
+    "uuid": "cb0a1907-1587-4837-90c2-0c047de68ee2",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_wangzha.ogg": {
+    "time": 1681049331127.788,
+    "uuid": "0fc5e0d7-dcdb-4c3e-be2a-d22b9ccb9c37",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_zhadan.ogg": {
+    "time": 1681049331129.784,
+    "uuid": "9428a63f-b848-45c5-9bd8-b521082e2a17",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\games\\bazhadan\\BZDClient.ts": {
+    "time": 1681231052393.9316,
+    "uuid": "7cd740f2-9349-4c22-b7fe-a708e44a0f87",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\games\\bazhadan\\BZDSceneMgt.ts": {
+    "time": 1681056683599.2131,
+    "uuid": "2144f1e9-0fd1-4949-8a08-c5f91b7b7790",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\games\\bazhadan\\BZDSoundMgt.ts": {
+    "time": 1681049330656.7732,
+    "uuid": "f3fbf2ec-ecd8-4b93-b38e-27ab86ac9398",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\games\\bazhadan\\Poker.ts": {
+    "time": 1681049330658.319,
+    "uuid": "1c169422-2e2c-4d79-9df1-f0d2aec05e34",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\games\\bazhadan\\PokerCtr.ts": {
+    "time": 1681049330660.3203,
+    "uuid": "d0d46114-ad5f-4776-a1da-777a41a091e8",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\bg_xiazhu.png": {
+    "time": 1681049330698.2156,
+    "uuid": "a7437b78-4e4c-4a02-b306-b6dfe6703d39",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\card": {
+    "time": 1681049330710.184,
+    "uuid": "890a5a87-a6d5-451c-8ceb-d8fe3a853b51",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\house.png": {
+    "time": 1681049330711.212,
+    "uuid": "1cdc3fb2-4f1f-4804-b3a1-b8c4990e28c2",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\offline.png": {
+    "time": 1681049330713.1794,
+    "uuid": "0df4e975-3de9-4978-b7ce-cb86c8e1d533",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\poker_bg1.jpg": {
+    "time": 1681049330716.2122,
+    "uuid": "f382f538-b7e3-4ec0-9edf-9bf3b2fe53c8",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\ready_ok.png": {
+    "time": 1681049330718.2075,
+    "uuid": "19073052-fc09-4fe5-a35c-40cfa30cc9f2",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\round.png": {
+    "time": 1681049330720.198,
+    "uuid": "7e1db85c-35fa-45ae-a223-beb9f131a7f3",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\touxiangyuanjiao.png": {
+    "time": 1681049330722.1904,
+    "uuid": "4478bbf1-b1ec-4fe7-b62c-26e12c53176e",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\不出.png": {
+    "time": 1681049330724.1863,
+    "uuid": "67e0abb3-62f9-494e-901a-526e7e36b2bf",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\任务.png": {
+    "time": 1681049330726.1416,
+    "uuid": "3038eddd-cdec-484a-9fbf-f1b90ef1ad09",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\关闭.png": {
+    "time": 1681049330728.1672,
+    "uuid": "d3b5a3b3-3b29-4659-a700-90fbdfe640ab",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\准备.png": {
+    "time": 1681049330730.1619,
+    "uuid": "3a7242c2-a2fc-4666-a408-cdcd8044e2c7",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\出牌.png": {
+    "time": 1681049330732.1604,
+    "uuid": "3b709f88-2ca4-403e-81ed-8d69aabb5e76",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\创建房间.png": {
+    "time": 1681049330734.149,
+    "uuid": "9107cfb1-7655-4d8d-b28a-8c5935c00453",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\发牌.png": {
+    "time": 1681049330737.1548,
+    "uuid": "62d8f0e6-9994-45fe-8854-8d5780c168b8",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\取消.png": {
+    "time": 1681049330740.1428,
+    "uuid": "7db549d4-89f0-47e5-9075-e278b3322f49",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\帮助.png": {
+    "time": 1681049330742.1382,
+    "uuid": "a85f0fd2-2880-4365-b859-255440f76842",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\提示.png": {
+    "time": 1681049330744.1277,
+    "uuid": "badf43d2-aa4a-4b6d-9997-06a952dbc7c4",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\数字": {
+    "time": 1681049330750.1077,
+    "uuid": "4f0cc6ef-5acb-43c1-ad22-73592aaef910",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\标题.png": {
+    "time": 1681049330751.1055,
+    "uuid": "30538905-8ed1-47d1-b6e1-1dd638891892",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\活动.png": {
+    "time": 1681049330753.0996,
+    "uuid": "7a6f744d-4d8b-4c1e-ab77-81343799a209",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\海景背景图.jpg": {
+    "time": 1681049330756.0625,
+    "uuid": "954cc222-19c9-4602-819a-3bad5f92382f",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\牌桌图片.jpg": {
+    "time": 1681049330759.6917,
+    "uuid": "ef615f97-5143-4985-b5dd-a3c0ff2ad415",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\背景框.jpg": {
+    "time": 1681049330762.6648,
+    "uuid": "42dfacd3-a57e-49dd-845a-52cf7c4028d5",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\要不起.png": {
+    "time": 1681049330764.6519,
+    "uuid": "1ebc034a-5ba8-44ad-9636-c57a2246d6df",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\角色2.png": {
+    "time": 1681049330767.6665,
+    "uuid": "7d731249-d030-4974-9b45-dd5f08a0d190",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\角色3.png": {
+    "time": 1681049330770.6594,
+    "uuid": "d172d6a0-b797-4dc8-bb53-9e2f022d5e5e",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\设置.png": {
+    "time": 1681049330772.6301,
+    "uuid": "8fa0fba0-dcba-45cd-8345-8d291dfde1d4",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\返回.png": {
+    "time": 1681049330774.6245,
+    "uuid": "e1ccc7fc-d64b-4e31-b105-18aa12247d27",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\退出.png": {
+    "time": 1681049330776.6277,
+    "uuid": "ef9400c0-ee37-444c-ad82-4c136582dc7b",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\通知.png": {
+    "time": 1681049330778.6143,
+    "uuid": "bfc63868-cb82-489e-a37d-1daaf2b42a5d",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\card\\pokerlist.plist": {
+    "time": 1681049330702.2441,
+    "uuid": "2c916504-064d-4f2d-942e-88abf70b427e",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\card\\pokerlist.png": {
+    "time": 1681049330709.1863,
+    "uuid": "61046ef9-cf4c-4851-918d-f51158ebf6f0",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\数字\\数字0.png": {
+    "time": 1681049330747.1157,
+    "uuid": "0ad90b2a-c3a2-4a13-9c57-91f2fda30a83",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\数字\\数字背景框.png": {
+    "time": 1681049330749.1106,
+    "uuid": "6e7e57af-4f13-494b-aaf7-11ee1b92d7c6",
+    "missing": false
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\prefabs.meta": {
+    "time": 1681049330677.2764
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources.meta": {
+    "time": 1681049330692.2637
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Scenes.meta": {
+    "time": 1681049330630.76
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script.meta": {
+    "time": 1681049330641.768
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\prefabs\\joinRoom.prefab.meta": {
+    "time": 1681049330689.27
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\prefabs\\headNode.prefab.meta": {
+    "time": 1681049330687.2766
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\prefabs\\createRoom.prefab.meta": {
+    "time": 1681049330685.281
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image.meta": {
+    "time": 1681049330693.229
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound.meta": {
+    "time": 1681049330793.5464
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\prefabs\\over.prefab.meta": {
+    "time": 1681049330691.2712
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Scenes\\games.meta": {
+    "time": 1681049330636.7844
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\common.meta": {
+    "time": 1681049330642.768
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\games.meta": {
+    "time": 1681049330649.791
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\prefabs\\PokerView.prefab.meta": {
+    "time": 1681049330680.2642
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\hallScene.meta": {
+    "time": 1681049330661.3176
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\loginScene.meta": {
+    "time": 1681049330672.3245
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games.meta": {
+    "time": 1681049330695.2236
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\prefabs\\PushCardsView.prefab.meta": {
+    "time": 1681049330682.2888
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Scenes\\HallScene.scene.meta": {
+    "time": 1681049330633.7893
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Scenes\\LoginScene.scene.meta": {
+    "time": 1681049330636.7844
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\button.ogg.meta": {
+    "time": 1681049331131.7776
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\loginBg.png.meta": {
+    "time": 1681049330785.6096
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man.meta": {
+    "time": 1681049330797.5645
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\guestLogin1.png.meta": {
+    "time": 1681049330781.608
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\vxLogin.png.meta": {
+    "time": 1681049330787.5945
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\主背景.jpg.meta": {
+    "time": 1681049330793.5464
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman.meta": {
+    "time": 1681049330965.7415
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\DealFold.ogg.meta": {
+    "time": 1681049330796.567
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\SpecSelectCard.ogg.meta": {
+    "time": 1681049330960.756
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Special_give.ogg.meta": {
+    "time": 1681049330964.7446
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\SpecSysReturnFail.ogg.meta": {
+    "time": 1681049330962.723
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\common\\GameRole.ts.meta": {
+    "time": 1681049330645.8054
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\common\\PushCardVo.ts.meta": {
+    "time": 1681049330646.799
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\大厅背景音乐.mp3.meta": {
+    "time": 1681049331137.761
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\games\\bazhadan.meta": {
+    "time": 1681049330650.7896
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\common\\UserInfo.ts.meta": {
+    "time": 1681049330648.7947
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\hallScene\\createRoom.ts.meta": {
+    "time": 1681049330669.3323
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\hallScene\\HallClient.ts.meta": {
+    "time": 1681049330664.3079
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\hallScene\\HallSceneMgt.ts.meta": {
+    "time": 1681049330666.3394
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\hallScene\\HallSoundMgt.ts.meta": {
+    "time": 1681049330667.329
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\hallScene\\joinRoom.ts.meta": {
+    "time": 1681049330671.3274
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\loginScene\\LoginClient.ts.meta": {
+    "time": 1681049330674.3184
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Scenes\\games\\bazhadan.scene.meta": {
+    "time": 1681049330640.7705
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan.meta": {
+    "time": 1681049330696.221
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\loginScene\\LoginScene.ts.meta": {
+    "time": 1681049330676.313
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\欢乐斗地主背景音乐.mp3.meta": {
+    "time": 1681049331146.743
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\游戏场景音乐.ogg.meta": {
+    "time": 1681049331150.7324
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_10.ogg.meta": {
+    "time": 1681049330799.5586
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_11.ogg.meta": {
+    "time": 1681049330801.553
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_12.ogg.meta": {
+    "time": 1681049330803.5193
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_13.ogg.meta": {
+    "time": 1681049330805.5508
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_14.ogg.meta": {
+    "time": 1681049330807.5461
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_15.ogg.meta": {
+    "time": 1681049330808.5427
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_3.ogg.meta": {
+    "time": 1681049330814.518
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_17.ogg.meta": {
+    "time": 1681049330812.5237
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_16.ogg.meta": {
+    "time": 1681049330810.5012
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_4.ogg.meta": {
+    "time": 1681049330816.5134
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_5.ogg.meta": {
+    "time": 1681049330818.5078
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_6.ogg.meta": {
+    "time": 1681049330820.472
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_8.ogg.meta": {
+    "time": 1681049330823.4636
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_7.ogg.meta": {
+    "time": 1681049330822.4663
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_9.ogg.meta": {
+    "time": 1681049330825.4585
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_baojing1.ogg.meta": {
+    "time": 1681049330871.9321
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_baojing2.ogg.meta": {
+    "time": 1681049330873.926
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_bujiabei.ogg.meta": {
+    "time": 1681049330875.92
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_buyao1.ogg.meta": {
+    "time": 1681049330877.9165
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_buyao2.ogg.meta": {
+    "time": 1681049330879.9097
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_buyao3.ogg.meta": {
+    "time": 1681049330881.9038
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_buyao4.ogg.meta": {
+    "time": 1681049330883.8984
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_chaojijiabei.ogg.meta": {
+    "time": 1681049330885.9014
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Chat_0.ogg.meta": {
+    "time": 1681049330827.4531
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Chat_1.ogg.meta": {
+    "time": 1681049330829.448
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Chat_10.ogg.meta": {
+    "time": 1681049330831.4734
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Chat_4.ogg.meta": {
+    "time": 1681049330838.4631
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Chat_2.ogg.meta": {
+    "time": 1681049330834.4727
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Chat_3.ogg.meta": {
+    "time": 1681049330836.4602
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Chat_6.ogg.meta": {
+    "time": 1681049330842.4556
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Chat_5.ogg.meta": {
+    "time": 1681049330840.4492
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Chat_7.ogg.meta": {
+    "time": 1681049330844.4727
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Chat_8.ogg.meta": {
+    "time": 1681049330846.4585
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Chat_9.ogg.meta": {
+    "time": 1681049330849.4497
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dani1.ogg.meta": {
+    "time": 1681049330887.8892
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dui10.ogg.meta": {
+    "time": 1681049330892.8748
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dani2.ogg.meta": {
+    "time": 1681049330888.885
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dani3.ogg.meta": {
+    "time": 1681049330890.8806
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dui11.ogg.meta": {
+    "time": 1681049330895.2786
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dui13.ogg.meta": {
+    "time": 1681049330899.2715
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dui12.ogg.meta": {
+    "time": 1681049330896.3184
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dui14.ogg.meta": {
+    "time": 1681049330900.2688
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dui15.ogg.meta": {
+    "time": 1681049330902.2634
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dui3.ogg.meta": {
+    "time": 1681049330904.258
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dui4.ogg.meta": {
+    "time": 1681049330906.253
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dui6.ogg.meta": {
+    "time": 1681049330909.2449
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dui5.ogg.meta": {
+    "time": 1681049330908.2476
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dui7.ogg.meta": {
+    "time": 1681049330912.2393
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dui8.ogg.meta": {
+    "time": 1681049330914.2334
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_jiabei.ogg.meta": {
+    "time": 1681049330919.2395
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_feiji.ogg.meta": {
+    "time": 1681049330917.2449
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_dui9.ogg.meta": {
+    "time": 1681049330915.2302
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_liandui.ogg.meta": {
+    "time": 1681049330921.2434
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_NoOrder.ogg.meta": {
+    "time": 1681049330851.4028
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Order.ogg.meta": {
+    "time": 1681049330854.424
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_NoRob.ogg.meta": {
+    "time": 1681049330852.4292
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Rob1.ogg.meta": {
+    "time": 1681049330856.4187
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Rob2.ogg.meta": {
+    "time": 1681049330858.9326
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Rob3.ogg.meta": {
+    "time": 1681049330860.9607
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_ScoreNoOrder.ogg.meta": {
+    "time": 1681049330861.9624
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_sandaiyidui.ogg.meta": {
+    "time": 1681049330925.2334
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_sandaiyi.ogg.meta": {
+    "time": 1681049330923.2383
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_ScoreOrder2.ogg.meta": {
+    "time": 1681049330865.9475
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_ScoreOrder1.ogg.meta": {
+    "time": 1681049330863.9536
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_shunzi.ogg.meta": {
+    "time": 1681049330927.2021
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_ScoreOrder3.ogg.meta": {
+    "time": 1681049330867.9138
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_Share.ogg.meta": {
+    "time": 1681049330869.9368
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_sidaier.ogg.meta": {
+    "time": 1681049330929.1936
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_sidailiangdui.ogg.meta": {
+    "time": 1681049330931.1897
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_tuple10.ogg.meta": {
+    "time": 1681049330933.2026
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_tuple11.ogg.meta": {
+    "time": 1681049330935.1765
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_tuple12.ogg.meta": {
+    "time": 1681049330936.1953
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_tuple14.ogg.meta": {
+    "time": 1681049330940.191
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_tuple13.ogg.meta": {
+    "time": 1681049330938.1895
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_tuple15.ogg.meta": {
+    "time": 1681049330942.1902
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_tuple4.ogg.meta": {
+    "time": 1681049330946.1885
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_tuple3.ogg.meta": {
+    "time": 1681049330944.2234
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_tuple5.ogg.meta": {
+    "time": 1681049330948.214
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_tuple6.ogg.meta": {
+    "time": 1681049330950.196
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_tuple7.ogg.meta": {
+    "time": 1681049330952.1914
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_tuple9.ogg.meta": {
+    "time": 1681049330955.1934
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_tuple8.ogg.meta": {
+    "time": 1681049330953.2004
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_wangzha.ogg.meta": {
+    "time": 1681049330957.19
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Man\\Man_zhadan.ogg.meta": {
+    "time": 1681049330959.1904
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_10.ogg.meta": {
+    "time": 1681049330967.743
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_11.ogg.meta": {
+    "time": 1681049330969.7227
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_12.ogg.meta": {
+    "time": 1681049330971.6978
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_13.ogg.meta": {
+    "time": 1681049330973.7222
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_14.ogg.meta": {
+    "time": 1681049330974.7207
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_15.ogg.meta": {
+    "time": 1681049330976.7224
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_16.ogg.meta": {
+    "time": 1681049330978.6814
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_17.ogg.meta": {
+    "time": 1681049330980.7026
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_3.ogg.meta": {
+    "time": 1681049330982.703
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_4.ogg.meta": {
+    "time": 1681049330984.6973
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_6.ogg.meta": {
+    "time": 1681049330987.6865
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_5.ogg.meta": {
+    "time": 1681049330985.6924
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_7.ogg.meta": {
+    "time": 1681049330989.6792
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_8.ogg.meta": {
+    "time": 1681049330991.6738
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_9.ogg.meta": {
+    "time": 1681049330993.6416
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_baojing2.ogg.meta": {
+    "time": 1681049331043.5054
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_baojing1.ogg.meta": {
+    "time": 1681049331040.543
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_buyao1.ogg.meta": {
+    "time": 1681049331046.5308
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_bujiabei.ogg.meta": {
+    "time": 1681049331045.5334
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_buyao2.ogg.meta": {
+    "time": 1681049331048.5312
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_buyao3.ogg.meta": {
+    "time": 1681049331050.5237
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_chaojijiabei.ogg.meta": {
+    "time": 1681049331054.509
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_buyao4.ogg.meta": {
+    "time": 1681049331052.5173
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Chat_0.ogg.meta": {
+    "time": 1681049330995.6648
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Chat_1.ogg.meta": {
+    "time": 1681049330997.6572
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Chat_10.ogg.meta": {
+    "time": 1681049330999.6526
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Chat_2.ogg.meta": {
+    "time": 1681049331001.6465
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Chat_3.ogg.meta": {
+    "time": 1681049331004.639
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Chat_4.ogg.meta": {
+    "time": 1681049331006.6355
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Chat_5.ogg.meta": {
+    "time": 1681049331008.6284
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Chat_6.ogg.meta": {
+    "time": 1681049331010.5942
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Chat_7.ogg.meta": {
+    "time": 1681049331012.6174
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Chat_8.ogg.meta": {
+    "time": 1681049331014.5833
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dani1.ogg.meta": {
+    "time": 1681049331056.507
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Chat_9.ogg.meta": {
+    "time": 1681049331017.6042
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dani2.ogg.meta": {
+    "time": 1681049331058.4985
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dani3.ogg.meta": {
+    "time": 1681049331061.0781
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dui11.ogg.meta": {
+    "time": 1681049331064.0664
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dui12.ogg.meta": {
+    "time": 1681049331066.0642
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dui10.ogg.meta": {
+    "time": 1681049331062.0728
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dui13.ogg.meta": {
+    "time": 1681049331068.056
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dui14.ogg.meta": {
+    "time": 1681049331070.0503
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dui15.ogg.meta": {
+    "time": 1681049331072.0454
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dui3.ogg.meta": {
+    "time": 1681049331074.0117
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dui4.ogg.meta": {
+    "time": 1681049331076.0347
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dui5.ogg.meta": {
+    "time": 1681049331078.0305
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dui6.ogg.meta": {
+    "time": 1681049331080.0237
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dui7.ogg.meta": {
+    "time": 1681049331081.9067
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dui9.ogg.meta": {
+    "time": 1681049331085.8997
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_dui8.ogg.meta": {
+    "time": 1681049331083.905
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_feiji.ogg.meta": {
+    "time": 1681049331086.897
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_jiabei.ogg.meta": {
+    "time": 1681049331089.9111
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_liandui.ogg.meta": {
+    "time": 1681049331090.9087
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_NoOrder.ogg.meta": {
+    "time": 1681049331019.6016
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_NoRob.ogg.meta": {
+    "time": 1681049331021.5935
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Rob3.ogg.meta": {
+    "time": 1681049331028.5786
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Order.ogg.meta": {
+    "time": 1681049331022.5913
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Rob2.ogg.meta": {
+    "time": 1681049331026.5535
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Rob1.ogg.meta": {
+    "time": 1681049331024.585
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_sandaiyi.ogg.meta": {
+    "time": 1681049331093.88
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_sandaiyidui.ogg.meta": {
+    "time": 1681049331094.9077
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_ScoreOrder1.ogg.meta": {
+    "time": 1681049331032.5547
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_ScoreOrder3.ogg.meta": {
+    "time": 1681049331036.5542
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_ScoreNoOrder.ogg.meta": {
+    "time": 1681049331030.561
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_ScoreOrder2.ogg.meta": {
+    "time": 1681049331034.5593
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_Share.ogg.meta": {
+    "time": 1681049331038.55
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_shunzi.ogg.meta": {
+    "time": 1681049331096.911
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_sidaier.ogg.meta": {
+    "time": 1681049331098.9038
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_sidailiangdui.ogg.meta": {
+    "time": 1681049331100.8962
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_tuple10.ogg.meta": {
+    "time": 1681049331102.891
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_tuple11.ogg.meta": {
+    "time": 1681049331105.8477
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_tuple12.ogg.meta": {
+    "time": 1681049331106.8464
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_tuple13.ogg.meta": {
+    "time": 1681049331108.8384
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_tuple14.ogg.meta": {
+    "time": 1681049331110.8335
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_tuple15.ogg.meta": {
+    "time": 1681049331112.8293
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_tuple3.ogg.meta": {
+    "time": 1681049331114.8606
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_tuple6.ogg.meta": {
+    "time": 1681049331120.808
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_tuple5.ogg.meta": {
+    "time": 1681049331118.8418
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_tuple4.ogg.meta": {
+    "time": 1681049331116.8467
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_tuple7.ogg.meta": {
+    "time": 1681049331122.8313
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\games\\bazhadan\\BZDClient.ts.meta": {
+    "time": 1681049330653.7854
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\games\\bazhadan\\BZDSceneMgt.ts.meta": {
+    "time": 1681049330655.7742
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\games\\bazhadan\\BZDSoundMgt.ts.meta": {
+    "time": 1681049330656.7732
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\games\\bazhadan\\Poker.ts.meta": {
+    "time": 1681049330659.3584
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Script\\games\\bazhadan\\PokerCtr.ts.meta": {
+    "time": 1681049330660.3203
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_tuple8.ogg.meta": {
+    "time": 1681049331124.797
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\card.meta": {
+    "time": 1681049330700.2102
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_tuple9.ogg.meta": {
+    "time": 1681049331126.7913
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_wangzha.ogg.meta": {
+    "time": 1681049331128.7856
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\sound\\Woman\\Woman_zhadan.ogg.meta": {
+    "time": 1681049331130.78
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\poker_bg1.jpg.meta": {
+    "time": 1681049330717.2063
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\bg_xiazhu.png.meta": {
+    "time": 1681049330699.213
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\offline.png.meta": {
+    "time": 1681049330714.2134
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\house.png.meta": {
+    "time": 1681049330712.209
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\ready_ok.png.meta": {
+    "time": 1681049330719.1995
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\round.png.meta": {
+    "time": 1681049330721.1946
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\touxiangyuanjiao.png.meta": {
+    "time": 1681049330723.1877
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\任务.png.meta": {
+    "time": 1681049330727.139
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\不出.png.meta": {
+    "time": 1681049330725.1475
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\关闭.png.meta": {
+    "time": 1681049330729.163
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\准备.png.meta": {
+    "time": 1681049330731.1582
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\创建房间.png.meta": {
+    "time": 1681049330735.1577
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\出牌.png.meta": {
+    "time": 1681049330733.1514
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\数字.meta": {
+    "time": 1681049330746.0837
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\发牌.png.meta": {
+    "time": 1681049330738.148
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\取消.png.meta": {
+    "time": 1681049330741.1008
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\帮助.png.meta": {
+    "time": 1681049330743.1267
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\标题.png.meta": {
+    "time": 1681049330752.1023
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\提示.png.meta": {
+    "time": 1681049330745.1277
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\活动.png.meta": {
+    "time": 1681049330754.0967
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\海景背景图.jpg.meta": {
+    "time": 1681049330757.0884
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\牌桌图片.jpg.meta": {
+    "time": 1681049330760.6353
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\背景框.jpg.meta": {
+    "time": 1681049330763.6545
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\要不起.png.meta": {
+    "time": 1681049330765.6497
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\设置.png.meta": {
+    "time": 1681049330773.628
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\角色2.png.meta": {
+    "time": 1681049330768.641
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\角色3.png.meta": {
+    "time": 1681049330771.6042
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\返回.png.meta": {
+    "time": 1681049330775.6223
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\退出.png.meta": {
+    "time": 1681049330777.617
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\通知.png.meta": {
+    "time": 1681049330779.6123
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\数字\\数字0.png.meta": {
+    "time": 1681049330748.1138
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\数字\\数字背景框.png.meta": {
+    "time": 1681049330750.1077
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\card\\pokerlist.png.meta": {
+    "time": 1681049330710.184
+  },
+  "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\resources\\image\\games\\bazhadan\\card\\pokerlist.plist.meta": {
+    "time": 1681049330703.2417
   }
 }

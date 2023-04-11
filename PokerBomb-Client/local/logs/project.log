@@ -5991,3 +5991,891 @@ npx browserslist@latest --update-db
 Why you should do it regularly:
 https://github.com/browserslist/browserslist#browsers-data-updating
 2023-04-07T16:09:59.855Z - warn: Metrics: no valid info
+2023-04-09T14:36:32.171Z - log: [Package] menu@1.0.0 enable
+2023-04-09T14:36:32.176Z - log: [Package] profile@1.0.0 enable
+2023-04-09T14:36:32.188Z - log: [Package] project@1.0.2 enable
+2023-04-09T14:36:32.198Z - log: [Package] messages@1.0.0 enable
+2023-04-09T14:36:32.204Z - log: [Package] program@1.0.0 enable
+2023-04-09T14:36:32.211Z - log: [Package] tester@1.0.0 enable
+2023-04-09T14:36:32.219Z - log: [Package] preferences@1.0.0 enable
+2023-04-09T14:36:32.911Z - log: Setup mods mgr.: 360.489ms
+2023-04-09T14:36:32.928Z - verbose: [Engine] QuickCompile engine (645ms)
+2023-04-09T14:36:32.932Z - log: [Package] engine@1.0.6 enable
+2023-04-09T14:36:34.369Z - log: [Package] programming@1.0.0 enable
+2023-04-09T14:36:34.784Z - log: [Package] device@1.0.1 enable
+2023-04-09T14:36:34.828Z - log: [Package] ui-kit@1.0.1 enable
+2023-04-09T14:36:34.853Z - log: [Package] engine-extends@1.0.0 enable
+2023-04-09T14:36:34.927Z - log: [Package] asset-db@1.0.0 enable
+2023-04-09T14:36:34.984Z - log: [Package] scene@1.0.0 enable
+2023-04-09T14:36:35.202Z - log: [Package] server@1.0.0 enable
+2023-04-09T14:36:35.237Z - log: [Package] utils@1.0.0 enable
+2023-04-09T14:36:40.085Z - log: [Package] preview@1.0.1 enable
+2023-04-09T14:36:40.125Z - log: [Package] animator@1.0.0 enable
+2023-04-09T14:36:41.792Z - log: [Package] builder@1.3.2 enable
+2023-04-09T14:36:41.828Z - log: [Package] shortcuts@1.0.1 enable
+2023-04-09T14:36:41.879Z - log: [Package] animation-graph@1.0.0 enable
+2023-04-09T14:36:41.913Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2023-04-09T14:36:41.945Z - log: [Package] channel-upload-tools@1.0.0 enable
+2023-04-09T14:36:41.992Z - log: [Package] about@1.0.0 enable
+2023-04-09T14:36:42.040Z - log: [Package] assets@1.0.0 enable
+2023-04-09T14:36:42.075Z - log: [Package] console@1.0.0 enable
+2023-04-09T14:36:42.285Z - log: [Package] extension@3.0.16 enable
+2023-04-09T14:36:42.324Z - log: [Package] hierarchy@1.0.0 enable
+2023-04-09T14:36:42.372Z - log: [Package] inspector@1.0.0 enable
+2023-04-09T14:36:42.421Z - log: [Package] lightmap@1.0.4 enable
+2023-04-09T14:36:42.461Z - log: [Package] node-library@1.0.1 enable
+2023-04-09T14:36:42.497Z - log: [Package] package-asset@1.0.0 enable
+2023-04-09T14:36:42.545Z - log: [Package] process@1.0.0 enable
+2023-04-09T14:36:42.599Z - log: [Package] reference-image@1.0.0 enable
+2023-04-09T14:36:42.613Z - verbose: [AssetDB] Require engine code (1429ms)
+2023-04-09T14:36:42.622Z - log: [Package] alipay-mini-game@1.0.0 enable
+2023-04-09T14:36:42.647Z - log: [Package] android@1.0.0 enable
+2023-04-09T14:36:42.684Z - log: [Package] baidu-mini-game@1.0.0 enable
+2023-04-09T14:36:42.716Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2023-04-09T14:36:42.747Z - log: [Package] cocos-play@1.0.0 enable
+2023-04-09T14:36:42.779Z - log: [Package] huawei-agc@1.0.0 enable
+2023-04-09T14:36:42.810Z - log: [Package] huawei-quick-game@1.0.0 enable
+2023-04-09T14:36:42.843Z - log: [Package] ios@1.0.0 enable
+2023-04-09T14:36:42.872Z - log: [Package] ios-app-clip@1.0.0 enable
+2023-04-09T14:36:42.902Z - log: [Package] link-sure@1.0.0 enable
+2023-04-09T14:36:42.933Z - log: [Package] linux@1.0.0 enable
+2023-04-09T14:36:42.964Z - log: [Package] mac@1.0.0 enable
+2023-04-09T14:36:43.097Z - log: [Package] native@1.0.0 enable
+2023-04-09T14:36:43.137Z - log: [Package] ohos@1.0.0 enable
+2023-04-09T14:36:43.167Z - log: [Package] open-harmonyos@1.0.0 enable
+2023-04-09T14:36:43.198Z - log: [Package] oppo-mini-game@1.0.0 enable
+2023-04-09T14:36:43.230Z - log: [Package] qtt@1.0.0 enable
+2023-04-09T14:36:43.261Z - log: [Package] vivo-mini-game@1.0.0 enable
+2023-04-09T14:36:43.315Z - log: [Package] web-desktop@1.0.0 enable
+2023-04-09T14:36:43.377Z - log: [Package] web-mobile@1.0.0 enable
+2023-04-09T14:36:43.419Z - log: [Package] wechatgame@1.0.1 enable
+2023-04-09T14:36:43.443Z - log: [Package] windows@1.0.0 enable
+2023-04-09T14:36:43.467Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2023-04-09T14:36:43.776Z - log: [Package] cocos-service@3.0.3 enable
+2023-04-09T14:36:43.831Z - log: [Package] importer@1.0.0 enable
+2023-04-09T14:36:44.186Z - log: [Im-plugin] Check im-plugin version.
+2023-04-09T14:36:44.203Z - log: [Package] im-plugin@3.0.8 enable
+2023-04-09T14:36:44.824Z - log: [Im-plugin] No online info of im-plugin.
+2023-04-09T14:36:48.406Z - warn: [Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating[Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating  
+at Logger.record (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.warn (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at Object.oldDataWarning (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\node.js:381:15)  
+at browserslist (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\index.js:439:7)  
+at resolveTargets (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:168:20)  
+at getTargets (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:213:27)  
+at getLocalTargets (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:227:48)  
+at D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:288:15
+2023-04-09T14:36:57.529Z - verbose: [Scene] Require engine code (0ms)
+2023-04-09T14:36:57.530Z - verbose: [Scene] Startup engine (1ms)
+2023-04-09T14:36:57.564Z - log: [Scene] Cocos Creator v3.5.2
+2023-04-09T14:36:58.300Z - verbose: [Scene] Open engine (769ms)
+2023-04-09T14:36:58.300Z - verbose: [Scene] Configure engine (0ms)
+2023-04-09T14:36:57.762Z - info: [Scene] Forward render pipeline initialized.
+2023-04-09T14:37:15.007Z - warn: Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2023-04-09T15:50:36.234Z - error: [Preview]Uncaught TypeError: Cannot set properties of undefined (setting 'active') in http://localhost:7456/scripting/x/chunks/d9/d9eba332fb44cf4c1bee7cdda30e158c0aa22e08.js
+2023-04-09T16:21:37.120Z - warn: Metrics: no valid info
+2023-04-10T14:47:03.656Z - log: [Package] menu@1.0.0 enable
+2023-04-10T14:47:03.660Z - log: [Package] profile@1.0.0 enable
+2023-04-10T14:47:03.672Z - log: [Package] project@1.0.2 enable
+2023-04-10T14:47:03.679Z - log: [Package] messages@1.0.0 enable
+2023-04-10T14:47:03.683Z - log: [Package] program@1.0.0 enable
+2023-04-10T14:47:03.691Z - log: [Package] tester@1.0.0 enable
+2023-04-10T14:47:03.700Z - log: [Package] preferences@1.0.0 enable
+2023-04-10T14:47:04.316Z - log: Setup mods mgr.: 298.912ms
+2023-04-10T14:47:04.330Z - verbose: [Engine] QuickCompile engine (573ms)
+2023-04-10T14:47:04.333Z - log: [Package] engine@1.0.6 enable
+2023-04-10T14:47:05.308Z - log: [Package] programming@1.0.0 enable
+2023-04-10T14:47:05.692Z - log: [Package] device@1.0.1 enable
+2023-04-10T14:47:05.727Z - log: [Package] ui-kit@1.0.1 enable
+2023-04-10T14:47:05.754Z - log: [Package] engine-extends@1.0.0 enable
+2023-04-10T14:47:05.822Z - log: [Package] asset-db@1.0.0 enable
+2023-04-10T14:47:05.864Z - log: [Package] scene@1.0.0 enable
+2023-04-10T14:47:06.029Z - log: [Package] server@1.0.0 enable
+2023-04-10T14:47:06.062Z - log: [Package] utils@1.0.0 enable
+2023-04-10T14:47:09.372Z - log: [Package] preview@1.0.1 enable
+2023-04-10T14:47:09.404Z - log: [Package] animator@1.0.0 enable
+2023-04-10T14:47:10.514Z - log: [Package] builder@1.3.2 enable
+2023-04-10T14:47:10.552Z - log: [Package] shortcuts@1.0.1 enable
+2023-04-10T14:47:10.592Z - log: [Package] animation-graph@1.0.0 enable
+2023-04-10T14:47:10.627Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2023-04-10T14:47:10.659Z - log: [Package] channel-upload-tools@1.0.0 enable
+2023-04-10T14:47:10.700Z - log: [Package] about@1.0.0 enable
+2023-04-10T14:47:10.747Z - log: [Package] assets@1.0.0 enable
+2023-04-10T14:47:10.780Z - log: [Package] console@1.0.0 enable
+2023-04-10T14:47:10.981Z - log: [Package] extension@3.0.16 enable
+2023-04-10T14:47:11.017Z - log: [Package] hierarchy@1.0.0 enable
+2023-04-10T14:47:11.056Z - log: [Package] inspector@1.0.0 enable
+2023-04-10T14:47:11.092Z - log: [Package] lightmap@1.0.4 enable
+2023-04-10T14:47:11.128Z - log: [Package] node-library@1.0.1 enable
+2023-04-10T14:47:11.151Z - log: [Package] package-asset@1.0.0 enable
+2023-04-10T14:47:11.185Z - log: [Package] process@1.0.0 enable
+2023-04-10T14:47:11.208Z - verbose: [AssetDB] Require engine code (1213ms)
+2023-04-10T14:47:11.227Z - log: [Package] reference-image@1.0.0 enable
+2023-04-10T14:47:11.266Z - log: [Package] alipay-mini-game@1.0.0 enable
+2023-04-10T14:47:11.301Z - log: [Package] android@1.0.0 enable
+2023-04-10T14:47:11.330Z - log: [Package] baidu-mini-game@1.0.0 enable
+2023-04-10T14:47:11.358Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2023-04-10T14:47:11.387Z - log: [Package] cocos-play@1.0.0 enable
+2023-04-10T14:47:11.420Z - log: [Package] huawei-agc@1.0.0 enable
+2023-04-10T14:47:11.453Z - log: [Package] huawei-quick-game@1.0.0 enable
+2023-04-10T14:47:11.486Z - log: [Package] ios@1.0.0 enable
+2023-04-10T14:47:11.515Z - log: [Package] ios-app-clip@1.0.0 enable
+2023-04-10T14:47:11.545Z - log: [Package] link-sure@1.0.0 enable
+2023-04-10T14:47:11.577Z - log: [Package] linux@1.0.0 enable
+2023-04-10T14:47:11.609Z - log: [Package] mac@1.0.0 enable
+2023-04-10T14:47:11.730Z - log: [Package] native@1.0.0 enable
+2023-04-10T14:47:11.772Z - log: [Package] ohos@1.0.0 enable
+2023-04-10T14:47:11.802Z - log: [Package] open-harmonyos@1.0.0 enable
+2023-04-10T14:47:11.833Z - log: [Package] oppo-mini-game@1.0.0 enable
+2023-04-10T14:47:11.864Z - log: [Package] qtt@1.0.0 enable
+2023-04-10T14:47:11.896Z - log: [Package] vivo-mini-game@1.0.0 enable
+2023-04-10T14:47:11.943Z - log: [Package] web-desktop@1.0.0 enable
+2023-04-10T14:47:11.984Z - log: [Package] web-mobile@1.0.0 enable
+2023-04-10T14:47:12.024Z - log: [Package] wechatgame@1.0.1 enable
+2023-04-10T14:47:12.051Z - log: [Package] windows@1.0.0 enable
+2023-04-10T14:47:12.075Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2023-04-10T14:47:12.351Z - log: [Package] cocos-service@3.0.3 enable
+2023-04-10T14:47:12.396Z - log: [Package] importer@1.0.0 enable
+2023-04-10T14:47:12.696Z - log: [Im-plugin] Check im-plugin version.
+2023-04-10T14:47:12.716Z - log: [Package] im-plugin@3.0.8 enable
+2023-04-10T14:47:13.413Z - log: [Im-plugin] No online info of im-plugin.
+2023-04-10T14:47:16.014Z - warn: [Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating[Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating  
+at Logger.record (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.warn (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at Object.oldDataWarning (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\node.js:381:15)  
+at browserslist (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\index.js:439:7)  
+at resolveTargets (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:168:20)  
+at getTargets (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:213:27)  
+at getLocalTargets (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:227:48)  
+at D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:288:15
+2023-04-10T14:47:17.199Z - verbose: [Scene] Require engine code (2ms)
+2023-04-10T14:47:17.200Z - verbose: [Scene] Startup engine (1ms)
+2023-04-10T14:47:17.250Z - log: [Scene] Cocos Creator v3.5.2
+2023-04-10T14:47:17.851Z - verbose: [Scene] Open engine (650ms)
+2023-04-10T14:47:17.851Z - verbose: [Scene] Configure engine (0ms)
+2023-04-10T14:47:17.357Z - info: [Scene] Forward render pipeline initialized.
+2023-04-10T14:49:09.428Z - warn: Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2023-04-10T16:08:08.652Z - error: 构建进程奔溃！目前编辑器在编译大数量脚本时需要充足的内存方能正常进行，建议更换更大内存的电脑设备以支持项目构建，如确认设备已经内存充足请在论坛上向我们反馈此问题。关于内存用度问题，我们会在后续的版本内尽量优化，造成困扰十分抱歉！
+2023-04-10T16:08:08.655Z - error: {
+  preventDefault: [Function: preventDefault],
+  sender: EventEmitter {
+    isDestroyed: [Function: isDestroyed],
+    destroy: [Function: destroy],
+    getBackgroundThrottling: [Function: getBackgroundThrottling],
+    setBackgroundThrottling: [Function: setBackgroundThrottling],
+    getProcessId: [Function: getProcessId],
+    getOSProcessId: [Function: getOSProcessId],
+    equal: [Function: equal],
+    _loadURL: [Function: _loadURL],
+    downloadURL: [Function: downloadURL],
+    _getURL: [Function: _getURL],
+    getTitle: [Function: getTitle],
+    isLoading: [Function: isLoading],
+    isLoadingMainFrame: [Function: isLoadingMainFrame],
+    isWaitingForResponse: [Function: isWaitingForResponse],
+    _stop: [Function: _stop],
+    _goBack: [Function: _goBack],
+    _goForward: [Function: _goForward],
+    _goToOffset: [Function: _goToOffset],
+    isCrashed: [Function: isCrashed],
+    forcefullyCrashRenderer: [Function: forcefullyCrashRenderer],
+    setUserAgent: [Function: setUserAgent],
+    getUserAgent: [Function: getUserAgent],
+    savePage: [Function: savePage],
+    openDevTools: [Function: openDevTools],
+    closeDevTools: [Function: closeDevTools],
+    isDevToolsOpened: [Function: isDevToolsOpened],
+    isDevToolsFocused: [Function: isDevToolsFocused],
+    enableDeviceEmulation: [Function: enableDeviceEmulation],
+    disableDeviceEmulation: [Function: disableDeviceEmulation],
+    toggleDevTools: [Function: toggleDevTools],
+    inspectElement: [Function: inspectElement],
+    setIgnoreMenuShortcuts: [Function: setIgnoreMenuShortcuts],
+    setAudioMuted: [Function: setAudioMuted],
+    isAudioMuted: [Function: isAudioMuted],
+    isCurrentlyAudible: [Function: isCurrentlyAudible],
+    undo: [Function: undo],
+    redo: [Function: redo],
+    cut: [Function: cut],
+    copy: [Function: copy],
+    paste: [Function: paste],
+    pasteAndMatchStyle: [Function: pasteAndMatchStyle],
+    delete: [Function: delete],
+    selectAll: [Function: selectAll],
+    unselect: [Function: unselect],
+    replace: [Function: replace],
+    replaceMisspelling: [Function: replaceMisspelling],
+    findInPage: [Function: findInPage],
+    stopFindInPage: [Function: stopFindInPage],
+    focus: [Function: focus],
+    isFocused: [Function: isFocused],
+    sendInputEvent: [Function: sendInputEvent],
+    beginFrameSubscription: [Function: beginFrameSubscription],
+    endFrameSubscription: [Function: endFrameSubscription],
+    startDrag: [Function: startDrag],
+    attachToIframe: [Function: attachToIframe],
+    detachFromOuterFrame: [Function: detachFromOuterFrame],
+    isOffscreen: [Function: isOffscreen],
+    startPainting: [Function: startPainting],
+    stopPainting: [Function: stopPainting],
+    isPainting: [Function: isPainting],
+    setFrameRate: [Function: setFrameRate],
+    getFrameRate: [Function: getFrameRate],
+    invalidate: [Function: invalidate],
+    setZoomLevel: [Function: setZoomLevel],
+    getZoomLevel: [Function: getZoomLevel],
+    setZoomFactor: [Function: setZoomFactor],
+    getZoomFactor: [Function: getZoomFactor],
+    getType: [Function: getType],
+    _getPreloadPaths: [Function: _getPreloadPaths],
+    getWebPreferences: [Function: getWebPreferences],
+    getLastWebPreferences: [Function: getLastWebPreferences],
+    getOwnerBrowserWindow: [Function: getOwnerBrowserWindow],
+    inspectServiceWorker: [Function: inspectServiceWorker],
+    inspectSharedWorker: [Function: inspectSharedWorker],
+    inspectSharedWorkerById: [Function: inspectSharedWorkerById],
+    getAllSharedWorkers: [Function: getAllSharedWorkers],
+    _print: [Function: _print],
+    _printToPDF: [Function: _printToPDF],
+    _setNextChildWebPreferences: [Function: _setNextChildWebPreferences],
+    addWorkSpace: [Function: addWorkSpace],
+    removeWorkSpace: [Function: removeWorkSpace],
+    showDefinitionForSelection: [Function: showDefinitionForSelection],
+    copyImageAt: [Function: copyImageAt],
+    capturePage: [Function: capturePage],
+    setEmbedder: [Function: setEmbedder],
+    setDevToolsWebContents: [Function: setDevToolsWebContents],
+    getNativeView: [Function: getNativeView],
+    incrementCapturerCount: [Function: incrementCapturerCount],
+    decrementCapturerCount: [Function: decrementCapturerCount],
+    isBeingCaptured: [Function: isBeingCaptured],
+    setWebRTCIPHandlingPolicy: [Function: setWebRTCIPHandlingPolicy],
+    getWebRTCIPHandlingPolicy: [Function: getWebRTCIPHandlingPolicy],
+    _grantOriginAccess: [Function: _grantOriginAccess],
+    takeHeapSnapshot: [Function: takeHeapSnapshot],
+    id: 5,
+    session: [Getter],
+    hostWebContents: [Getter],
+    devToolsWebContents: [Getter],
+    debugger: [Getter],
+    _initiallyShown: [Getter],
+    mainFrame: [Getter],
+    _events: [Object: null prototype] {
+      'navigation-entry-committed': [Function (anonymous)],
+      '-ipc-message': [Function (anonymous)],
+      '-ipc-invoke': [Function (anonymous)],
+      '-ipc-message-sync': [Function (anonymous)],
+      '-ipc-ports': [Function (anonymous)],
+      crashed: [Function (anonymous)],
+      'render-process-gone': [Array],
+      'devtools-reload-page': [Function (anonymous)],
+      '-new-window': [Function (anonymous)],
+      '-will-add-new-contents': [Function (anonymous)],
+      '-add-new-contents': [Function (anonymous)],
+      login: [Function (anonymous)],
+      'ready-to-show': [Function (anonymous)],
+      'dom-ready': [Function (anonymous)],
+      'did-start-loading': [Function (anonymous)]
+    },
+    _eventsCount: 15,
+    loadURL: [Function: bound loadURL],
+    getURL: [Function: bound getURL],
+    stop: [Function: bound stop],
+    reload: [Function: bound reload],
+    reloadIgnoringCache: [Function: bound reloadIgnoringCache],
+    canGoBack: [Function: bound canGoBack],
+    canGoForward: [Function: bound canGoForward],
+    canGoToIndex: [Function: bound canGoToIndex],
+    canGoToOffset: [Function: bound canGoToOffset],
+    clearHistory: [Function: bound clearHistory],
+    goBack: [Function: bound goBack],
+    goForward: [Function: bound goForward],
+    goToIndex: [Function: bound goToIndex],
+    goToOffset: [Function: bound goToOffset],
+    getActiveIndex: [Function: bound getActiveIndex],
+    length: [Function: bound length],
+    _windowOpenHandler: null,
+    _maxListeners: 0,
+    browserWindowOptions: {
+      width: 300,
+      height: 300,
+      show: false,
+      autoHideMenuBar: true,
+      webPreferences: [Object]
+    }
+  }
+}
+2023-04-11T10:59:31.315Z - log: [Package] menu@1.0.0 enable
+2023-04-11T10:59:31.319Z - log: [Package] profile@1.0.0 enable
+2023-04-11T10:59:31.331Z - log: [Package] project@1.0.2 enable
+2023-04-11T10:59:31.338Z - log: [Package] messages@1.0.0 enable
+2023-04-11T10:59:31.343Z - log: [Package] program@1.0.0 enable
+2023-04-11T10:59:31.351Z - log: [Package] tester@1.0.0 enable
+2023-04-11T10:59:31.358Z - log: [Package] preferences@1.0.0 enable
+2023-04-11T10:59:32.017Z - log: Setup mods mgr.: 373.763ms
+2023-04-11T10:59:32.026Z - verbose: [Engine] QuickCompile engine (615ms)
+2023-04-11T10:59:32.029Z - log: [Package] engine@1.0.6 enable
+2023-04-11T10:59:33.147Z - log: [Package] programming@1.0.0 enable
+2023-04-11T10:59:33.556Z - log: [Package] device@1.0.1 enable
+2023-04-11T10:59:33.589Z - log: [Package] ui-kit@1.0.1 enable
+2023-04-11T10:59:33.616Z - log: [Package] engine-extends@1.0.0 enable
+2023-04-11T10:59:33.681Z - log: [Package] asset-db@1.0.0 enable
+2023-04-11T10:59:33.721Z - log: [Package] scene@1.0.0 enable
+2023-04-11T10:59:33.911Z - log: [Package] server@1.0.0 enable
+2023-04-11T10:59:33.946Z - log: [Package] utils@1.0.0 enable
+2023-04-11T10:59:37.512Z - log: [Package] preview@1.0.1 enable
+2023-04-11T10:59:37.546Z - log: [Package] animator@1.0.0 enable
+2023-04-11T10:59:38.834Z - log: [Package] builder@1.3.2 enable
+2023-04-11T10:59:38.870Z - log: [Package] shortcuts@1.0.1 enable
+2023-04-11T10:59:38.913Z - log: [Package] animation-graph@1.0.0 enable
+2023-04-11T10:59:38.935Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2023-04-11T10:59:38.957Z - log: [Package] channel-upload-tools@1.0.0 enable
+2023-04-11T10:59:38.992Z - log: [Package] about@1.0.0 enable
+2023-04-11T10:59:39.039Z - log: [Package] assets@1.0.0 enable
+2023-04-11T10:59:39.084Z - log: [Package] console@1.0.0 enable
+2023-04-11T10:59:39.284Z - log: [Package] extension@3.0.16 enable
+2023-04-11T10:59:39.320Z - log: [Package] hierarchy@1.0.0 enable
+2023-04-11T10:59:39.356Z - log: [Package] inspector@1.0.0 enable
+2023-04-11T10:59:39.391Z - log: [Package] lightmap@1.0.4 enable
+2023-04-11T10:59:39.430Z - log: [Package] node-library@1.0.1 enable
+2023-04-11T10:59:39.454Z - log: [Package] package-asset@1.0.0 enable
+2023-04-11T10:59:39.490Z - log: [Package] process@1.0.0 enable
+2023-04-11T10:59:39.541Z - log: [Package] reference-image@1.0.0 enable
+2023-04-11T10:59:39.551Z - verbose: [AssetDB] Require engine code (1349ms)
+2023-04-11T10:59:39.564Z - log: [Package] alipay-mini-game@1.0.0 enable
+2023-04-11T10:59:39.589Z - log: [Package] android@1.0.0 enable
+2023-04-11T10:59:39.619Z - log: [Package] baidu-mini-game@1.0.0 enable
+2023-04-11T10:59:39.651Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2023-04-11T10:59:39.680Z - log: [Package] cocos-play@1.0.0 enable
+2023-04-11T10:59:39.713Z - log: [Package] huawei-agc@1.0.0 enable
+2023-04-11T10:59:39.743Z - log: [Package] huawei-quick-game@1.0.0 enable
+2023-04-11T10:59:39.775Z - log: [Package] ios@1.0.0 enable
+2023-04-11T10:59:39.804Z - log: [Package] ios-app-clip@1.0.0 enable
+2023-04-11T10:59:39.836Z - log: [Package] link-sure@1.0.0 enable
+2023-04-11T10:59:39.868Z - log: [Package] linux@1.0.0 enable
+2023-04-11T10:59:39.898Z - log: [Package] mac@1.0.0 enable
+2023-04-11T10:59:40.019Z - log: [Package] native@1.0.0 enable
+2023-04-11T10:59:40.048Z - log: [Package] ohos@1.0.0 enable
+2023-04-11T10:59:40.079Z - log: [Package] open-harmonyos@1.0.0 enable
+2023-04-11T10:59:40.110Z - log: [Package] oppo-mini-game@1.0.0 enable
+2023-04-11T10:59:40.142Z - log: [Package] qtt@1.0.0 enable
+2023-04-11T10:59:40.173Z - log: [Package] vivo-mini-game@1.0.0 enable
+2023-04-11T10:59:40.228Z - log: [Package] web-desktop@1.0.0 enable
+2023-04-11T10:59:40.269Z - log: [Package] web-mobile@1.0.0 enable
+2023-04-11T10:59:40.309Z - log: [Package] wechatgame@1.0.1 enable
+2023-04-11T10:59:40.334Z - log: [Package] windows@1.0.0 enable
+2023-04-11T10:59:40.357Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2023-04-11T10:59:40.637Z - log: [Package] cocos-service@3.0.3 enable
+2023-04-11T10:59:40.686Z - log: [Package] importer@1.0.0 enable
+2023-04-11T10:59:40.984Z - log: [Im-plugin] Check im-plugin version.
+2023-04-11T10:59:40.997Z - log: [Package] im-plugin@3.0.8 enable
+2023-04-11T10:59:41.651Z - log: [Im-plugin] No online info of im-plugin.
+2023-04-11T10:59:44.798Z - warn: [Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating[Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating  
+at Logger.record (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.warn (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at Object.oldDataWarning (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\node.js:381:15)  
+at browserslist (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\browserslist\index.js:439:7)  
+at resolveTargets (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:168:20)  
+at getTargets (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\helper-compilation-targets\lib\index.js:213:27)  
+at getLocalTargets (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:227:48)  
+at D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-mod-lo\node_modules\@babel\preset-env\lib\index.js:288:15
+2023-04-11T10:59:45.997Z - verbose: [Scene] Require engine code (1ms)
+2023-04-11T10:59:45.998Z - verbose: [Scene] Startup engine (1ms)
+2023-04-11T10:59:46.030Z - log: [Scene] Cocos Creator v3.5.2
+2023-04-11T10:59:46.650Z - verbose: [Scene] Open engine (652ms)
+2023-04-11T10:59:46.650Z - verbose: [Scene] Configure engine (0ms)
+2023-04-11T10:59:46.145Z - info: [Scene] Forward render pipeline initialized.
+2023-04-11T11:41:06.416Z - warn: [Build] Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db[Build] Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db  
+at Object.warn (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at NewConsole.warn (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:1286)  
+at Object.oldDataWarning (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\browserslist\node.js:351:15)  
+at browserslist (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\browserslist\index.js:431:7)  
+at D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\core-js-compat\targets-parser.js:39:18  
+at D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\core-js-compat\compat.js:28:25  
+at Object.default (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\core-js-builder\index.js:35:26)
+2023-04-11T11:41:06.696Z - warn: [Build] Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating[Build] Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating  
+at Object.encode (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at Object.warn (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at NewConsole.warn (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:1286)  
+at Object.oldDataWarning (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@babel\helper-compilation-targets\node_modules\browserslist\node.js:373:15)  
+at browserslist (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@babel\helper-compilation-targets\node_modules\browserslist\index.js:432:7)  
+at resolveTargets (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@babel\helper-compilation-targets\lib\index.js:174:20)  
+at getTargets (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@babel\helper-compilation-targets\lib\index.js:214:27)  
+at resolveTargets (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@babel\core\lib\config\resolve-targets.js:58:50)
+2023-04-11T11:41:18.838Z - log: [Window] Run command : -o D:\Documents\OneDrive\桌面\其他文件夹\毕业设计\PokerBomb\bzd-game\PokerBomb-Client\build\wechatgame -f cocos
+2023-04-11T11:41:19.350Z - error: [Window] - initialize
+
+
+2023-04-11T11:41:19.390Z - error: [Window] √ IDE server has started, listening on http://127.0.0.1:58692
+
+2023-04-11T11:41:19.390Z - error: [Window] - open IDE
+
+
+2023-04-11T11:41:20.300Z - error: [Window] √ open IDE
+
+2023-04-11T11:50:03.491Z - error: getImSetting failed
+2023-04-11T12:10:33.938Z - log: [Window] Run command : -o D:\Documents\OneDrive\桌面\其他文件夹\毕业设计\PokerBomb\bzd-game\PokerBomb-Client\build\wechatgame -f cocos
+2023-04-11T12:10:34.514Z - error: [Window] - initialize
+
+
+2023-04-11T12:10:34.577Z - error: [Window] √ IDE server has started, listening on http://127.0.0.1:58692
+
+2023-04-11T12:10:34.577Z - error: [Window] - open IDE
+
+
+2023-04-11T12:10:35.246Z - error: [Window] √ open IDE
+
+2023-04-11T12:10:53.656Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:10:53.657Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:10:53.657Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:10:53.657Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:10:53.658Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:10:53.658Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:10:53.658Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:10:53.659Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:10:53.659Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:10:53.659Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:10:53.660Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:10:53.661Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:10:53.661Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:10:53.662Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:10:53.662Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:10:53.663Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:10:53.671Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:10:53.671Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:10:53.672Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:10:53.672Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:10:53.673Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:10:53.673Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:10:53.674Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:10:53.674Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:10:53.675Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:10:53.676Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:17:22.784Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:17:22.800Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:17:22.800Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:17:22.801Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:17:22.801Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:17:22.802Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:17:22.802Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:17:22.803Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:17:22.803Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:17:22.804Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:17:22.805Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:17:22.806Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:17:22.806Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:17:22.807Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:17:22.807Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:17:22.807Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:17:22.808Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:17:22.808Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:17:22.808Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:17:22.809Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:17:22.814Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:17:22.814Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:17:22.815Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:17:22.815Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:17:22.831Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:34:09.357Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:34:09.372Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:34:09.372Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:34:09.373Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:34:09.373Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:34:09.374Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:34:09.376Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:34:09.376Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:34:09.377Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:34:09.377Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:34:09.377Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:34:09.378Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T12:34:09.378Z - error: connect ETIMEDOUT 117.78.60.75:443Error: connect ETIMEDOUT 117.78.60.75:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+2023-04-11T14:04:06.420Z - warn: Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2023-04-11T14:07:34.511Z - log: [Window] Run command : -o D:\Documents\OneDrive\桌面\其他文件夹\毕业设计\PokerBomb\bzd-game\PokerBomb-Client\build\wechatgame -f cocos
+2023-04-11T14:07:34.896Z - error: [Window] - initialize
+
+
+2023-04-11T14:07:34.943Z - error: [Window] √ IDE server has started, listening on http://127.0.0.1:58692
+
+2023-04-11T14:07:34.943Z - error: [Window] - open IDE
+
+
+2023-04-11T14:07:35.485Z - error: [Window] √ open IDE
+
+2023-04-11T14:08:20.784Z - log: [Window] 缓存项目数据清理成功
+2023-04-11T14:08:20.787Z - log: [Window] 缓存项目数据清理成功: {link(C:\Users\86147\AppData\Local\Temp\CocosCreator\3.5.2\builder)}
+2023-04-11T14:12:06.338Z - log: [Window] Run command : -o D:\Documents\OneDrive\桌面\其他文件夹\毕业设计\PokerBomb\bzd-game\PokerBomb-Client\build\wechatgame -f cocos
+2023-04-11T14:12:06.699Z - error: [Window] - initialize
+
+
+2023-04-11T14:12:06.741Z - error: [Window] √ IDE server has started, listening on http://127.0.0.1:58692
+
+2023-04-11T14:12:06.741Z - error: [Window] - open IDE
+
+
+2023-04-11T14:12:07.406Z - error: [Window] √ open IDE
+
+2023-04-11T14:12:17.459Z - log: [Window] Run command : -o D:\Documents\OneDrive\桌面\其他文件夹\毕业设计\PokerBomb\bzd-game\PokerBomb-Client\build\wechatgame -f cocos
+2023-04-11T14:12:17.807Z - error: [Window] - initialize
+
+
+2023-04-11T14:12:17.847Z - error: [Window] √ IDE server has started, listening on http://127.0.0.1:58692
+
+2023-04-11T14:12:17.847Z - error: [Window] - open IDE
+
+
+2023-04-11T14:12:18.370Z - error: [Window] √ open IDE
+
+2023-04-11T14:47:02.145Z - error: [Programming] 无法加载模块 file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/loginScene/LoginScene.ts ：SyntaxError: D:\Program Files (x86)\CocosDashboard_1.2.5\file:\D:\Documents\OneDrive\%E6%A1%8C%E9%9D%A2\%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9\%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1\PokerBomb\bzd-game\PokerBomb-Client\assets\Script\loginScene\LoginScene.ts: Unexpected token, expected "," (69:24)
+
+  67 |                             'content-type':'application/x-www-form-urlencoded'
+  68 |                         }
+> 69 |                         data:{
+     |                         ^
+  70 |                             code: res.code,
+  71 |                             nickName: userInfo.nickName,
+  72 |                             avatarUrl: userInfo.avatarUrl.[Programming] 无法加载模块 file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/loginScene/LoginScene.ts ：SyntaxError: D:\Program Files (x86)\CocosDashboard_1.2.5\file:\D:\Documents\OneDrive\%E6%A1%8C%E9%9D%A2\%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9\%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1\PokerBomb\bzd-game\PokerBomb-Client\assets\Script\loginScene\LoginScene.ts: Unexpected token, expected "," (69:24)
+
+  67 |                             'content-type':'application/x-www-form-urlencoded'
+  68 |                         }
+> 69 |                         data:{
+     |                         ^
+  70 |                             code: res.code,
+  71 |                             nickName: userInfo.nickName,
+  72 |                             avatarUrl: userInfo.avatarUrl.  
+|                         ^  
+70 |                             code: res.code,  
+71 |                             nickName: userInfo.nickName,  
+72 |                             avatarUrl: userInfo.avatarUrl.  
+at Object.encode (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.error (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\programming\dist\packer-driver\packer-driver.ccc:1:14689)  
+at QuickPack._inspect (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:134:13)  
+at async D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:219:35  
+at async D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-common\lib\launch-policy.js:9:30
+2023-04-11T14:47:02.221Z - warn: [Scene] Missing class: a9524VmvSFBXafq4DX53DPrError: [Scene] Missing class: a9524VmvSFBXafq4DX53DPr
+    at Object.classFinder (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (D:\ProgramData\cocos\editors\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:89113:32)
+    at _Deserializer._deserializeTypeTaggedObject (D:\ProgramData\cocos\editors\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)
+    at _Deserializer._deserializeObject (D:\ProgramData\cocos\editors\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)
+    at _Deserializer._deserializeAndAssignField (D:\ProgramData\cocos\editors\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)
+    at _Deserializer._deserializeArray (D:\ProgramData\cocos\editors\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+    at _Deserializer._deserializeObject (D:\ProgramData\cocos\editors\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110187:23)
+2023-04-11T14:47:02.226Z - error: [Scene] Script "a9524VmvSFBXafq4DX53DPr" attached to "Canvas" is missing or invalid. Detailed information:
+Node path: "Canvas"
+Script UUID: "a9524566-bd21-415d-a7ea-e035f9dc33eb"
+Class ID: "a9524VmvSFBXafq4DX53DPr"
+Error: [Scene] Script "a9524VmvSFBXafq4DX53DPr" attached to "Canvas" is missing or invalid. Detailed information:
+Node path: "Canvas"
+Script UUID: "a9524566-bd21-415d-a7ea-e035f9dc33eb"
+Class ID: "a9524VmvSFBXafq4DX53DPr"
+
+    at report (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)
+    at reportByWalker (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)
+    at D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:306)
+    at doWalkProperties (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2143)
+2023-04-11T14:47:02.252Z - error: [Programming] 无法加载模块 file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/loginScene/LoginScene.ts ：SyntaxError: D:\Program Files (x86)\CocosDashboard_1.2.5\file:\D:\Documents\OneDrive\%E6%A1%8C%E9%9D%A2\%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9\%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1\PokerBomb\bzd-game\PokerBomb-Client\assets\Script\loginScene\LoginScene.ts: Unexpected token, expected "," (69:24)
+
+  67 |                             'content-type':'application/x-www-form-urlencoded'
+  68 |                         }
+> 69 |                         data:{
+     |                         ^
+  70 |                             code: res.code,
+  71 |                             nickName: userInfo.nickName,
+  72 |                             avatarUrl: userInfo.avatarUrl.[Programming] 无法加载模块 file:///D:/Documents/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/PokerBomb/bzd-game/PokerBomb-Client/assets/Script/loginScene/LoginScene.ts ：SyntaxError: D:\Program Files (x86)\CocosDashboard_1.2.5\file:\D:\Documents\OneDrive\%E6%A1%8C%E9%9D%A2\%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9\%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1\PokerBomb\bzd-game\PokerBomb-Client\assets\Script\loginScene\LoginScene.ts: Unexpected token, expected "," (69:24)
+
+  67 |                             'content-type':'application/x-www-form-urlencoded'
+  68 |                         }
+> 69 |                         data:{
+     |                         ^
+  70 |                             code: res.code,
+  71 |                             nickName: userInfo.nickName,
+  72 |                             avatarUrl: userInfo.avatarUrl.  
+|                         ^  
+70 |                             code: res.code,  
+71 |                             nickName: userInfo.nickName,  
+72 |                             avatarUrl: userInfo.avatarUrl.  
+at Object.encode (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at console.error (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\programming\dist\packer-driver\packer-driver.ccc:1:14689)  
+at QuickPack._inspect (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:134:13)  
+at async D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-quick-pack\lib\quick-pack.js:219:35  
+at async D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@cocos\creator-programming-common\lib\launch-policy.js:9:30
+2023-04-11T14:47:05.636Z - warn: [Build] Missing class: a9524VmvSFBXafq4DX53DPr[Build] Missing class: a9524VmvSFBXafq4DX53DPr  
+at NewConsole.warn (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:1286)  
+at _Deserializer.classFinder [as _classFinder] (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)  
+at _Deserializer._deserializeTypeTaggedObject (D:\ProgramData\cocos\editors\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)  
+at _Deserializer._deserializeObject (D:\ProgramData\cocos\editors\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)  
+at _Deserializer._deserializeAndAssignField (D:\ProgramData\cocos\editors\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)  
+at _Deserializer._deserializeArray (D:\ProgramData\cocos\editors\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+2023-04-11T14:47:05.701Z - error: [Build] Script "a9524VmvSFBXafq4DX53DPr" attached to "Canvas" in scene "LoginScene" is missing or invalid. Detailed information:
+Node path: "Canvas"
+Asset url: "db://assets/Scenes/LoginScene"
+Script UUID: "a9524566-bd21-415d-a7ea-e035f9dc33eb"
+Class ID: "a9524VmvSFBXafq4DX53DPr"
+[Build] Script "a9524VmvSFBXafq4DX53DPr" attached to "Canvas" in scene "LoginScene" is missing or invalid. Detailed information:
+Node path: "Canvas"
+Asset url: "db://assets/Scenes/LoginScene"
+Script UUID: "a9524566-bd21-415d-a7ea-e035f9dc33eb"
+Class ID: "a9524VmvSFBXafq4DX53DPr"
+  
+  
+at Object.encode (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at Object.error (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at NewConsole.error (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:1180)  
+at report (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)  
+at reportByWalker (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)  
+at D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979  
+at ObjectWalkerBehavior.walk (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)  
+at ObjectWalkerBehavior.forEach (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+2023-04-11T14:47:12.015Z - error: [Build] Cannot assign to read only property 'message' of object 'SyntaxError: D:\Program Files (x86)\CocosDashboard_1.2.5\file:\D:\Documents\OneDrive\%E6%A1%8C%E9%9D%A2\%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9\%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1\PokerBomb\bzd-game\PokerBomb-Client\assets\Script\loginScene\LoginScene.ts: Unexpected token, expected "," (69:24)
+
+  67 |                             'content-type':'application/x-www-form-urlencoded'
+  68 |                         }
+> 69 |                         data:{
+     |                         ^
+  70 |                             code: res.code,
+  71 |                             nickName: userInfo.nickName,
+  72 |                             avatarUrl: userInfo.avatarUrl'TypeError: Cannot assign to read only property 'message' of object 'SyntaxError: D:\Program Files (x86)\CocosDashboard_1.2.5\file:\D:\Documents\OneDrive\%E6%A1%8C%E9%9D%A2\%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9\%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1\PokerBomb\bzd-game\PokerBomb-Client\assets\Script\loginScene\LoginScene.ts: Unexpected token, expected "," (69:24)
+
+  67 |                             'content-type':'application/x-www-form-urlencoded'
+  68 |                         }
+> 69 |                         data:{
+     |                         ^
+  70 |                             code: res.code,
+  71 |                             nickName: userInfo.nickName,
+  72 |                             avatarUrl: userInfo.avatarUrl'
+    at ModuleLoader.addModuleSource (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\rollup\dist\shared\rollup.js:18434:25)
+    at async ModuleLoader.fetchModule (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\rollup\dist\shared\rollup.js:18511:9)
+    at async Promise.all (index 11)
+2023-04-11T14:47:12.023Z - error: [Build] Cannot assign to read only property 'message' of object 'SyntaxError: D:\Program Files (x86)\CocosDashboard_1.2.5\file:\D:\Documents\OneDrive\%E6%A1%8C%E9%9D%A2\%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9\%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1\PokerBomb\bzd-game\PokerBomb-Client\assets\Script\loginScene\LoginScene.ts: Unexpected token, expected "," (69:24)
+
+  67 |                             'content-type':'application/x-www-form-urlencoded'
+  68 |                         }
+> 69 |                         data:{
+     |                         ^
+  70 |                             code: res.code,
+  71 |                             nickName: userInfo.nickName,
+  72 |                             avatarUrl: userInfo.avatarUrl'TypeError: Cannot assign to read only property 'message' of object 'SyntaxError: D:\Program Files (x86)\CocosDashboard_1.2.5\file:\D:\Documents\OneDrive\%E6%A1%8C%E9%9D%A2\%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9\%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1\PokerBomb\bzd-game\PokerBomb-Client\assets\Script\loginScene\LoginScene.ts: Unexpected token, expected "," (69:24)
+
+  67 |                             'content-type':'application/x-www-form-urlencoded'
+  68 |                         }
+> 69 |                         data:{
+     |                         ^
+  70 |                             code: res.code,
+  71 |                             nickName: userInfo.nickName,
+  72 |                             avatarUrl: userInfo.avatarUrl'
+    at ModuleLoader.addModuleSource (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\rollup\dist\shared\rollup.js:18434:25)
+    at async ModuleLoader.fetchModule (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\rollup\dist\shared\rollup.js:18511:9)
+    at async Promise.all (index 11)
+2023-04-11T14:48:08.117Z - warn: [Build] Missing class: a9524VmvSFBXafq4DX53DPr[Build] Missing class: a9524VmvSFBXafq4DX53DPr  
+at NewConsole.warn (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:1286)  
+at _Deserializer.classFinder [as _classFinder] (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:2218)  
+at _Deserializer._deserializeTypeTaggedObject (D:\ProgramData\cocos\editors\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110240:24)  
+at _Deserializer._deserializeObject (D:\ProgramData\cocos\editors\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110181:23)  
+at _Deserializer._deserializeAndAssignField (D:\ProgramData\cocos\editors\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110390:32)  
+at _Deserializer._deserializeArray (D:\ProgramData\cocos\editors\3.5.2\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:110215:34)
+2023-04-11T14:48:08.120Z - error: [Build] Script "a9524VmvSFBXafq4DX53DPr" attached to "Canvas" in scene "LoginScene" is missing or invalid. Detailed information:
+Node path: "Canvas"
+Asset url: "db://assets/Scenes/LoginScene"
+Script UUID: "a9524566-bd21-415d-a7ea-e035f9dc33eb"
+Class ID: "a9524VmvSFBXafq4DX53DPr"
+[Build] Script "a9524VmvSFBXafq4DX53DPr" attached to "Canvas" in scene "LoginScene" is missing or invalid. Detailed information:
+Node path: "Canvas"
+Asset url: "db://assets/Scenes/LoginScene"
+Script UUID: "a9524566-bd21-415d-a7ea-e035f9dc33eb"
+Class ID: "a9524VmvSFBXafq4DX53DPr"
+  
+  
+at Object.encode (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at Object.error (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at NewConsole.error (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:1180)  
+at report (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1187)  
+at reportByWalker (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1283)  
+at D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-class-reporter.ccc:1:1979  
+at ObjectWalkerBehavior.walk (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:2348)  
+at ObjectWalkerBehavior.forEach (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\object-walker.ccc:1:812)
+2023-04-11T14:48:13.833Z - error: [Build] Cannot assign to read only property 'message' of object 'SyntaxError: D:\Program Files (x86)\CocosDashboard_1.2.5\file:\D:\Documents\OneDrive\%E6%A1%8C%E9%9D%A2\%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9\%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1\PokerBomb\bzd-game\PokerBomb-Client\assets\Script\loginScene\LoginScene.ts: Unexpected token, expected "," (69:24)
+
+  67 |                             'content-type':'application/x-www-form-urlencoded'
+  68 |                         }
+> 69 |                         data:{
+     |                         ^
+  70 |                             code: res.code,
+  71 |                             nickName: userInfo.nickName,
+  72 |                             avatarUrl: userInfo.avatarUrl'TypeError: Cannot assign to read only property 'message' of object 'SyntaxError: D:\Program Files (x86)\CocosDashboard_1.2.5\file:\D:\Documents\OneDrive\%E6%A1%8C%E9%9D%A2\%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9\%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1\PokerBomb\bzd-game\PokerBomb-Client\assets\Script\loginScene\LoginScene.ts: Unexpected token, expected "," (69:24)
+
+  67 |                             'content-type':'application/x-www-form-urlencoded'
+  68 |                         }
+> 69 |                         data:{
+     |                         ^
+  70 |                             code: res.code,
+  71 |                             nickName: userInfo.nickName,
+  72 |                             avatarUrl: userInfo.avatarUrl'
+    at ModuleLoader.addModuleSource (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\rollup\dist\shared\rollup.js:18434:25)
+    at async ModuleLoader.fetchModule (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\rollup\dist\shared\rollup.js:18511:9)
+    at async Promise.all (index 11)
+2023-04-11T14:48:13.834Z - error: [Build] Cannot assign to read only property 'message' of object 'SyntaxError: D:\Program Files (x86)\CocosDashboard_1.2.5\file:\D:\Documents\OneDrive\%E6%A1%8C%E9%9D%A2\%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9\%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1\PokerBomb\bzd-game\PokerBomb-Client\assets\Script\loginScene\LoginScene.ts: Unexpected token, expected "," (69:24)
+
+  67 |                             'content-type':'application/x-www-form-urlencoded'
+  68 |                         }
+> 69 |                         data:{
+     |                         ^
+  70 |                             code: res.code,
+  71 |                             nickName: userInfo.nickName,
+  72 |                             avatarUrl: userInfo.avatarUrl'TypeError: Cannot assign to read only property 'message' of object 'SyntaxError: D:\Program Files (x86)\CocosDashboard_1.2.5\file:\D:\Documents\OneDrive\%E6%A1%8C%E9%9D%A2\%E5%85%B6%E4%BB%96%E6%96%87%E4%BB%B6%E5%A4%B9\%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1\PokerBomb\bzd-game\PokerBomb-Client\assets\Script\loginScene\LoginScene.ts: Unexpected token, expected "," (69:24)
+
+  67 |                             'content-type':'application/x-www-form-urlencoded'
+  68 |                         }
+> 69 |                         data:{
+     |                         ^
+  70 |                             code: res.code,
+  71 |                             nickName: userInfo.nickName,
+  72 |                             avatarUrl: userInfo.avatarUrl'
+    at ModuleLoader.addModuleSource (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\rollup\dist\shared\rollup.js:18434:25)
+    at async ModuleLoader.fetchModule (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\node_modules\rollup\dist\shared\rollup.js:18511:9)
+    at async Promise.all (index 11)
+2023-04-11T15:31:23.118Z - warn: [Build] Preview in build may make some errors[Build] Preview in build may make some errors  
+at NewConsole.warn (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:1286)  
+at BuilderAssetCache.init (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\builder\dist\worker\builder\manager\asset.ccc:1:470)  
+at BuildTask.init (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\builder\dist\worker\builder\index.ccc:1:2120)  
+at async BuildTask.getPreviewSettings (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\builder\dist\worker\builder\index.ccc:1:4185)  
+at async Ipc.<anonymous> (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\builder\dist\worker\index.ccc:1:6326)
+2023-04-11T16:11:36.133Z - warn: [Build] Preview in build may make some errors[Build] Preview in build may make some errors  
+at NewConsole.warn (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:1286)  
+at BuilderAssetCache.init (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\builder\dist\worker\builder\manager\asset.ccc:1:470)  
+at BuildTask.init (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\builder\dist\worker\builder\index.ccc:1:2120)  
+at async BuildTask.getPreviewSettings (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\builder\dist\worker\builder\index.ccc:1:4185)  
+at async Ipc.<anonymous> (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\builder\dist\worker\index.ccc:1:6326)
+2023-04-11T16:12:16.101Z - log: [Window] Run command : -o D:\Documents\OneDrive\桌面\其他文件夹\毕业设计\PokerBomb\bzd-game\PokerBomb-Client\build\wechatgame -f cocos
+2023-04-11T16:12:16.506Z - error: [Window] - initialize
+
+
+2023-04-11T16:12:16.558Z - error: [Window] √ IDE server has started, listening on http://127.0.0.1:58692
+
+2023-04-11T16:12:16.559Z - error: [Window] - open IDE
+
+
+2023-04-11T16:12:17.278Z - error: [Window] √ open IDE
+
+2023-04-11T16:37:56.141Z - warn: [Build] Preview in build may make some errors[Build] Preview in build may make some errors  
+at NewConsole.warn (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:1286)  
+at BuilderAssetCache.init (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\builder\dist\worker\builder\manager\asset.ccc:1:470)  
+at BuildTask.init (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\builder\dist\worker\builder\index.ccc:1:2120)  
+at async BuildTask.getPreviewSettings (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\builder\dist\worker\builder\index.ccc:1:4185)  
+at async Ipc.<anonymous> (D:\ProgramData\cocos\editors\3.5.2\resources\app.asar\builtin\builder\dist\worker\index.ccc:1:6326)
+2023-04-11T16:42:04.327Z - warn: Metrics: no valid info

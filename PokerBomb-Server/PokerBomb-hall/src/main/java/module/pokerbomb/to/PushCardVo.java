@@ -14,7 +14,7 @@ public class PushCardVo {
 
     private Integer preSeat = 0;  //前一个位置
 
-    private List<Integer> preUserCards; //玩家出玩牌后剩余牌张信息
+    private List<Integer> preUserCards; //玩家出完牌后剩余牌张信息
 
     private String preStatus = "";
 

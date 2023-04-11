@@ -11,11 +11,11 @@
   },
   "BuildTaskManager": {
     "taskMap": {
-      "1680604952912": {
-        "id": "1680604952912",
+      "1681222171541": {
+        "id": "1681222171541",
         "progress": 1,
         "state": "success",
-        "message": "2023-4-7 22:21 Build success in 13422 ms!",
+        "message": "2023-4-12 00:38 Build success in 14133 ms!",
         "options": {
           "name": "PokerBomb",
           "platform": "wechatgame",
@@ -58,14 +58,14 @@
             "wechatgame": {
               "startSceneAssetBundle": false,
               "orientation": "landscapeRight",
-              "appid": "wx574d838380877b75",
+              "appid": "wxf4e7ac548edcbaa7",
               "separateEngine": false,
               "wasm": "wasm",
               "enabelWebGL2": "off"
             }
           }
         },
-        "time": "2023-4-7 22:21",
+        "time": "2023-4-12 00:37",
         "dirty": false
       }
     }

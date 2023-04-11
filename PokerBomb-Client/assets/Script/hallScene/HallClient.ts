@@ -19,7 +19,7 @@ export class HallClient extends Component {
     }
 
     private _connectServer(){
-        const ws = new WebSocket(`ws:${window.location.hostname}:9091/websocket/hall/${globalThis._userInfo.user_id}`);
+        const ws = new WebSocket(`ws://${window.location.hostname}:9091/websocket/hall/${globalThis._userInfo.user_id}`);
         this._ws = ws;
         ws.onopen = ()=>{
             console.log("连接大厅服务器成功");

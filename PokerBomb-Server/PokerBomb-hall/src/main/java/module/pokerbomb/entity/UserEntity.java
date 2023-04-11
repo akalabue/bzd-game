@@ -12,9 +12,11 @@ public class UserEntity {
     @TableId
     private Integer userId;
 
-    private String userName;
+    private String nickName;
 
-    private String userHeadUrl;
+    private String avatarUrl;
+
+    private String openid;
 
     private Integer userRoomCards;
 

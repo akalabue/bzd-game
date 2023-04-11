@@ -30,18 +30,19 @@ export class HallSceneMgt extends Component {
     public init(){
         globalThis._eventtarget.on("createRoom", this.onCreateRoom, this);
         globalThis._eventtarget.on("joinRoom", this.onJoinRoom, this);
-        // this.idLabel.string = 'ID:' + globalThis._userInfo.user_id;
-        // this.nameLabel.string = globalThis._userInfo.user_name;
+        this.idLabel.string = 'ID:' + globalThis._userInfo.user_id;
+        this.nameLabel.string = globalThis._userInfo.user_name;
 
-        this.nameLabel.string = globalThis.vxUserInfo.nickName;
-        let iconSp = this.iconImg.getComponent(Sprite);
-        assetManager.loadRemote<ImageAsset>(globalThis.vxUserInfo.avatarUrl, {ext: '.png'}, function (err, imageAsset) {
+        console.log("1aa",globalThis._userInfo.user_id,globalThis._userInfo.user_name)
+        if(globalThis._userInfo.user_head_url != null){
+            let iconSp = this.iconImg.getComponent(Sprite);
+            assetManager.loadRemote<ImageAsset>(globalThis._userInfo.user_head_url, {ext: '.png'}, function (err, imageAsset) {
             const spriteFrame = new SpriteFrame();
             const texture = new Texture2D();
             texture.image = imageAsset;
             spriteFrame.texture = texture;
             iconSp.spriteFrame = spriteFrame;
-        });
+        });}
     }
 
     //创建房间按钮点击的逻辑
