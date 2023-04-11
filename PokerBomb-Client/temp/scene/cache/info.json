@@ -1,0 +1,11 @@
+{
+    "systemInfo": {
+        "arch": "x64",
+        "cpu": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz",
+        "version": "Windows 10 Home China"
+    },
+    "sceneListMap": {
+        "651e8837-0467-49d9-aecc-1295488f4b29": "D:\\Documents\\OneDrive\\桌面\\其他文件夹\\毕业设计\\PokerBomb\\bzd-game\\PokerBomb-Client\\assets\\Scenes\\LoginScene.scene"
+    },
+    "deviceMd5": "bbea33daa95e285bd6174c685086d0ec"
+}

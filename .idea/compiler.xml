@@ -7,11 +7,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="PokerBomb-login" />
+        <module name="PokerBomb-hall" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="PokerBomb-hall" target="8" />
+      <module name="PokerBomb-hall" target="1.8" />
+      <module name="PokerBombServer" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PokerBomb-Server/PokerBomb-hall/PokerBomb-hall.iml" filepath="$PROJECT_DIR$/PokerBomb-Server/PokerBomb-hall/PokerBomb-hall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PokerBomb-Server/PokerBombServer.iml" filepath="$PROJECT_DIR$/PokerBomb-Server/PokerBombServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bzd-game.iml" filepath="$PROJECT_DIR$/.idea/bzd-game.iml" />
+    </modules>
+  </component>
+</project>
